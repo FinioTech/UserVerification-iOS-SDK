@@ -18,14 +18,14 @@ Pod::Spec.new do |s|
     s.swift_version = "5.0"
     s.ios.vendored_frameworks = "UserVerification.xcframework"
     
-    s.frameworks   = 'Foundation'
-    s.frameworks   = 'UIKit'
-    s.frameworks   = 'AVFoundation'
-    s.libraries    = 'c++', 'z'
+    s.frameworks   = "Foundation"
+    s.frameworks   = "UIKit"
+    s.frameworks   = "AVFoundation"
+    s.libraries    = "c++", "z"
 
-    s.dependency 'GoogleMLKit/ObjectDetection', '3.2.0'
-    s.dependency 'GoogleMLKit/FaceDetection', '3.2.0'
-    s.dependency 'GoogleMLKit/TextRecognition', '3.2.0'
+    s.dependency "GoogleMLKit/ObjectDetection", "3.2.0"
+    s.dependency "GoogleMLKit/FaceDetection", "3.2.0"
+    s.dependency "GoogleMLKit/TextRecognition", "3.2.0"
 
     s.xcconfig = { "HEADER_SEARCH_PATHS" => "$(inherited)" }
 
