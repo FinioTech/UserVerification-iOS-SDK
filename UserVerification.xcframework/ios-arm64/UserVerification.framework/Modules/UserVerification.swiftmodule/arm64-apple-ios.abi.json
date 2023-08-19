@@ -1730,384 +1730,384 @@
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/idverification-library-ios\/UserVerification\/constant\/Constants.swift",
       "kind": "BooleanLiteral",
       "offset": 143,
-      "length": 4,
-      "value": "true"
+      "length": 5,
+      "value": "false"
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/idverification-library-ios\/UserVerification\/constant\/Constants.swift",
       "kind": "StringLiteral",
-      "offset": 175,
+      "offset": 176,
       "length": 7,
       "value": "\"1.0.6\""
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/idverification-library-ios\/UserVerification\/constant\/Constants.swift",
       "kind": "StringLiteral",
-      "offset": 241,
+      "offset": 242,
       "length": 3,
       "value": "\" \""
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/idverification-library-ios\/UserVerification\/constant\/Constants.swift",
       "kind": "StringLiteral",
-      "offset": 267,
+      "offset": 268,
       "length": 4,
       "value": "\"\n\""
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/idverification-library-ios\/UserVerification\/constant\/Constants.swift",
       "kind": "IntegerLiteral",
-      "offset": 444,
+      "offset": 445,
       "length": 1,
       "value": "5"
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/idverification-library-ios\/UserVerification\/constant\/Constants.swift",
       "kind": "IntegerLiteral",
-      "offset": 472,
+      "offset": 473,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/idverification-library-ios\/UserVerification\/constant\/Constants.swift",
       "kind": "IntegerLiteral",
-      "offset": 500,
+      "offset": 501,
       "length": 1,
       "value": "5"
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/idverification-library-ios\/UserVerification\/constant\/Constants.swift",
       "kind": "IntegerLiteral",
-      "offset": 538,
+      "offset": 539,
       "length": 1,
       "value": "3"
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/idverification-library-ios\/UserVerification\/constant\/Constants.swift",
       "kind": "IntegerLiteral",
-      "offset": 576,
+      "offset": 577,
       "length": 1,
       "value": "3"
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/idverification-library-ios\/UserVerification\/constant\/Constants.swift",
       "kind": "IntegerLiteral",
-      "offset": 608,
+      "offset": 609,
       "length": 2,
       "value": "25"
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/idverification-library-ios\/UserVerification\/constant\/Constants.swift",
       "kind": "IntegerLiteral",
-      "offset": 729,
+      "offset": 730,
       "length": 2,
       "value": "12"
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/idverification-library-ios\/UserVerification\/constant\/Constants.swift",
       "kind": "IntegerLiteral",
-      "offset": 754,
+      "offset": 755,
       "length": 1,
       "value": "8"
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/idverification-library-ios\/UserVerification\/constant\/Constants.swift",
       "kind": "IntegerLiteral",
-      "offset": 779,
+      "offset": 780,
       "length": 2,
       "value": "-8"
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/idverification-library-ios\/UserVerification\/constant\/Constants.swift",
       "kind": "IntegerLiteral",
-      "offset": 799,
+      "offset": 800,
       "length": 3,
       "value": "-12"
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/idverification-library-ios\/UserVerification\/constant\/Constants.swift",
       "kind": "IntegerLiteral",
-      "offset": 729,
+      "offset": 730,
       "length": 2,
       "value": "12"
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/idverification-library-ios\/UserVerification\/constant\/Constants.swift",
       "kind": "IntegerLiteral",
-      "offset": 754,
+      "offset": 755,
       "length": 1,
       "value": "8"
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/idverification-library-ios\/UserVerification\/constant\/Constants.swift",
       "kind": "IntegerLiteral",
-      "offset": 779,
+      "offset": 780,
       "length": 1,
       "value": "-8"
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/idverification-library-ios\/UserVerification\/constant\/Constants.swift",
       "kind": "IntegerLiteral",
-      "offset": 799,
+      "offset": 800,
       "length": 1,
       "value": "-12"
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/idverification-library-ios\/UserVerification\/constant\/Constants.swift",
       "kind": "IntegerLiteral",
-      "offset": 729,
+      "offset": 730,
       "length": 2,
       "value": "12"
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/idverification-library-ios\/UserVerification\/constant\/Constants.swift",
       "kind": "IntegerLiteral",
-      "offset": 754,
+      "offset": 755,
       "length": 1,
       "value": "8"
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/idverification-library-ios\/UserVerification\/constant\/Constants.swift",
       "kind": "IntegerLiteral",
-      "offset": 779,
+      "offset": 780,
       "length": 1,
       "value": "-8"
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/idverification-library-ios\/UserVerification\/constant\/Constants.swift",
       "kind": "IntegerLiteral",
-      "offset": 799,
+      "offset": 800,
       "length": 1,
       "value": "-12"
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/idverification-library-ios\/UserVerification\/constant\/Constants.swift",
       "kind": "IntegerLiteral",
-      "offset": 1267,
+      "offset": 880,
       "length": 4,
       "value": "2000"
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/idverification-library-ios\/UserVerification\/constant\/Constants.swift",
       "kind": "IntegerLiteral",
-      "offset": 1307,
+      "offset": 920,
       "length": 4,
       "value": "2001"
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/idverification-library-ios\/UserVerification\/constant\/Constants.swift",
       "kind": "IntegerLiteral",
-      "offset": 1340,
+      "offset": 953,
       "length": 4,
       "value": "2002"
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/idverification-library-ios\/UserVerification\/constant\/Constants.swift",
       "kind": "IntegerLiteral",
-      "offset": 1387,
+      "offset": 1000,
       "length": 4,
       "value": "2003"
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/idverification-library-ios\/UserVerification\/constant\/Constants.swift",
       "kind": "IntegerLiteral",
-      "offset": 1430,
+      "offset": 1043,
       "length": 4,
       "value": "2004"
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/idverification-library-ios\/UserVerification\/constant\/Constants.swift",
       "kind": "IntegerLiteral",
-      "offset": 1476,
+      "offset": 1089,
       "length": 4,
       "value": "2005"
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/idverification-library-ios\/UserVerification\/constant\/Constants.swift",
       "kind": "IntegerLiteral",
-      "offset": 1521,
+      "offset": 1134,
       "length": 4,
       "value": "2006"
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/idverification-library-ios\/UserVerification\/constant\/Constants.swift",
       "kind": "IntegerLiteral",
-      "offset": 1563,
+      "offset": 1176,
       "length": 4,
       "value": "2007"
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/idverification-library-ios\/UserVerification\/constant\/Constants.swift",
       "kind": "IntegerLiteral",
-      "offset": 1599,
+      "offset": 1212,
       "length": 4,
       "value": "2008"
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/idverification-library-ios\/UserVerification\/constant\/Constants.swift",
       "kind": "IntegerLiteral",
-      "offset": 1642,
+      "offset": 1255,
       "length": 4,
       "value": "2009"
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/idverification-library-ios\/UserVerification\/constant\/Constants.swift",
       "kind": "IntegerLiteral",
-      "offset": 1685,
+      "offset": 1298,
       "length": 4,
       "value": "2010"
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/idverification-library-ios\/UserVerification\/constant\/Constants.swift",
       "kind": "IntegerLiteral",
-      "offset": 1267,
+      "offset": 880,
       "length": 4,
       "value": "2000"
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/idverification-library-ios\/UserVerification\/constant\/Constants.swift",
       "kind": "IntegerLiteral",
-      "offset": 1307,
+      "offset": 920,
       "length": 4,
       "value": "2001"
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/idverification-library-ios\/UserVerification\/constant\/Constants.swift",
       "kind": "IntegerLiteral",
-      "offset": 1340,
+      "offset": 953,
       "length": 4,
       "value": "2002"
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/idverification-library-ios\/UserVerification\/constant\/Constants.swift",
       "kind": "IntegerLiteral",
-      "offset": 1387,
+      "offset": 1000,
       "length": 4,
       "value": "2003"
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/idverification-library-ios\/UserVerification\/constant\/Constants.swift",
       "kind": "IntegerLiteral",
-      "offset": 1430,
+      "offset": 1043,
       "length": 4,
       "value": "2004"
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/idverification-library-ios\/UserVerification\/constant\/Constants.swift",
       "kind": "IntegerLiteral",
-      "offset": 1476,
+      "offset": 1089,
       "length": 4,
       "value": "2005"
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/idverification-library-ios\/UserVerification\/constant\/Constants.swift",
       "kind": "IntegerLiteral",
-      "offset": 1521,
+      "offset": 1134,
       "length": 4,
       "value": "2006"
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/idverification-library-ios\/UserVerification\/constant\/Constants.swift",
       "kind": "IntegerLiteral",
-      "offset": 1563,
+      "offset": 1176,
       "length": 4,
       "value": "2007"
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/idverification-library-ios\/UserVerification\/constant\/Constants.swift",
       "kind": "IntegerLiteral",
-      "offset": 1599,
+      "offset": 1212,
       "length": 4,
       "value": "2008"
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/idverification-library-ios\/UserVerification\/constant\/Constants.swift",
       "kind": "IntegerLiteral",
-      "offset": 1642,
+      "offset": 1255,
       "length": 4,
       "value": "2009"
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/idverification-library-ios\/UserVerification\/constant\/Constants.swift",
       "kind": "IntegerLiteral",
-      "offset": 1685,
+      "offset": 1298,
       "length": 4,
       "value": "2010"
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/idverification-library-ios\/UserVerification\/constant\/Constants.swift",
       "kind": "IntegerLiteral",
-      "offset": 1267,
+      "offset": 880,
       "length": 4,
       "value": "2000"
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/idverification-library-ios\/UserVerification\/constant\/Constants.swift",
       "kind": "IntegerLiteral",
-      "offset": 1307,
+      "offset": 920,
       "length": 4,
       "value": "2001"
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/idverification-library-ios\/UserVerification\/constant\/Constants.swift",
       "kind": "IntegerLiteral",
-      "offset": 1340,
+      "offset": 953,
       "length": 4,
       "value": "2002"
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/idverification-library-ios\/UserVerification\/constant\/Constants.swift",
       "kind": "IntegerLiteral",
-      "offset": 1387,
+      "offset": 1000,
       "length": 4,
       "value": "2003"
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/idverification-library-ios\/UserVerification\/constant\/Constants.swift",
       "kind": "IntegerLiteral",
-      "offset": 1430,
+      "offset": 1043,
       "length": 4,
       "value": "2004"
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/idverification-library-ios\/UserVerification\/constant\/Constants.swift",
       "kind": "IntegerLiteral",
-      "offset": 1476,
+      "offset": 1089,
       "length": 4,
       "value": "2005"
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/idverification-library-ios\/UserVerification\/constant\/Constants.swift",
       "kind": "IntegerLiteral",
-      "offset": 1521,
+      "offset": 1134,
       "length": 4,
       "value": "2006"
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/idverification-library-ios\/UserVerification\/constant\/Constants.swift",
       "kind": "IntegerLiteral",
-      "offset": 1563,
+      "offset": 1176,
       "length": 4,
       "value": "2007"
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/idverification-library-ios\/UserVerification\/constant\/Constants.swift",
       "kind": "IntegerLiteral",
-      "offset": 1599,
+      "offset": 1212,
       "length": 4,
       "value": "2008"
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/idverification-library-ios\/UserVerification\/constant\/Constants.swift",
       "kind": "IntegerLiteral",
-      "offset": 1642,
+      "offset": 1255,
       "length": 4,
       "value": "2009"
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/idverification-library-ios\/UserVerification\/constant\/Constants.swift",
       "kind": "IntegerLiteral",
-      "offset": 1685,
+      "offset": 1298,
       "length": 4,
       "value": "2010"
     },
@@ -2779,378 +2779,483 @@
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/idverification-library-ios\/UserVerification\/core\/VerifyFace.swift",
       "kind": "StringLiteral",
-      "offset": 1558,
+      "offset": 1560,
       "length": 44,
       "value": "\"com.pickmyid.UVkit.SessionQueue.VerifyFace\""
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/idverification-library-ios\/UserVerification\/core\/VerifyFace.swift",
       "kind": "BooleanLiteral",
-      "offset": 1897,
+      "offset": 1900,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/idverification-library-ios\/UserVerification\/core\/VerifyFace.swift",
       "kind": "IntegerLiteral",
-      "offset": 2106,
+      "offset": 2110,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/idverification-library-ios\/UserVerification\/core\/VerifyFace.swift",
       "kind": "BooleanLiteral",
-      "offset": 10937,
+      "offset": 10975,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/idverification-library-ios\/UserVerification\/core\/VerifyFace.swift",
       "kind": "BooleanLiteral",
-      "offset": 10979,
+      "offset": 11017,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/idverification-library-ios\/UserVerification\/core\/VerifyFace.swift",
       "kind": "IntegerLiteral",
-      "offset": 11448,
+      "offset": 11488,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/idverification-library-ios\/UserVerification\/core\/VerifyFace.swift",
       "kind": "BooleanLiteral",
-      "offset": 11501,
+      "offset": 11541,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/idverification-library-ios\/UserVerification\/core\/VerifyFace.swift",
       "kind": "IntegerLiteral",
-      "offset": 11623,
+      "offset": 11663,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/idverification-library-ios\/UserVerification\/core\/VerifyFace.swift",
       "kind": "BooleanLiteral",
-      "offset": 11686,
+      "offset": 11726,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/idverification-library-ios\/UserVerification\/core\/VerifyFace.swift",
       "kind": "FloatLiteral",
-      "offset": 11992,
+      "offset": 12032,
       "length": 3,
       "value": "0.5"
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/idverification-library-ios\/UserVerification\/core\/VerifyFace.swift",
       "kind": "FloatLiteral",
-      "offset": 12030,
+      "offset": 12070,
       "length": 3,
       "value": "0.5"
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/idverification-library-ios\/UserVerification\/core\/VerifyFace.swift",
       "kind": "FloatLiteral",
-      "offset": 12123,
+      "offset": 12163,
       "length": 3,
       "value": "0.5"
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/idverification-library-ios\/UserVerification\/core\/VerifyFace.swift",
       "kind": "FloatLiteral",
-      "offset": 12160,
+      "offset": 12200,
       "length": 3,
       "value": "0.5"
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/idverification-library-ios\/UserVerification\/core\/VerifyFace.swift",
       "kind": "BooleanLiteral",
-      "offset": 12226,
+      "offset": 12266,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/idverification-library-ios\/UserVerification\/core\/VerifyFace.swift",
       "kind": "BooleanLiteral",
-      "offset": 12281,
+      "offset": 12321,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/idverification-library-ios\/UserVerification\/core\/VerifyFace.swift",
       "kind": "BooleanLiteral",
-      "offset": 12478,
+      "offset": 12518,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/idverification-library-ios\/UserVerification\/core\/VerifyFace.swift",
       "kind": "IntegerLiteral",
-      "offset": 13097,
+      "offset": 13123,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/idverification-library-ios\/UserVerification\/core\/VerifyFace.swift",
       "kind": "BooleanLiteral",
-      "offset": 13143,
+      "offset": 13169,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/idverification-library-ios\/UserVerification\/core\/VerifyFace.swift",
       "kind": "StringLiteral",
-      "offset": 13311,
+      "offset": 13337,
       "length": 12,
       "value": "\"Face Angle\""
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/idverification-library-ios\/UserVerification\/core\/VerifyFace.swift",
       "kind": "IntegerLiteral",
-      "offset": 13749,
+      "offset": 13775,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/idverification-library-ios\/UserVerification\/core\/VerifyFace.swift",
       "kind": "BooleanLiteral",
-      "offset": 13799,
+      "offset": 13825,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/idverification-library-ios\/UserVerification\/core\/VerifyFace.swift",
       "kind": "IntegerLiteral",
-      "offset": 14700,
+      "offset": 14749,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/idverification-library-ios\/UserVerification\/core\/VerifyFace.swift",
       "kind": "BooleanLiteral",
-      "offset": 14750,
+      "offset": 14799,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/idverification-library-ios\/UserVerification\/core\/VerifyFace.swift",
       "kind": "IntegerLiteral",
-      "offset": 15350,
+      "offset": 15399,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/idverification-library-ios\/UserVerification\/core\/VerifyFace.swift",
       "kind": "BooleanLiteral",
-      "offset": 15400,
+      "offset": 15449,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/idverification-library-ios\/UserVerification\/core\/VerifyFace.swift",
       "kind": "IntegerLiteral",
-      "offset": 16194,
+      "offset": 16243,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/idverification-library-ios\/UserVerification\/core\/VerifyFace.swift",
       "kind": "BooleanLiteral",
-      "offset": 16244,
+      "offset": 16293,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/idverification-library-ios\/UserVerification\/core\/VerifyFace.swift",
       "kind": "FloatLiteral",
-      "offset": 16855,
+      "offset": 16904,
       "length": 3,
       "value": "0.0"
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/idverification-library-ios\/UserVerification\/core\/VerifyFace.swift",
       "kind": "IntegerLiteral",
-      "offset": 16950,
+      "offset": 16999,
       "length": 4,
       "value": "1000"
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/idverification-library-ios\/UserVerification\/core\/VerifyFace.swift",
       "kind": "BooleanLiteral",
-      "offset": 17003,
+      "offset": 17052,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/idverification-library-ios\/UserVerification\/core\/VerifyFace.swift",
       "kind": "FloatLiteral",
-      "offset": 17127,
+      "offset": 17200,
       "length": 3,
       "value": "0.0"
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/idverification-library-ios\/UserVerification\/core\/VerifyFace.swift",
       "kind": "IntegerLiteral",
-      "offset": 17224,
+      "offset": 17297,
       "length": 4,
       "value": "1000"
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/idverification-library-ios\/UserVerification\/core\/VerifyFace.swift",
       "kind": "BooleanLiteral",
-      "offset": 17277,
+      "offset": 17350,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/idverification-library-ios\/UserVerification\/core\/VerifyFace.swift",
       "kind": "FloatLiteral",
-      "offset": 17400,
+      "offset": 17497,
       "length": 3,
       "value": "0.0"
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/idverification-library-ios\/UserVerification\/core\/VerifyFace.swift",
       "kind": "IntegerLiteral",
-      "offset": 17491,
+      "offset": 17588,
       "length": 4,
       "value": "1000"
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/idverification-library-ios\/UserVerification\/core\/VerifyFace.swift",
       "kind": "BooleanLiteral",
-      "offset": 17544,
+      "offset": 17641,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/idverification-library-ios\/UserVerification\/core\/VerifyFace.swift",
       "kind": "IntegerLiteral",
-      "offset": 17717,
+      "offset": 17814,
       "length": 4,
       "value": "1000"
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/idverification-library-ios\/UserVerification\/core\/VerifyFace.swift",
       "kind": "IntegerLiteral",
-      "offset": 17806,
+      "offset": 17903,
       "length": 4,
       "value": "1000"
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/idverification-library-ios\/UserVerification\/core\/VerifyFace.swift",
       "kind": "IntegerLiteral",
-      "offset": 17883,
+      "offset": 17980,
       "length": 4,
       "value": "1000"
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/idverification-library-ios\/UserVerification\/core\/VerifyFace.swift",
+      "kind": "StringLiteral",
+      "offset": 18471,
+      "length": 90,
+      "value": "\"LeftEyeProbability \""
+    },
+    {
+      "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/idverification-library-ios\/UserVerification\/core\/VerifyFace.swift",
+      "kind": "StringLiteral",
+      "offset": 18517,
+      "length": 1,
+      "value": "\" \""
+    },
+    {
+      "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/idverification-library-ios\/UserVerification\/core\/VerifyFace.swift",
+      "kind": "StringLiteral",
+      "offset": 18542,
+      "length": 1,
+      "value": "\" \""
+    },
+    {
+      "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/idverification-library-ios\/UserVerification\/core\/VerifyFace.swift",
+      "kind": "StringLiteral",
+      "offset": 18560,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/idverification-library-ios\/UserVerification\/core\/VerifyFace.swift",
+      "kind": "StringLiteral",
+      "offset": 18593,
+      "length": 94,
+      "value": "\"RightEyeProbability \""
+    },
+    {
+      "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/idverification-library-ios\/UserVerification\/core\/VerifyFace.swift",
+      "kind": "StringLiteral",
+      "offset": 18641,
+      "length": 1,
+      "value": "\" \""
+    },
+    {
+      "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/idverification-library-ios\/UserVerification\/core\/VerifyFace.swift",
+      "kind": "StringLiteral",
+      "offset": 18667,
+      "length": 1,
+      "value": "\" \""
+    },
+    {
+      "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/idverification-library-ios\/UserVerification\/core\/VerifyFace.swift",
+      "kind": "StringLiteral",
+      "offset": 18686,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/idverification-library-ios\/UserVerification\/core\/VerifyFace.swift",
+      "kind": "StringLiteral",
+      "offset": 18719,
+      "length": 80,
+      "value": "\"SmileProbability \""
+    },
+    {
+      "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/idverification-library-ios\/UserVerification\/core\/VerifyFace.swift",
+      "kind": "StringLiteral",
+      "offset": 18763,
+      "length": 1,
+      "value": "\" \""
+    },
+    {
+      "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/idverification-library-ios\/UserVerification\/core\/VerifyFace.swift",
+      "kind": "StringLiteral",
+      "offset": 18782,
+      "length": 1,
+      "value": "\" \""
+    },
+    {
+      "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/idverification-library-ios\/UserVerification\/core\/VerifyFace.swift",
+      "kind": "StringLiteral",
+      "offset": 18798,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/idverification-library-ios\/UserVerification\/core\/VerifyFace.swift",
       "kind": "IntegerLiteral",
-      "offset": 19138,
+      "offset": 19237,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/idverification-library-ios\/UserVerification\/core\/VerifyFace.swift",
       "kind": "IntegerLiteral",
-      "offset": 19310,
+      "offset": 19409,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/idverification-library-ios\/UserVerification\/core\/VerifyFace.swift",
       "kind": "IntegerLiteral",
-      "offset": 19491,
+      "offset": 19590,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/idverification-library-ios\/UserVerification\/core\/VerifyFace.swift",
       "kind": "BooleanLiteral",
-      "offset": 19541,
+      "offset": 19640,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/idverification-library-ios\/UserVerification\/core\/VerifyFace.swift",
       "kind": "BooleanLiteral",
-      "offset": 19792,
-      "length": 4,
-      "value": "true"
-    },
-    {
-      "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/idverification-library-ios\/UserVerification\/core\/VerifyFace.swift",
-      "kind": "IntegerLiteral",
-      "offset": 20530,
-      "length": 1,
-      "value": "0"
-    },
-    {
-      "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/idverification-library-ios\/UserVerification\/core\/VerifyFace.swift",
-      "kind": "IntegerLiteral",
-      "offset": 20581,
-      "length": 1,
-      "value": "0"
-    },
-    {
-      "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/idverification-library-ios\/UserVerification\/core\/VerifyFace.swift",
-      "kind": "IntegerLiteral",
-      "offset": 20632,
-      "length": 1,
-      "value": "0"
-    },
-    {
-      "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/idverification-library-ios\/UserVerification\/core\/VerifyFace.swift",
-      "kind": "BooleanLiteral",
-      "offset": 20703,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/idverification-library-ios\/UserVerification\/core\/VerifyFace.swift",
-      "kind": "BooleanLiteral",
-      "offset": 21121,
-      "length": 4,
-      "value": "true"
-    },
-    {
-      "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/idverification-library-ios\/UserVerification\/core\/VerifyFace.swift",
-      "kind": "BooleanLiteral",
-      "offset": 21426,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/idverification-library-ios\/UserVerification\/core\/VerifyFace.swift",
-      "kind": "BooleanLiteral",
-      "offset": 21657,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/idverification-library-ios\/UserVerification\/core\/VerifyFace.swift",
-      "kind": "BooleanLiteral",
-      "offset": 22067,
+      "offset": 19891,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/idverification-library-ios\/UserVerification\/core\/VerifyFace.swift",
       "kind": "StringLiteral",
-      "offset": 30650,
+      "offset": 20012,
+      "length": 65,
+      "value": "\"smile_blink \""
+    },
+    {
+      "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/idverification-library-ios\/UserVerification\/core\/VerifyFace.swift",
+      "kind": "StringLiteral",
+      "offset": 20050,
+      "length": 1,
+      "value": "\" \""
+    },
+    {
+      "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/idverification-library-ios\/UserVerification\/core\/VerifyFace.swift",
+      "kind": "StringLiteral",
+      "offset": 20076,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/idverification-library-ios\/UserVerification\/core\/VerifyFace.swift",
+      "kind": "IntegerLiteral",
+      "offset": 20651,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/idverification-library-ios\/UserVerification\/core\/VerifyFace.swift",
+      "kind": "IntegerLiteral",
+      "offset": 20702,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/idverification-library-ios\/UserVerification\/core\/VerifyFace.swift",
+      "kind": "IntegerLiteral",
+      "offset": 20753,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/idverification-library-ios\/UserVerification\/core\/VerifyFace.swift",
+      "kind": "BooleanLiteral",
+      "offset": 20824,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/idverification-library-ios\/UserVerification\/core\/VerifyFace.swift",
+      "kind": "BooleanLiteral",
+      "offset": 21244,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/idverification-library-ios\/UserVerification\/core\/VerifyFace.swift",
+      "kind": "BooleanLiteral",
+      "offset": 21549,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/idverification-library-ios\/UserVerification\/core\/VerifyFace.swift",
+      "kind": "BooleanLiteral",
+      "offset": 21780,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/idverification-library-ios\/UserVerification\/core\/VerifyFace.swift",
+      "kind": "BooleanLiteral",
+      "offset": 22190,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/idverification-library-ios\/UserVerification\/core\/VerifyFace.swift",
+      "kind": "StringLiteral",
+      "offset": 30857,
       "length": 14,
       "value": "\"Face Verify:\""
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/idverification-library-ios\/UserVerification\/core\/VerifyFace.swift",
       "kind": "StringLiteral",
-      "offset": 31245,
+      "offset": 31452,
       "length": 24,
       "value": "\"No Internet Connection\""
     },
@@ -3199,63 +3304,63 @@
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/idverification-library-ios\/UserVerification\/util\/MLKitUtil.swift",
       "kind": "IntegerLiteral",
-      "offset": 1570,
+      "offset": 1561,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/idverification-library-ios\/UserVerification\/util\/MLKitUtil.swift",
       "kind": "StringLiteral",
-      "offset": 1643,
+      "offset": 1634,
       "length": 90,
       "value": "\"Failed to detect objects with error: \""
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/idverification-library-ios\/UserVerification\/util\/MLKitUtil.swift",
       "kind": "StringLiteral",
-      "offset": 1731,
+      "offset": 1722,
       "length": 1,
       "value": "\".\""
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/idverification-library-ios\/UserVerification\/util\/MLKitUtil.swift",
       "kind": "StringLiteral",
-      "offset": 2957,
+      "offset": 2941,
       "length": 90,
       "value": "\"Failed to recognize text with error: \""
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/idverification-library-ios\/UserVerification\/util\/MLKitUtil.swift",
       "kind": "StringLiteral",
-      "offset": 3045,
+      "offset": 3029,
       "length": 1,
       "value": "\".\""
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/idverification-library-ios\/UserVerification\/util\/MLKitUtil.swift",
       "kind": "FloatLiteral",
-      "offset": 3661,
+      "offset": 3645,
       "length": 3,
       "value": "0.1"
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/idverification-library-ios\/UserVerification\/util\/MLKitUtil.swift",
       "kind": "BooleanLiteral",
-      "offset": 3702,
+      "offset": 3686,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/idverification-library-ios\/UserVerification\/util\/MLKitUtil.swift",
       "kind": "IntegerLiteral",
-      "offset": 4529,
+      "offset": 4502,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/idverification-library-ios\/UserVerification\/util\/MLKitUtil.swift",
       "kind": "StringLiteral",
-      "offset": 4600,
+      "offset": 4573,
       "length": 36,
       "value": "\"Face detector returned no results.\""
     },
@@ -3507,161 +3612,168 @@
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/idverification-library-ios\/UserVerification\/UserVerification.swift",
       "kind": "FloatLiteral",
-      "offset": 1710,
+      "offset": 1997,
       "length": 3,
       "value": "0.0"
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/idverification-library-ios\/UserVerification\/UserVerification.swift",
       "kind": "StringLiteral",
-      "offset": 1813,
+      "offset": 2100,
       "length": 8,
       "value": "\"UVKit:\""
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/idverification-library-ios\/UserVerification\/UserVerification.swift",
       "kind": "StringLiteral",
-      "offset": 1823,
+      "offset": 2110,
       "length": 19,
       "value": "\"Store ID is Empty\""
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/idverification-library-ios\/UserVerification\/UserVerification.swift",
       "kind": "StringLiteral",
-      "offset": 1950,
+      "offset": 2237,
       "length": 8,
       "value": "\"UVKit:\""
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/idverification-library-ios\/UserVerification\/UserVerification.swift",
       "kind": "StringLiteral",
-      "offset": 1960,
+      "offset": 2247,
       "length": 25,
       "value": "\"Store Password is Empty\""
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/idverification-library-ios\/UserVerification\/UserVerification.swift",
       "kind": "StringLiteral",
-      "offset": 2079,
+      "offset": 2366,
       "length": 8,
       "value": "\"UVKit:\""
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/idverification-library-ios\/UserVerification\/UserVerification.swift",
       "kind": "StringLiteral",
-      "offset": 2089,
+      "offset": 2376,
       "length": 21,
       "value": "\"No Preview Attached\""
+    },
+    {
+      "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/idverification-library-ios\/UserVerification\/UserVerification.swift",
+      "kind": "StringLiteral",
+      "offset": 2451,
+      "length": 14,
+      "value": "\"EKYCVERSION:\""
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/idverification-library-ios\/UserVerification\/UserVerification.swift",
       "kind": "FloatLiteral",
-      "offset": 2866,
+      "offset": 3512,
       "length": 3,
       "value": "0.0"
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/idverification-library-ios\/UserVerification\/UserVerification.swift",
       "kind": "StringLiteral",
-      "offset": 2969,
+      "offset": 3615,
       "length": 8,
       "value": "\"UVKit:\""
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/idverification-library-ios\/UserVerification\/UserVerification.swift",
       "kind": "StringLiteral",
-      "offset": 2979,
+      "offset": 3625,
       "length": 19,
       "value": "\"Store ID is Empty\""
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/idverification-library-ios\/UserVerification\/UserVerification.swift",
       "kind": "StringLiteral",
-      "offset": 3106,
+      "offset": 3752,
       "length": 8,
       "value": "\"UVKit:\""
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/idverification-library-ios\/UserVerification\/UserVerification.swift",
       "kind": "StringLiteral",
-      "offset": 3116,
+      "offset": 3762,
       "length": 25,
       "value": "\"Store Password is Empty\""
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/idverification-library-ios\/UserVerification\/UserVerification.swift",
       "kind": "StringLiteral",
-      "offset": 3235,
+      "offset": 3881,
       "length": 8,
       "value": "\"UVKit:\""
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/idverification-library-ios\/UserVerification\/UserVerification.swift",
       "kind": "StringLiteral",
-      "offset": 3245,
+      "offset": 3891,
       "length": 21,
       "value": "\"No Preview Attached\""
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/idverification-library-ios\/UserVerification\/UserVerification.swift",
       "kind": "StringLiteral",
-      "offset": 3320,
+      "offset": 3966,
       "length": 14,
       "value": "\"EKYCVERSION:\""
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/idverification-library-ios\/UserVerification\/UserVerification.swift",
       "kind": "StringLiteral",
-      "offset": 4104,
+      "offset": 4970,
       "length": 8,
       "value": "\"UVKit:\""
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/idverification-library-ios\/UserVerification\/UserVerification.swift",
       "kind": "StringLiteral",
-      "offset": 4114,
+      "offset": 4980,
       "length": 19,
       "value": "\"Store ID is Empty\""
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/idverification-library-ios\/UserVerification\/UserVerification.swift",
       "kind": "StringLiteral",
-      "offset": 4241,
+      "offset": 5107,
       "length": 8,
       "value": "\"UVKit:\""
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/idverification-library-ios\/UserVerification\/UserVerification.swift",
       "kind": "StringLiteral",
-      "offset": 4251,
+      "offset": 5117,
       "length": 25,
       "value": "\"Store Password is Empty\""
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/idverification-library-ios\/UserVerification\/UserVerification.swift",
       "kind": "StringLiteral",
-      "offset": 4370,
+      "offset": 5236,
       "length": 8,
       "value": "\"UVKit:\""
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/idverification-library-ios\/UserVerification\/UserVerification.swift",
       "kind": "StringLiteral",
-      "offset": 4380,
+      "offset": 5246,
       "length": 21,
       "value": "\"No Preview Attached\""
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/idverification-library-ios\/UserVerification\/UserVerification.swift",
       "kind": "StringLiteral",
-      "offset": 4494,
+      "offset": 5360,
       "length": 8,
       "value": "\"UVKit:\""
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/idverification-library-ios\/UserVerification\/UserVerification.swift",
       "kind": "StringLiteral",
-      "offset": 4504,
+      "offset": 5370,
       "length": 17,
       "value": "\"UserId is Empty\""
     },
@@ -4277,322 +4389,322 @@
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/idverification-library-ios\/UserVerification\/core\/VerifyDocument.swift",
       "kind": "IntegerLiteral",
-      "offset": 5164,
+      "offset": 5102,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/idverification-library-ios\/UserVerification\/core\/VerifyDocument.swift",
       "kind": "BooleanLiteral",
-      "offset": 5221,
+      "offset": 5155,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/idverification-library-ios\/UserVerification\/core\/VerifyDocument.swift",
       "kind": "BooleanLiteral",
-      "offset": 5458,
+      "offset": 5372,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/idverification-library-ios\/UserVerification\/core\/VerifyDocument.swift",
       "kind": "BooleanLiteral",
-      "offset": 5778,
+      "offset": 5672,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/idverification-library-ios\/UserVerification\/core\/VerifyDocument.swift",
       "kind": "IntegerLiteral",
-      "offset": 5955,
+      "offset": 5833,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/idverification-library-ios\/UserVerification\/core\/VerifyDocument.swift",
       "kind": "BooleanLiteral",
-      "offset": 6020,
+      "offset": 5894,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/idverification-library-ios\/UserVerification\/core\/VerifyDocument.swift",
       "kind": "FloatLiteral",
-      "offset": 6365,
+      "offset": 6215,
       "length": 3,
       "value": "1.2"
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/idverification-library-ios\/UserVerification\/core\/VerifyDocument.swift",
       "kind": "FloatLiteral",
-      "offset": 6386,
+      "offset": 6236,
       "length": 3,
       "value": "1.8"
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/idverification-library-ios\/UserVerification\/core\/VerifyDocument.swift",
       "kind": "BooleanLiteral",
-      "offset": 6445,
+      "offset": 6291,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/idverification-library-ios\/UserVerification\/core\/VerifyDocument.swift",
       "kind": "StringLiteral",
-      "offset": 7203,
+      "offset": 7038,
       "length": 22,
       "value": "\"text_detection_error\""
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/idverification-library-ios\/UserVerification\/core\/VerifyDocument.swift",
       "kind": "StringLiteral",
-      "offset": 7258,
+      "offset": 7093,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/idverification-library-ios\/UserVerification\/core\/VerifyDocument.swift",
       "kind": "BooleanLiteral",
-      "offset": 7298,
+      "offset": 7133,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/idverification-library-ios\/UserVerification\/core\/VerifyDocument.swift",
       "kind": "IntegerLiteral",
-      "offset": 7635,
+      "offset": 7470,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/idverification-library-ios\/UserVerification\/core\/VerifyDocument.swift",
       "kind": "IntegerLiteral",
-      "offset": 7669,
+      "offset": 7504,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/idverification-library-ios\/UserVerification\/core\/VerifyDocument.swift",
       "kind": "IntegerLiteral",
-      "offset": 7945,
+      "offset": 7781,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/idverification-library-ios\/UserVerification\/core\/VerifyDocument.swift",
       "kind": "StringLiteral",
-      "offset": 7988,
+      "offset": 7824,
       "length": 22,
       "value": "\"face_detection_error\""
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/idverification-library-ios\/UserVerification\/core\/VerifyDocument.swift",
       "kind": "StringLiteral",
-      "offset": 8043,
+      "offset": 7879,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/idverification-library-ios\/UserVerification\/core\/VerifyDocument.swift",
       "kind": "BooleanLiteral",
-      "offset": 8095,
+      "offset": 7931,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/idverification-library-ios\/UserVerification\/core\/VerifyDocument.swift",
       "kind": "BooleanLiteral",
-      "offset": 8332,
+      "offset": 8168,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/idverification-library-ios\/UserVerification\/core\/VerifyDocument.swift",
       "kind": "BooleanLiteral",
-      "offset": 8652,
+      "offset": 8488,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/idverification-library-ios\/UserVerification\/core\/VerifyDocument.swift",
       "kind": "IntegerLiteral",
-      "offset": 8824,
+      "offset": 8660,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/idverification-library-ios\/UserVerification\/core\/VerifyDocument.swift",
       "kind": "BooleanLiteral",
-      "offset": 9103,
+      "offset": 8939,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/idverification-library-ios\/UserVerification\/core\/VerifyDocument.swift",
       "kind": "BooleanLiteral",
-      "offset": 9368,
+      "offset": 9204,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/idverification-library-ios\/UserVerification\/core\/VerifyDocument.swift",
       "kind": "BooleanLiteral",
-      "offset": 9529,
+      "offset": 9365,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/idverification-library-ios\/UserVerification\/core\/VerifyDocument.swift",
       "kind": "BooleanLiteral",
-      "offset": 9659,
+      "offset": 9495,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/idverification-library-ios\/UserVerification\/core\/VerifyDocument.swift",
       "kind": "BooleanLiteral",
-      "offset": 10211,
+      "offset": 10048,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/idverification-library-ios\/UserVerification\/core\/VerifyDocument.swift",
       "kind": "BooleanLiteral",
-      "offset": 10577,
+      "offset": 10414,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/idverification-library-ios\/UserVerification\/core\/VerifyDocument.swift",
       "kind": "IntegerLiteral",
-      "offset": 10663,
+      "offset": 10500,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/idverification-library-ios\/UserVerification\/core\/VerifyDocument.swift",
       "kind": "IntegerLiteral",
-      "offset": 10795,
+      "offset": 10632,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/idverification-library-ios\/UserVerification\/core\/VerifyDocument.swift",
       "kind": "BooleanLiteral",
-      "offset": 11095,
+      "offset": 10932,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/idverification-library-ios\/UserVerification\/core\/VerifyDocument.swift",
       "kind": "BooleanLiteral",
-      "offset": 11448,
+      "offset": 11286,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/idverification-library-ios\/UserVerification\/core\/VerifyDocument.swift",
       "kind": "BooleanLiteral",
-      "offset": 11765,
+      "offset": 11603,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/idverification-library-ios\/UserVerification\/core\/VerifyDocument.swift",
       "kind": "BooleanLiteral",
-      "offset": 11914,
+      "offset": 11752,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/idverification-library-ios\/UserVerification\/core\/VerifyDocument.swift",
       "kind": "Array",
-      "offset": 15846,
+      "offset": 14960,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/idverification-library-ios\/UserVerification\/core\/VerifyDocument.swift",
       "kind": "IntegerLiteral",
-      "offset": 15885,
+      "offset": 14999,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/idverification-library-ios\/UserVerification\/core\/VerifyDocument.swift",
       "kind": "IntegerLiteral",
-      "offset": 16004,
+      "offset": 15118,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/idverification-library-ios\/UserVerification\/core\/VerifyDocument.swift",
       "kind": "StringLiteral",
-      "offset": 16140,
+      "offset": 15254,
       "length": 4,
       "value": "\"«\""
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/idverification-library-ios\/UserVerification\/core\/VerifyDocument.swift",
       "kind": "StringLiteral",
-      "offset": 16152,
+      "offset": 15266,
       "length": 3,
       "value": "\"<\""
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/idverification-library-ios\/UserVerification\/core\/VerifyDocument.swift",
       "kind": "StringLiteral",
-      "offset": 16354,
+      "offset": 15468,
       "length": 13,
       "value": "\"countryCode\""
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/idverification-library-ios\/UserVerification\/core\/VerifyDocument.swift",
       "kind": "StringLiteral",
-      "offset": 16569,
+      "offset": 15683,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/idverification-library-ios\/UserVerification\/core\/VerifyDocument.swift",
       "kind": "StringLiteral",
-      "offset": 16871,
+      "offset": 15985,
       "length": 20,
       "value": "\"Matched Regex Data\""
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/idverification-library-ios\/UserVerification\/core\/VerifyDocument.swift",
       "kind": "StringLiteral",
-      "offset": 17505,
+      "offset": 16619,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/idverification-library-ios\/UserVerification\/core\/VerifyDocument.swift",
       "kind": "StringLiteral",
-      "offset": 17610,
+      "offset": 16724,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/idverification-library-ios\/UserVerification\/core\/VerifyDocument.swift",
       "kind": "StringLiteral",
-      "offset": 19014,
+      "offset": 18128,
       "length": 12,
       "value": "\"Id Verify:\""
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/idverification-library-ios\/UserVerification\/core\/VerifyDocument.swift",
       "kind": "StringLiteral",
-      "offset": 19668,
+      "offset": 18782,
       "length": 9,
       "value": "\"Upload:\""
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/idverification-library-ios\/UserVerification\/core\/VerifyDocument.swift",
       "kind": "StringLiteral",
-      "offset": 20283,
+      "offset": 19397,
       "length": 24,
       "value": "\"No Internet Connection\""
     },
