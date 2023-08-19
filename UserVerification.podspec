@@ -30,3 +30,4 @@ Pod::Spec.new do |s|
     s.xcconfig = { "HEADER_SEARCH_PATHS" => "$(inherited)" }
 
 end
+
