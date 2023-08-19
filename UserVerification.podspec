@@ -8,8 +8,7 @@ Pod::Spec.new do |s|
                    DESC
 
     s.homepage         = 'https://github.com/FinioTech/UserVerification-iOS-SDK'
-    #s.license          = { :type => 'Custom', :file => 'LICENSE.md' }
-    #s.license          =  { :type => "MIT"}
+    s.license          =  { :type => "MIT", :file => 'LICENSE.md}
     s.author           = { 'Finiotech' => 'services@finiotech.com' }
     s.source           = { :git => 'https://github.com/FinioTech/UserVerification-iOS-SDK.git', :tag => s.version.to_s }
 
