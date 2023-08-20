@@ -13,10 +13,8 @@ Pod::Spec.new do |s|
     s.author           =  { "Finiotech" => "zahid@finiotech.com" }
     s.source           =  { :git => "https://github.com/FinioTech/UserVerification-iOS-SDK.git", :tag => s.version.to_s }
 
-   # s.module_name   = "UserVerification"
     s.ios.framework = 'UserVerification'
     s.platform      = :ios, "12.0"
-   # s.ios.deployment_target = "12.0"
     s.swift_version = "5.0"
     s.vendored_frameworks = "UserVerification.xcframework"
     
