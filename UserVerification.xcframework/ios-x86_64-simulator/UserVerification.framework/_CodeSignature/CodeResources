@@ -22,7 +22,7 @@
 		</data>
 		<key>GoogleMVFaceDetectorResources.bundle/Info.plist</key>
 		<data>
-		OuBszEpr70meXc3xsRG2IwI/jlI=
+		f+WQu59jZPxQfqrRCXxy4xmkFts=
 		</data>
 		<key>GoogleMVFaceDetectorResources.bundle/LMprec_600.emd</key>
 		<data>
@@ -74,7 +74,7 @@
 		</data>
 		<key>LatinOCRResources.bundle/Info.plist</key>
 		<data>
-		6LsTnJFmcK+18i4t2UZKRBwcJyE=
+		YlCLsZo/XCCIREHr2jXZJ60tP34=
 		</data>
 		<key>LatinOCRResources.bundle/region_proposal_text_detector_tflite_gray_quantized.bincfg</key>
 		<data>
@@ -110,7 +110,7 @@
 		</data>
 		<key>MLKitObjectDetectionCommonResources.bundle/Info.plist</key>
 		<data>
-		Jv9RxtL4CLRhScvXO9G6Sui7tSc=
+		Man/Zpbuj4eemXjNabInHP++bhU=
 		</data>
 		<key>MLKitObjectDetectionCommonResources.bundle/mobile_object_localizer_3_1_anchors.pb</key>
 		<data>
@@ -126,7 +126,7 @@
 		</data>
 		<key>MLKitObjectDetectionResources.bundle/Info.plist</key>
 		<data>
-		wbpXPwHajXJ0WwjneLIHUq32B1Y=
+		RdSRGWutpnhKoh2iKCTChbmmWsM=
 		</data>
 		<key>MLKitObjectDetectionResources.bundle/mobile_object_classifier_v0_2_3_with_metadata.tflite</key>
 		<data>
@@ -195,7 +195,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			RF8Pvj6ZFggxqO0bfY6feFzlmcYeU429EU/swK0RJoU=
+			xmlQq2WBjaODHplUj45h9aWIR8DXfzaMOjV/nggkRLE=
 			</data>
 		</dict>
 		<key>GoogleMVFaceDetectorResources.bundle/LMprec_600.emd</key>
@@ -279,7 +279,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			HPIoz9H9gowHhA/rB6rzXSigJe5NSwl7uQogx/pcc80=
+			KjliWM7oeffsF/NNMNBmplrjXOioMrkiB6F60t9y24s=
 			</data>
 		</dict>
 		<key>LatinOCRResources.bundle/region_proposal_text_detector_tflite_gray_quantized.bincfg</key>
@@ -342,7 +342,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			0x3Ps0lWUH2/scllmFRRhDmj1pmDYG2Eo7h3xYifeDQ=
+			OfLVFmWVmAlvs5RXIkjwmbJBgnAJPqRPwyBUISXJ0s8=
 			</data>
 		</dict>
 		<key>MLKitObjectDetectionCommonResources.bundle/mobile_object_localizer_3_1_anchors.pb</key>
@@ -370,7 +370,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			VhE+wusRJ+kd6/qK3CiNmrkuta7ldupgfQSj3zJk9xI=
+			YG27Z0LKb2K502d2RuShKy+Ji1x3g0/cDK1ip65HXBA=
 			</data>
 		</dict>
 		<key>MLKitObjectDetectionResources.bundle/mobile_object_classifier_v0_2_3_with_metadata.tflite</key>
