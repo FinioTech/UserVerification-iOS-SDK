@@ -23,9 +23,9 @@ Pod::Spec.new do |s|
     s.frameworks   = "AVFoundation"
     s.libraries    = "c++", "z"
 
-    s.dependency "GoogleMLKit/ObjectDetection", "3.2.0"
-    s.dependency "GoogleMLKit/FaceDetection", "3.2.0"
-    s.dependency "GoogleMLKit/TextRecognition", "3.2.0"
+    s.dependency "GoogleMLKit/ObjectDetection"
+    s.dependency "GoogleMLKit/FaceDetection"
+    s.dependency "GoogleMLKit/TextRecognition"
 
     s.xcconfig = { "HEADER_SEARCH_PATHS" => "$(inherited)" }
 
