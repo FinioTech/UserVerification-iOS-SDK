@@ -22,7 +22,7 @@
 		</data>
 		<key>GoogleMVFaceDetectorResources.bundle/Info.plist</key>
 		<data>
-		f+WQu59jZPxQfqrRCXxy4xmkFts=
+		Jk+czVuX5sLvL6AiWXzzcIpEUbE=
 		</data>
 		<key>GoogleMVFaceDetectorResources.bundle/LMprec_600.emd</key>
 		<data>
@@ -74,7 +74,7 @@
 		</data>
 		<key>LatinOCRResources.bundle/Info.plist</key>
 		<data>
-		YlCLsZo/XCCIREHr2jXZJ60tP34=
+		gL7+Pxm434roi9zgytMEsJuaRpY=
 		</data>
 		<key>LatinOCRResources.bundle/region_proposal_text_detector_tflite_gray_quantized.bincfg</key>
 		<data>
@@ -110,7 +110,7 @@
 		</data>
 		<key>MLKitObjectDetectionCommonResources.bundle/Info.plist</key>
 		<data>
-		Man/Zpbuj4eemXjNabInHP++bhU=
+		b2XZH7cGNFSYiJtae6bMR7Pk300=
 		</data>
 		<key>MLKitObjectDetectionCommonResources.bundle/mobile_object_localizer_3_1_anchors.pb</key>
 		<data>
@@ -126,7 +126,7 @@
 		</data>
 		<key>MLKitObjectDetectionResources.bundle/Info.plist</key>
 		<data>
-		RdSRGWutpnhKoh2iKCTChbmmWsM=
+		ug1wZ2JQnybF6EBevwcPZjjCBhQ=
 		</data>
 		<key>MLKitObjectDetectionResources.bundle/mobile_object_classifier_v0_2_3_with_metadata.tflite</key>
 		<data>
@@ -134,11 +134,11 @@
 		</data>
 		<key>Modules/UserVerification.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		sbh1sCOsENQAV8QWgcndqsVWLxQ=
+		nQMZbOMeZafkPTED1reg95auHHI=
 		</data>
 		<key>Modules/UserVerification.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		Xx16BSMHUdPWP3ijJGtmFlPcM0k=
+		fJG10k9S0nlfvDBXmVYsOKCbiWk=
 		</data>
 		<key>Modules/UserVerification.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -146,11 +146,11 @@
 		</data>
 		<key>Modules/UserVerification.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		Xx16BSMHUdPWP3ijJGtmFlPcM0k=
+		fJG10k9S0nlfvDBXmVYsOKCbiWk=
 		</data>
 		<key>Modules/UserVerification.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		ZVguFlF3NRoBFHp98ipXA8zuL2A=
+		08PqHBK7HvUG+X9rKTIYExPb29o=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -195,7 +195,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			xmlQq2WBjaODHplUj45h9aWIR8DXfzaMOjV/nggkRLE=
+			sbnJkup5iO5BGbB51Bfe7UqdFd9pkMyNP9aRhxBCPtQ=
 			</data>
 		</dict>
 		<key>GoogleMVFaceDetectorResources.bundle/LMprec_600.emd</key>
@@ -279,7 +279,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			KjliWM7oeffsF/NNMNBmplrjXOioMrkiB6F60t9y24s=
+			j8R/6/lNyFGzJbUUDVNNNWusNPuIxrCWgCy3qweLHy8=
 			</data>
 		</dict>
 		<key>LatinOCRResources.bundle/region_proposal_text_detector_tflite_gray_quantized.bincfg</key>
@@ -342,7 +342,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			OfLVFmWVmAlvs5RXIkjwmbJBgnAJPqRPwyBUISXJ0s8=
+			ToC8w9K1mjyCrKgODaMoQCD+7EEm7g2wedVdUn66IKw=
 			</data>
 		</dict>
 		<key>MLKitObjectDetectionCommonResources.bundle/mobile_object_localizer_3_1_anchors.pb</key>
@@ -370,7 +370,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			YG27Z0LKb2K502d2RuShKy+Ji1x3g0/cDK1ip65HXBA=
+			VpoDHQNNn8UxcajNS+1hLJr9v35TbywQXTchQCGBOOs=
 			</data>
 		</dict>
 		<key>MLKitObjectDetectionResources.bundle/mobile_object_classifier_v0_2_3_with_metadata.tflite</key>
@@ -384,14 +384,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			T3to645CIbBQgbMpSdZv+yz4eEtrZ1Lk4fNPNyR3eos=
+			4gsGAHX57194yyBfAGN4otnNUG/rJEjehKJLIZIKBpE=
 			</data>
 		</dict>
 		<key>Modules/UserVerification.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			L/+m/fXYIAhv84AKzZVSAV+lMTEurbhcBSbF8mpyl7w=
+			zxMYC1Brh/mb1bPMcrYbaXUPDtwE4a4JO+E76FvCrks=
 			</data>
 		</dict>
 		<key>Modules/UserVerification.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
@@ -405,14 +405,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			L/+m/fXYIAhv84AKzZVSAV+lMTEurbhcBSbF8mpyl7w=
+			zxMYC1Brh/mb1bPMcrYbaXUPDtwE4a4JO+E76FvCrks=
 			</data>
 		</dict>
 		<key>Modules/UserVerification.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			QBdZX25sNVfwYhQdMcFAimigGsbfevmbrGXl4kzt8Js=
+			dwWnHdWnYVep+vgnLOXrfI6K8Ejm6V3ipGLXlUT35Kw=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

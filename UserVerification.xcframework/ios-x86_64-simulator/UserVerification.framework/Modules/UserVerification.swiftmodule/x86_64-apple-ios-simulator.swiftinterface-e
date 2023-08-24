@@ -12,6 +12,7 @@ import Swift
 import SystemConfiguration
 import UIKit
 @_exported import UserVerification
+import VisionKit
 import _Concurrency
 import _StringProcessing
 public protocol IdVerificationDelegate {

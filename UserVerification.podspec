@@ -26,6 +26,7 @@ Pod::Spec.new do |s|
     s.dependency "GoogleMLKit/ObjectDetection"
     s.dependency "GoogleMLKit/FaceDetection"
     s.dependency "GoogleMLKit/TextRecognition"
+    s.dependency "Protobuf"
 
     s.xcconfig = { "HEADER_SEARCH_PATHS" => "$(inherited)" }
 
