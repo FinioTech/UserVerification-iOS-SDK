@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
 
     s.name             = "UserVerification"
-    s.version          = "1.0.8"
+    s.version          = "1.0.9"
     s.summary          = "SDK for verify User based on document and biometric proof"
 
     s.description      = <<-DESC
@@ -14,9 +14,10 @@ Pod::Spec.new do |s|
     s.source           =  { :git => "https://github.com/FinioTech/UserVerification-iOS-SDK.git", :tag => s.version.to_s }
 
     s.ios.framework = 'UserVerification'
-    s.platform      = :ios, "12.0"
-    s.swift_version = "5.0"
-    s.vendored_frameworks = "UserVerification.xcframework"
+    s.platform      = :ios, '12.0'
+    s.swift_version = '5.0'
+    s.ios.deployment_target  = '11.0'
+    s.vendored_frameworks = 'UserVerification.xcframework'
     
     s.frameworks   = "Foundation"
     s.frameworks   = "UIKit"
@@ -28,10 +29,10 @@ Pod::Spec.new do |s|
     s.dependency "GoogleMLKit/TextRecognition"
     s.dependency "Protobuf"
 
-    s.xcconfig = { "HEADER_SEARCH_PATHS" => "$(inherited)" }
+    s.xcconfig = {"HEADER_SEARCH_PATHS" => "$(inherited)"}
 
-    s.pod_target_xcconfig = { "EXCLUDED_ARCHS[sdk=iphonesimulator*]" => "arm64" }
-    s.user_target_xcconfig = { "EXCLUDED_ARCHS[sdk=iphonesimulator*]" => "arm64" }
+    s.pod_target_xcconfig  = {"EXCLUDED_ARCHS[sdk=iphonesimulator*]" => "arm64"}
+    s.user_target_xcconfig = {"EXCLUDED_ARCHS[sdk=iphonesimulator*]" => "arm64"}
 
 end
 
