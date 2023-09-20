@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
 
     s.name             = "UserVerification"
-    s.version          = "1.0.9"
+    s.version          = "1.0.10"
     s.summary          = "SDK for verify User based on document and biometric proof"
 
     s.description      = <<-DESC
