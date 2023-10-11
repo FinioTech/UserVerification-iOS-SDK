@@ -7,11 +7,11 @@
 
 ## Features
 
-- Over-the-air (OTA) localization
-- Instant UI language switching
-- Over-the-air (OTA) localization
-- Instant UI language switching
-- Instant UI language switching
+- 
+- 
+- 
+- 
+- 
 
 ## Requirements
 
