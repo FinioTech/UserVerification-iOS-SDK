@@ -1714,8 +1714,22 @@
       },
       {
         "kind": "Import",
+        "name": "MLKitObjectDetection",
+        "printedName": "MLKitObjectDetection",
+        "declKind": "Import",
+        "moduleName": "UserVerification"
+      },
+      {
+        "kind": "Import",
         "name": "MLKitTextRecognition",
         "printedName": "MLKitTextRecognition",
+        "declKind": "Import",
+        "moduleName": "UserVerification"
+      },
+      {
+        "kind": "Import",
+        "name": "MLKitFaceDetection",
+        "printedName": "MLKitFaceDetection",
         "declKind": "Import",
         "moduleName": "UserVerification"
       },
@@ -1737,391 +1751,391 @@
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification (TensorFlow)\/UserVerification\/constant\/Constants.swift",
       "kind": "BooleanLiteral",
       "offset": 143,
-      "length": 5,
-      "value": "false"
+      "length": 4,
+      "value": "true"
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification (TensorFlow)\/UserVerification\/constant\/Constants.swift",
       "kind": "BooleanLiteral",
-      "offset": 188,
+      "offset": 187,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification (TensorFlow)\/UserVerification\/constant\/Constants.swift",
       "kind": "StringLiteral",
-      "offset": 221,
+      "offset": 220,
       "length": 8,
-      "value": "\"1.0.10\""
+      "value": "\"1.0.11\""
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification (TensorFlow)\/UserVerification\/constant\/Constants.swift",
       "kind": "StringLiteral",
-      "offset": 288,
+      "offset": 287,
       "length": 3,
       "value": "\" \""
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification (TensorFlow)\/UserVerification\/constant\/Constants.swift",
       "kind": "StringLiteral",
-      "offset": 314,
+      "offset": 313,
       "length": 4,
       "value": "\"\n\""
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification (TensorFlow)\/UserVerification\/constant\/Constants.swift",
       "kind": "IntegerLiteral",
-      "offset": 491,
+      "offset": 490,
       "length": 1,
       "value": "5"
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification (TensorFlow)\/UserVerification\/constant\/Constants.swift",
       "kind": "IntegerLiteral",
-      "offset": 519,
+      "offset": 518,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification (TensorFlow)\/UserVerification\/constant\/Constants.swift",
       "kind": "IntegerLiteral",
-      "offset": 547,
+      "offset": 546,
       "length": 1,
       "value": "5"
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification (TensorFlow)\/UserVerification\/constant\/Constants.swift",
       "kind": "IntegerLiteral",
-      "offset": 585,
+      "offset": 584,
       "length": 1,
       "value": "3"
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification (TensorFlow)\/UserVerification\/constant\/Constants.swift",
       "kind": "IntegerLiteral",
-      "offset": 623,
+      "offset": 622,
       "length": 1,
       "value": "3"
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification (TensorFlow)\/UserVerification\/constant\/Constants.swift",
       "kind": "IntegerLiteral",
-      "offset": 655,
+      "offset": 654,
       "length": 2,
       "value": "25"
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification (TensorFlow)\/UserVerification\/constant\/Constants.swift",
       "kind": "IntegerLiteral",
-      "offset": 776,
+      "offset": 775,
       "length": 2,
       "value": "12"
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification (TensorFlow)\/UserVerification\/constant\/Constants.swift",
       "kind": "IntegerLiteral",
-      "offset": 801,
+      "offset": 800,
       "length": 1,
       "value": "8"
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification (TensorFlow)\/UserVerification\/constant\/Constants.swift",
       "kind": "IntegerLiteral",
-      "offset": 826,
+      "offset": 825,
       "length": 2,
       "value": "-8"
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification (TensorFlow)\/UserVerification\/constant\/Constants.swift",
       "kind": "IntegerLiteral",
-      "offset": 846,
+      "offset": 845,
       "length": 3,
       "value": "-12"
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification (TensorFlow)\/UserVerification\/constant\/Constants.swift",
       "kind": "IntegerLiteral",
-      "offset": 776,
+      "offset": 775,
       "length": 2,
       "value": "12"
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification (TensorFlow)\/UserVerification\/constant\/Constants.swift",
       "kind": "IntegerLiteral",
-      "offset": 801,
+      "offset": 800,
       "length": 1,
       "value": "8"
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification (TensorFlow)\/UserVerification\/constant\/Constants.swift",
       "kind": "IntegerLiteral",
-      "offset": 826,
+      "offset": 825,
       "length": 1,
       "value": "-8"
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification (TensorFlow)\/UserVerification\/constant\/Constants.swift",
       "kind": "IntegerLiteral",
-      "offset": 846,
+      "offset": 845,
       "length": 1,
       "value": "-12"
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification (TensorFlow)\/UserVerification\/constant\/Constants.swift",
       "kind": "IntegerLiteral",
-      "offset": 776,
+      "offset": 775,
       "length": 2,
       "value": "12"
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification (TensorFlow)\/UserVerification\/constant\/Constants.swift",
       "kind": "IntegerLiteral",
-      "offset": 801,
+      "offset": 800,
       "length": 1,
       "value": "8"
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification (TensorFlow)\/UserVerification\/constant\/Constants.swift",
       "kind": "IntegerLiteral",
-      "offset": 826,
+      "offset": 825,
       "length": 1,
       "value": "-8"
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification (TensorFlow)\/UserVerification\/constant\/Constants.swift",
       "kind": "IntegerLiteral",
-      "offset": 846,
+      "offset": 845,
       "length": 1,
       "value": "-12"
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification (TensorFlow)\/UserVerification\/constant\/Constants.swift",
       "kind": "IntegerLiteral",
-      "offset": 926,
+      "offset": 925,
       "length": 4,
       "value": "2000"
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification (TensorFlow)\/UserVerification\/constant\/Constants.swift",
       "kind": "IntegerLiteral",
-      "offset": 966,
+      "offset": 965,
       "length": 4,
       "value": "2001"
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification (TensorFlow)\/UserVerification\/constant\/Constants.swift",
       "kind": "IntegerLiteral",
-      "offset": 999,
+      "offset": 998,
       "length": 4,
       "value": "2002"
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification (TensorFlow)\/UserVerification\/constant\/Constants.swift",
       "kind": "IntegerLiteral",
-      "offset": 1046,
+      "offset": 1045,
       "length": 4,
       "value": "2003"
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification (TensorFlow)\/UserVerification\/constant\/Constants.swift",
       "kind": "IntegerLiteral",
-      "offset": 1089,
+      "offset": 1088,
       "length": 4,
       "value": "2004"
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification (TensorFlow)\/UserVerification\/constant\/Constants.swift",
       "kind": "IntegerLiteral",
-      "offset": 1135,
+      "offset": 1134,
       "length": 4,
       "value": "2005"
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification (TensorFlow)\/UserVerification\/constant\/Constants.swift",
       "kind": "IntegerLiteral",
-      "offset": 1180,
+      "offset": 1179,
       "length": 4,
       "value": "2006"
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification (TensorFlow)\/UserVerification\/constant\/Constants.swift",
       "kind": "IntegerLiteral",
-      "offset": 1222,
+      "offset": 1221,
       "length": 4,
       "value": "2007"
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification (TensorFlow)\/UserVerification\/constant\/Constants.swift",
       "kind": "IntegerLiteral",
-      "offset": 1258,
+      "offset": 1257,
       "length": 4,
       "value": "2008"
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification (TensorFlow)\/UserVerification\/constant\/Constants.swift",
       "kind": "IntegerLiteral",
-      "offset": 1301,
+      "offset": 1300,
       "length": 4,
       "value": "2009"
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification (TensorFlow)\/UserVerification\/constant\/Constants.swift",
       "kind": "IntegerLiteral",
-      "offset": 1344,
+      "offset": 1343,
       "length": 4,
       "value": "2010"
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification (TensorFlow)\/UserVerification\/constant\/Constants.swift",
       "kind": "IntegerLiteral",
-      "offset": 926,
+      "offset": 925,
       "length": 4,
       "value": "2000"
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification (TensorFlow)\/UserVerification\/constant\/Constants.swift",
       "kind": "IntegerLiteral",
-      "offset": 966,
+      "offset": 965,
       "length": 4,
       "value": "2001"
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification (TensorFlow)\/UserVerification\/constant\/Constants.swift",
       "kind": "IntegerLiteral",
-      "offset": 999,
+      "offset": 998,
       "length": 4,
       "value": "2002"
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification (TensorFlow)\/UserVerification\/constant\/Constants.swift",
       "kind": "IntegerLiteral",
-      "offset": 1046,
+      "offset": 1045,
       "length": 4,
       "value": "2003"
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification (TensorFlow)\/UserVerification\/constant\/Constants.swift",
       "kind": "IntegerLiteral",
-      "offset": 1089,
+      "offset": 1088,
       "length": 4,
       "value": "2004"
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification (TensorFlow)\/UserVerification\/constant\/Constants.swift",
       "kind": "IntegerLiteral",
-      "offset": 1135,
+      "offset": 1134,
       "length": 4,
       "value": "2005"
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification (TensorFlow)\/UserVerification\/constant\/Constants.swift",
       "kind": "IntegerLiteral",
-      "offset": 1180,
+      "offset": 1179,
       "length": 4,
       "value": "2006"
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification (TensorFlow)\/UserVerification\/constant\/Constants.swift",
       "kind": "IntegerLiteral",
-      "offset": 1222,
+      "offset": 1221,
       "length": 4,
       "value": "2007"
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification (TensorFlow)\/UserVerification\/constant\/Constants.swift",
       "kind": "IntegerLiteral",
-      "offset": 1258,
+      "offset": 1257,
       "length": 4,
       "value": "2008"
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification (TensorFlow)\/UserVerification\/constant\/Constants.swift",
       "kind": "IntegerLiteral",
-      "offset": 1301,
+      "offset": 1300,
       "length": 4,
       "value": "2009"
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification (TensorFlow)\/UserVerification\/constant\/Constants.swift",
       "kind": "IntegerLiteral",
-      "offset": 1344,
+      "offset": 1343,
       "length": 4,
       "value": "2010"
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification (TensorFlow)\/UserVerification\/constant\/Constants.swift",
       "kind": "IntegerLiteral",
-      "offset": 926,
+      "offset": 925,
       "length": 4,
       "value": "2000"
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification (TensorFlow)\/UserVerification\/constant\/Constants.swift",
       "kind": "IntegerLiteral",
-      "offset": 966,
+      "offset": 965,
       "length": 4,
       "value": "2001"
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification (TensorFlow)\/UserVerification\/constant\/Constants.swift",
       "kind": "IntegerLiteral",
-      "offset": 999,
+      "offset": 998,
       "length": 4,
       "value": "2002"
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification (TensorFlow)\/UserVerification\/constant\/Constants.swift",
       "kind": "IntegerLiteral",
-      "offset": 1046,
+      "offset": 1045,
       "length": 4,
       "value": "2003"
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification (TensorFlow)\/UserVerification\/constant\/Constants.swift",
       "kind": "IntegerLiteral",
-      "offset": 1089,
+      "offset": 1088,
       "length": 4,
       "value": "2004"
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification (TensorFlow)\/UserVerification\/constant\/Constants.swift",
       "kind": "IntegerLiteral",
-      "offset": 1135,
+      "offset": 1134,
       "length": 4,
       "value": "2005"
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification (TensorFlow)\/UserVerification\/constant\/Constants.swift",
       "kind": "IntegerLiteral",
-      "offset": 1180,
+      "offset": 1179,
       "length": 4,
       "value": "2006"
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification (TensorFlow)\/UserVerification\/constant\/Constants.swift",
       "kind": "IntegerLiteral",
-      "offset": 1222,
+      "offset": 1221,
       "length": 4,
       "value": "2007"
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification (TensorFlow)\/UserVerification\/constant\/Constants.swift",
       "kind": "IntegerLiteral",
-      "offset": 1258,
+      "offset": 1257,
       "length": 4,
       "value": "2008"
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification (TensorFlow)\/UserVerification\/constant\/Constants.swift",
       "kind": "IntegerLiteral",
-      "offset": 1301,
+      "offset": 1300,
       "length": 4,
       "value": "2009"
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification (TensorFlow)\/UserVerification\/constant\/Constants.swift",
       "kind": "IntegerLiteral",
-      "offset": 1344,
+      "offset": 1343,
       "length": 4,
       "value": "2010"
     },
@@ -2674,77 +2688,84 @@
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification (TensorFlow)\/UserVerification\/util\/ConfigUtil.swift",
       "kind": "IntegerLiteral",
-      "offset": 5531,
+      "offset": 5688,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification (TensorFlow)\/UserVerification\/util\/ConfigUtil.swift",
       "kind": "IntegerLiteral",
-      "offset": 5892,
+      "offset": 6049,
       "length": 1,
       "value": "8"
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification (TensorFlow)\/UserVerification\/util\/ConfigUtil.swift",
       "kind": "IntegerLiteral",
-      "offset": 6173,
+      "offset": 6330,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification (TensorFlow)\/UserVerification\/util\/ConfigUtil.swift",
       "kind": "IntegerLiteral",
-      "offset": 6179,
+      "offset": 6336,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification (TensorFlow)\/UserVerification\/util\/ConfigUtil.swift",
+      "kind": "IntegerLiteral",
+      "offset": 7400,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification (TensorFlow)\/UserVerification\/util\/ConfigUtil.swift",
       "kind": "FloatLiteral",
-      "offset": 6537,
+      "offset": 7524,
       "length": 3,
       "value": "0.7"
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification (TensorFlow)\/UserVerification\/util\/ConfigUtil.swift",
       "kind": "FloatLiteral",
-      "offset": 6586,
+      "offset": 7573,
       "length": 3,
       "value": "0.3"
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification (TensorFlow)\/UserVerification\/util\/ConfigUtil.swift",
       "kind": "FloatLiteral",
-      "offset": 6631,
+      "offset": 7618,
       "length": 3,
       "value": "0.3"
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification (TensorFlow)\/UserVerification\/util\/ConfigUtil.swift",
       "kind": "FloatLiteral",
-      "offset": 6687,
+      "offset": 7674,
       "length": 4,
       "value": "10.0"
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification (TensorFlow)\/UserVerification\/util\/ConfigUtil.swift",
       "kind": "FloatLiteral",
-      "offset": 6741,
+      "offset": 7728,
       "length": 5,
       "value": "255.0"
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification (TensorFlow)\/UserVerification\/util\/ConfigUtil.swift",
       "kind": "FloatLiteral",
-      "offset": 6787,
+      "offset": 7774,
       "length": 3,
       "value": "1.0"
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification (TensorFlow)\/UserVerification\/util\/ConfigUtil.swift",
       "kind": "IntegerLiteral",
-      "offset": 6826,
+      "offset": 7813,
       "length": 1,
       "value": "4"
     },
@@ -3297,14 +3318,14 @@
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification (TensorFlow)\/UserVerification\/core\/VerifyFace.swift",
       "kind": "StringLiteral",
-      "offset": 30857,
+      "offset": 31018,
       "length": 14,
       "value": "\"Face Verify:\""
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification (TensorFlow)\/UserVerification\/core\/VerifyFace.swift",
       "kind": "StringLiteral",
-      "offset": 31452,
+      "offset": 31613,
       "length": 24,
       "value": "\"No Internet Connection\""
     },
@@ -3360,65 +3381,72 @@
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification (TensorFlow)\/UserVerification\/util\/MLKitUtil.swift",
       "kind": "IntegerLiteral",
-      "offset": 1881,
+      "offset": 1169,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification (TensorFlow)\/UserVerification\/util\/MLKitUtil.swift",
       "kind": "StringLiteral",
-      "offset": 1962,
+      "offset": 1252,
       "length": 90,
       "value": "\"Failed to detect objects with error: \""
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification (TensorFlow)\/UserVerification\/util\/MLKitUtil.swift",
       "kind": "StringLiteral",
-      "offset": 2050,
+      "offset": 1340,
       "length": 1,
       "value": "\".\""
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification (TensorFlow)\/UserVerification\/util\/MLKitUtil.swift",
       "kind": "StringLiteral",
-      "offset": 3437,
+      "offset": 1994,
       "length": 90,
       "value": "\"Failed to recognize text with error: \""
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification (TensorFlow)\/UserVerification\/util\/MLKitUtil.swift",
       "kind": "StringLiteral",
-      "offset": 3525,
+      "offset": 2082,
       "length": 1,
       "value": "\".\""
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification (TensorFlow)\/UserVerification\/util\/MLKitUtil.swift",
       "kind": "FloatLiteral",
-      "offset": 4221,
+      "offset": 2778,
       "length": 3,
       "value": "0.1"
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification (TensorFlow)\/UserVerification\/util\/MLKitUtil.swift",
       "kind": "BooleanLiteral",
-      "offset": 4266,
+      "offset": 2823,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification (TensorFlow)\/UserVerification\/util\/MLKitUtil.swift",
       "kind": "IntegerLiteral",
-      "offset": 5182,
+      "offset": 3048,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification (TensorFlow)\/UserVerification\/util\/MLKitUtil.swift",
       "kind": "StringLiteral",
-      "offset": 5261,
-      "length": 36,
-      "value": "\"Face detector returned no results.\""
+      "offset": 3129,
+      "length": 90,
+      "value": "\"Failed to recognize face with error: \""
+    },
+    {
+      "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification (TensorFlow)\/UserVerification\/util\/MLKitUtil.swift",
+      "kind": "StringLiteral",
+      "offset": 3217,
+      "length": 1,
+      "value": "\".\""
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification (TensorFlow)\/UserVerification\/core\/ScannerView.swift",
@@ -3451,21 +3479,21 @@
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification (TensorFlow)\/UserVerification\/core\/ScannerView.swift",
       "kind": "IntegerLiteral",
-      "offset": 4909,
+      "offset": 4904,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification (TensorFlow)\/UserVerification\/core\/ScannerView.swift",
       "kind": "FloatLiteral",
-      "offset": 4919,
+      "offset": 4914,
       "length": 3,
       "value": "0.5"
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification (TensorFlow)\/UserVerification\/core\/ScannerView.swift",
       "kind": "IntegerLiteral",
-      "offset": 5022,
+      "offset": 5017,
       "length": 1,
       "value": "2"
     },
@@ -3926,78 +3954,197 @@
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification (TensorFlow)\/UserVerification\/util\/Extensions.swift",
-      "kind": "IntegerLiteral",
-      "offset": 2251,
-      "length": 1,
-      "value": "0"
-    },
-    {
-      "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification (TensorFlow)\/UserVerification\/util\/Extensions.swift",
-      "kind": "IntegerLiteral",
-      "offset": 2265,
-      "length": 1,
-      "value": "0"
-    },
-    {
-      "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification (TensorFlow)\/UserVerification\/util\/Extensions.swift",
       "kind": "BooleanLiteral",
-      "offset": 2897,
+      "offset": 2428,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification (TensorFlow)\/UserVerification\/util\/Extensions.swift",
       "kind": "BooleanLiteral",
-      "offset": 2966,
+      "offset": 2504,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification (TensorFlow)\/UserVerification\/util\/Extensions.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2994,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification (TensorFlow)\/UserVerification\/util\/Extensions.swift",
+      "kind": "IntegerLiteral",
+      "offset": 3649,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification (TensorFlow)\/UserVerification\/util\/Extensions.swift",
+      "kind": "IntegerLiteral",
+      "offset": 3655,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification (TensorFlow)\/UserVerification\/util\/Extensions.swift",
+      "kind": "IntegerLiteral",
+      "offset": 3810,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification (TensorFlow)\/UserVerification\/util\/Extensions.swift",
+      "kind": "IntegerLiteral",
+      "offset": 4383,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification (TensorFlow)\/UserVerification\/util\/Extensions.swift",
+      "kind": "IntegerLiteral",
+      "offset": 4397,
+      "length": 3,
+      "value": "600"
+    },
+    {
+      "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification (TensorFlow)\/UserVerification\/util\/Extensions.swift",
       "kind": "BooleanLiteral",
-      "offset": 3041,
+      "offset": 4799,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification (TensorFlow)\/UserVerification\/util\/Extensions.swift",
       "kind": "StringLiteral",
-      "offset": 4640,
+      "offset": 5318,
+      "length": 48,
+      "value": "\"copy() cannot be called on a non-CVPixelBuffer\""
+    },
+    {
+      "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification (TensorFlow)\/UserVerification\/util\/Extensions.swift",
+      "kind": "IntegerLiteral",
+      "offset": 5911,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification (TensorFlow)\/UserVerification\/util\/Extensions.swift",
+      "kind": "IntegerLiteral",
+      "offset": 7088,
+      "length": 1,
+      "value": "4"
+    },
+    {
+      "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification (TensorFlow)\/UserVerification\/util\/Extensions.swift",
+      "kind": "IntegerLiteral",
+      "offset": 7376,
+      "length": 1,
+      "value": "8"
+    },
+    {
+      "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification (TensorFlow)\/UserVerification\/util\/Extensions.swift",
+      "kind": "StringLiteral",
+      "offset": 7831,
+      "length": 39,
+      "value": "\"CMSampleBuffer copy: get image buffer\""
+    },
+    {
+      "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification (TensorFlow)\/UserVerification\/util\/Extensions.swift",
+      "kind": "IntegerLiteral",
+      "offset": 8084,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification (TensorFlow)\/UserVerification\/util\/Extensions.swift",
+      "kind": "StringLiteral",
+      "offset": 8488,
+      "length": 44,
+      "value": "\"CMSampleBuffer copy: CreateReady \""
+    },
+    {
+      "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification (TensorFlow)\/UserVerification\/util\/Extensions.swift",
+      "kind": "StringLiteral",
+      "offset": 8531,
+      "length": 4,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification (TensorFlow)\/UserVerification\/util\/Extensions.swift",
+      "kind": "IntegerLiteral",
+      "offset": 8714,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification (TensorFlow)\/UserVerification\/util\/Extensions.swift",
+      "kind": "IntegerLiteral",
+      "offset": 8728,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification (TensorFlow)\/UserVerification\/util\/Extensions.swift",
+      "kind": "BooleanLiteral",
+      "offset": 9360,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification (TensorFlow)\/UserVerification\/util\/Extensions.swift",
+      "kind": "BooleanLiteral",
+      "offset": 9429,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification (TensorFlow)\/UserVerification\/util\/Extensions.swift",
+      "kind": "BooleanLiteral",
+      "offset": 9504,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification (TensorFlow)\/UserVerification\/util\/Extensions.swift",
+      "kind": "StringLiteral",
+      "offset": 11103,
       "length": 29,
       "value": "\"Can not create input device\""
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification (TensorFlow)\/UserVerification\/util\/Extensions.swift",
       "kind": "StringLiteral",
-      "offset": 4951,
+      "offset": 11414,
       "length": 23,
       "value": "\"Failed Capture Input:\""
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification (TensorFlow)\/UserVerification\/util\/Extensions.swift",
       "kind": "Array",
-      "offset": 5397,
+      "offset": 11860,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification (TensorFlow)\/UserVerification\/util\/Extensions.swift",
       "kind": "StringLiteral",
-      "offset": 5419,
+      "offset": 11882,
       "length": 41,
       "value": "\"Deserialized object is not a dictionary\""
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification (TensorFlow)\/UserVerification\/util\/Extensions.swift",
       "kind": "StringLiteral",
-      "offset": 6116,
+      "offset": 12579,
       "length": 28,
       "value": "\"CFBundleShortVersionString\""
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification (TensorFlow)\/UserVerification\/util\/Extensions.swift",
       "kind": "StringLiteral",
-      "offset": 6237,
+      "offset": 12700,
       "length": 17,
       "value": "\"CFBundleVersion\""
     },
@@ -4389,42 +4536,35 @@
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification (TensorFlow)\/UserVerification\/core\/VerifyDocument.swift",
       "kind": "StringLiteral",
-      "offset": 263,
+      "offset": 317,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification (TensorFlow)\/UserVerification\/core\/VerifyDocument.swift",
       "kind": "FloatLiteral",
-      "offset": 372,
+      "offset": 426,
       "length": 3,
       "value": "2.0"
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification (TensorFlow)\/UserVerification\/core\/VerifyDocument.swift",
       "kind": "Dictionary",
-      "offset": 674,
+      "offset": 728,
       "length": 3,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification (TensorFlow)\/UserVerification\/core\/VerifyDocument.swift",
       "kind": "Array",
-      "offset": 894,
+      "offset": 948,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification (TensorFlow)\/UserVerification\/core\/VerifyDocument.swift",
       "kind": "Array",
-      "offset": 949,
-      "length": 2,
-      "value": "[]"
-    },
-    {
-      "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification (TensorFlow)\/UserVerification\/core\/VerifyDocument.swift",
-      "kind": "Array",
-      "offset": 996,
+      "offset": 1003,
       "length": 2,
       "value": "[]"
     },
@@ -4437,367 +4577,416 @@
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification (TensorFlow)\/UserVerification\/core\/VerifyDocument.swift",
+      "kind": "Array",
+      "offset": 1104,
+      "length": 2,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification (TensorFlow)\/UserVerification\/core\/VerifyDocument.swift",
       "kind": "FloatLiteral",
-      "offset": 1648,
+      "offset": 1702,
       "length": 3,
       "value": "0.0"
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification (TensorFlow)\/UserVerification\/core\/VerifyDocument.swift",
       "kind": "FloatLiteral",
-      "offset": 2071,
+      "offset": 2125,
       "length": 3,
       "value": "0.0"
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification (TensorFlow)\/UserVerification\/core\/VerifyDocument.swift",
       "kind": "StringLiteral",
-      "offset": 2269,
+      "offset": 2323,
       "length": 48,
       "value": "\"com.pickmyid.UVkit.SessionQueue.VerifyDocument\""
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification (TensorFlow)\/UserVerification\/core\/VerifyDocument.swift",
       "kind": "BooleanLiteral",
-      "offset": 2643,
+      "offset": 2697,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification (TensorFlow)\/UserVerification\/core\/VerifyDocument.swift",
       "kind": "BooleanLiteral",
-      "offset": 3995,
+      "offset": 4049,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification (TensorFlow)\/UserVerification\/core\/VerifyDocument.swift",
       "kind": "BooleanLiteral",
-      "offset": 4038,
+      "offset": 4092,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification (TensorFlow)\/UserVerification\/core\/VerifyDocument.swift",
       "kind": "IntegerLiteral",
-      "offset": 5227,
+      "offset": 5281,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification (TensorFlow)\/UserVerification\/core\/VerifyDocument.swift",
       "kind": "BooleanLiteral",
-      "offset": 5280,
+      "offset": 5334,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification (TensorFlow)\/UserVerification\/core\/VerifyDocument.swift",
       "kind": "BooleanLiteral",
-      "offset": 5497,
+      "offset": 5857,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification (TensorFlow)\/UserVerification\/core\/VerifyDocument.swift",
       "kind": "BooleanLiteral",
-      "offset": 5797,
+      "offset": 6157,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification (TensorFlow)\/UserVerification\/core\/VerifyDocument.swift",
-      "kind": "IntegerLiteral",
-      "offset": 5958,
-      "length": 1,
-      "value": "0"
-    },
-    {
-      "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification (TensorFlow)\/UserVerification\/core\/VerifyDocument.swift",
       "kind": "BooleanLiteral",
-      "offset": 6019,
+      "offset": 6414,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification (TensorFlow)\/UserVerification\/core\/VerifyDocument.swift",
       "kind": "FloatLiteral",
-      "offset": 6505,
+      "offset": 6616,
       "length": 3,
       "value": "1.2"
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification (TensorFlow)\/UserVerification\/core\/VerifyDocument.swift",
       "kind": "FloatLiteral",
-      "offset": 6526,
+      "offset": 6637,
       "length": 3,
       "value": "1.8"
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification (TensorFlow)\/UserVerification\/core\/VerifyDocument.swift",
       "kind": "BooleanLiteral",
-      "offset": 6581,
+      "offset": 6692,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification (TensorFlow)\/UserVerification\/core\/VerifyDocument.swift",
       "kind": "StringLiteral",
-      "offset": 7329,
+      "offset": 7428,
       "length": 22,
       "value": "\"text_detection_error\""
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification (TensorFlow)\/UserVerification\/core\/VerifyDocument.swift",
       "kind": "StringLiteral",
-      "offset": 7384,
+      "offset": 7483,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification (TensorFlow)\/UserVerification\/core\/VerifyDocument.swift",
       "kind": "BooleanLiteral",
-      "offset": 7424,
+      "offset": 7523,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification (TensorFlow)\/UserVerification\/core\/VerifyDocument.swift",
       "kind": "IntegerLiteral",
-      "offset": 7762,
+      "offset": 7873,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification (TensorFlow)\/UserVerification\/core\/VerifyDocument.swift",
       "kind": "IntegerLiteral",
-      "offset": 7796,
+      "offset": 7907,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification (TensorFlow)\/UserVerification\/core\/VerifyDocument.swift",
       "kind": "IntegerLiteral",
-      "offset": 8073,
+      "offset": 8167,
       "length": 1,
-      "value": "1"
+      "value": "2"
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification (TensorFlow)\/UserVerification\/core\/VerifyDocument.swift",
       "kind": "StringLiteral",
-      "offset": 8116,
+      "offset": 8210,
       "length": 22,
       "value": "\"face_detection_error\""
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification (TensorFlow)\/UserVerification\/core\/VerifyDocument.swift",
       "kind": "StringLiteral",
-      "offset": 8171,
+      "offset": 8265,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification (TensorFlow)\/UserVerification\/core\/VerifyDocument.swift",
       "kind": "BooleanLiteral",
-      "offset": 8223,
+      "offset": 8317,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification (TensorFlow)\/UserVerification\/core\/VerifyDocument.swift",
       "kind": "BooleanLiteral",
-      "offset": 8460,
+      "offset": 8530,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification (TensorFlow)\/UserVerification\/core\/VerifyDocument.swift",
       "kind": "BooleanLiteral",
-      "offset": 8780,
-      "length": 4,
-      "value": "true"
-    },
-    {
-      "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification (TensorFlow)\/UserVerification\/core\/VerifyDocument.swift",
-      "kind": "IntegerLiteral",
-      "offset": 8952,
-      "length": 1,
-      "value": "0"
-    },
-    {
-      "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification (TensorFlow)\/UserVerification\/core\/VerifyDocument.swift",
-      "kind": "BooleanLiteral",
-      "offset": 9400,
+      "offset": 8826,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification (TensorFlow)\/UserVerification\/core\/VerifyDocument.swift",
       "kind": "BooleanLiteral",
-      "offset": 9666,
+      "offset": 9116,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification (TensorFlow)\/UserVerification\/core\/VerifyDocument.swift",
       "kind": "BooleanLiteral",
-      "offset": 9978,
+      "offset": 9565,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification (TensorFlow)\/UserVerification\/core\/VerifyDocument.swift",
+      "kind": "BooleanLiteral",
+      "offset": 9809,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification (TensorFlow)\/UserVerification\/core\/VerifyDocument.swift",
+      "kind": "BooleanLiteral",
+      "offset": 10026,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification (TensorFlow)\/UserVerification\/core\/VerifyDocument.swift",
+      "kind": "BooleanLiteral",
+      "offset": 10324,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification (TensorFlow)\/UserVerification\/core\/VerifyDocument.swift",
+      "kind": "BooleanLiteral",
+      "offset": 10634,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification (TensorFlow)\/UserVerification\/core\/VerifyDocument.swift",
       "kind": "BooleanLiteral",
-      "offset": 10108,
+      "offset": 10768,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification (TensorFlow)\/UserVerification\/core\/VerifyDocument.swift",
       "kind": "BooleanLiteral",
-      "offset": 10842,
+      "offset": 11502,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification (TensorFlow)\/UserVerification\/core\/VerifyDocument.swift",
       "kind": "BooleanLiteral",
-      "offset": 11208,
+      "offset": 11868,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification (TensorFlow)\/UserVerification\/core\/VerifyDocument.swift",
       "kind": "IntegerLiteral",
-      "offset": 11294,
+      "offset": 12056,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification (TensorFlow)\/UserVerification\/core\/VerifyDocument.swift",
       "kind": "IntegerLiteral",
-      "offset": 11426,
+      "offset": 12188,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification (TensorFlow)\/UserVerification\/core\/VerifyDocument.swift",
       "kind": "BooleanLiteral",
-      "offset": 11726,
+      "offset": 12488,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification (TensorFlow)\/UserVerification\/core\/VerifyDocument.swift",
       "kind": "BooleanLiteral",
-      "offset": 12080,
+      "offset": 12842,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification (TensorFlow)\/UserVerification\/core\/VerifyDocument.swift",
       "kind": "BooleanLiteral",
-      "offset": 12397,
+      "offset": 13159,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification (TensorFlow)\/UserVerification\/core\/VerifyDocument.swift",
       "kind": "BooleanLiteral",
-      "offset": 12546,
+      "offset": 13308,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification (TensorFlow)\/UserVerification\/core\/VerifyDocument.swift",
       "kind": "Array",
-      "offset": 15754,
+      "offset": 16516,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification (TensorFlow)\/UserVerification\/core\/VerifyDocument.swift",
       "kind": "IntegerLiteral",
-      "offset": 15793,
+      "offset": 16555,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification (TensorFlow)\/UserVerification\/core\/VerifyDocument.swift",
       "kind": "IntegerLiteral",
-      "offset": 15913,
+      "offset": 16675,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification (TensorFlow)\/UserVerification\/core\/VerifyDocument.swift",
       "kind": "StringLiteral",
-      "offset": 16050,
+      "offset": 16812,
       "length": 4,
       "value": "\"«\""
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification (TensorFlow)\/UserVerification\/core\/VerifyDocument.swift",
       "kind": "StringLiteral",
-      "offset": 16062,
+      "offset": 16824,
       "length": 3,
       "value": "\"<\""
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification (TensorFlow)\/UserVerification\/core\/VerifyDocument.swift",
       "kind": "StringLiteral",
-      "offset": 16265,
+      "offset": 17027,
       "length": 13,
       "value": "\"countryCode\""
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification (TensorFlow)\/UserVerification\/core\/VerifyDocument.swift",
       "kind": "StringLiteral",
-      "offset": 16481,
+      "offset": 17243,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification (TensorFlow)\/UserVerification\/core\/VerifyDocument.swift",
       "kind": "StringLiteral",
-      "offset": 16786,
+      "offset": 17548,
       "length": 20,
       "value": "\"Matched Regex Data\""
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification (TensorFlow)\/UserVerification\/core\/VerifyDocument.swift",
       "kind": "StringLiteral",
-      "offset": 17422,
+      "offset": 18184,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification (TensorFlow)\/UserVerification\/core\/VerifyDocument.swift",
       "kind": "StringLiteral",
-      "offset": 17528,
+      "offset": 18290,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification (TensorFlow)\/UserVerification\/core\/VerifyDocument.swift",
       "kind": "StringLiteral",
-      "offset": 19080,
+      "offset": 19786,
       "length": 12,
       "value": "\"Id Verify:\""
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification (TensorFlow)\/UserVerification\/core\/VerifyDocument.swift",
       "kind": "StringLiteral",
-      "offset": 19788,
+      "offset": 20651,
       "length": 9,
       "value": "\"Upload:\""
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification (TensorFlow)\/UserVerification\/core\/VerifyDocument.swift",
       "kind": "StringLiteral",
-      "offset": 20403,
+      "offset": 21266,
       "length": 24,
       "value": "\"No Internet Connection\""
+    },
+    {
+      "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification (TensorFlow)\/UserVerification\/core\/VerifyDocument.swift",
+      "kind": "IntegerLiteral",
+      "offset": 21506,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification (TensorFlow)\/UserVerification\/core\/VerifyDocument.swift",
+      "kind": "IntegerLiteral",
+      "offset": 21737,
+      "length": 3,
+      "value": "160"
+    },
+    {
+      "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification (TensorFlow)\/UserVerification\/core\/VerifyDocument.swift",
+      "kind": "IntegerLiteral",
+      "offset": 21786,
+      "length": 2,
+      "value": "80"
+    },
+    {
+      "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification (TensorFlow)\/UserVerification\/core\/VerifyDocument.swift",
+      "kind": "IntegerLiteral",
+      "offset": 21828,
+      "length": 2,
+      "value": "60"
+    },
+    {
+      "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification (TensorFlow)\/UserVerification\/core\/VerifyDocument.swift",
+      "kind": "IntegerLiteral",
+      "offset": 21870,
+      "length": 2,
+      "value": "50"
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification (TensorFlow)\/UserVerification\/util\/Utils.swift",

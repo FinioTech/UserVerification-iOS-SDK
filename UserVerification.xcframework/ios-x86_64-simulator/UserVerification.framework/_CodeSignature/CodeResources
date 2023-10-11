@@ -70,7 +70,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		MkQ/yfrtzmHVYIHTNqFfLDhyXX0=
+		laMHfU23DwuhGEV7a7UCpLVxAFc=
 		</data>
 		<key>LatinOCRResources.bundle/Info.plist</key>
 		<data>
@@ -134,7 +134,7 @@
 		</data>
 		<key>Modules/UserVerification.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		VtwG4V6fHtZF15d6lW1zntO4Ku8=
+		xY+SQHjEYSbEykIiFCv501J1cHI=
 		</data>
 		<key>Modules/UserVerification.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -150,7 +150,7 @@
 		</data>
 		<key>Modules/UserVerification.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		3LamBwpCqsPWWa67NRAlfGSnTGY=
+		GMQNfUUvQpy8GyH3bJobVWcW/y0=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -384,7 +384,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			WfW9HwTO7lDgPKhwOj1vT2bUlt5xpEdDUZezJ52OIlw=
+			ksgXNBII/JrHJi8fiF53MuXhhEr9h/t6+5AzOiKutYY=
 			</data>
 		</dict>
 		<key>Modules/UserVerification.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
@@ -412,7 +412,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			1pZQtIwBHH65mkEZLufpPii1EA6uZzVxzWGYJPn300o=
+			DG6jssVYZbWN/8BZP558BLc/qEoFZc+qbMmiltCMSQc=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
