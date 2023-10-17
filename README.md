@@ -32,11 +32,14 @@ pod 'UserVerification'
 
 #### Initialization
 
-In AppDelegate didFinishLaunchingWithOptions method initialize UserVerification
+Import `UserVerification` in your project
 
 ```swift
 import UserVerification
 ```
+
+In AppDelegate didFinishLaunchingWithOptions method initialize UserVerification
+
 
 ```swift
     func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?) -> Bool {

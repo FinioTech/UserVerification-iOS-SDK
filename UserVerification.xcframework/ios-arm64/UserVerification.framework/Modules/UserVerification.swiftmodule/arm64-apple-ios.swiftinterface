@@ -42,6 +42,7 @@ public enum Constant {
 @_hasMissingDesignatedInitializers public class Country {
   public static let Bangladesh: Country
   public static let Iraq: Country
+  public static let Canada: Country
   final public let value: Swift.String
   @objc deinit
 }
