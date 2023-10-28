@@ -24,6 +24,7 @@ public protocol IdVerificationDelegate {
 }
 @_hasMissingDesignatedInitializers public class DocumentType {
   public static let NationalId: UserVerification.DocumentType
+  public static let OldNationalId: UserVerification.DocumentType
   public static let Passport: UserVerification.DocumentType
   public static let DrivingLicense: UserVerification.DocumentType
   public static let ResidentCard: UserVerification.DocumentType
