@@ -4,6 +4,8 @@
     "idType": "nid",
     "numberOfSide": 2,
     "idTypeValue": "SNID",
+    "minCardRatio": "1.2",
+    "maxCardRatio": "1.8",
     "logics": {
       "frontend": [
         {
@@ -65,6 +67,8 @@
     "idType": "nid",
     "numberOfSide": 2,
     "idTypeValue": "OLDNID",
+    "minCardRatio": "1.2",
+    "maxCardRatio": "1.8",
     "logics": {
       "frontend": [
         {
@@ -105,6 +109,8 @@
     "idType": "dl",
     "numberOfSide": 2,
     "idTypeValue": "dl",
+    "minCardRatio": "1.2",
+    "maxCardRatio": "1.8",
     "logics": {
       "frontend": [
         {
@@ -180,6 +186,8 @@
     "idType": "nid",
     "numberOfSide": 2,
     "idTypeValue": "nid",
+    "minCardRatio": "1.2",
+    "maxCardRatio": "1.8",
     "logics": {
       "frontend": [
         {
@@ -260,6 +268,8 @@
   {
     "country": "iq",
     "idType": "residentCard",
+    "minCardRatio": "1.2",
+    "maxCardRatio": "1.8",
     "numberOfSide": 2,
     "idTypeValue": "rc",
     "logics": {
@@ -333,10 +343,32 @@
     }
   },
   {
+    "country": "iq",
+    "idType": "oldNid",
+    "numberOfSide": 2 ,
+    "idTypeValue": "oldNid",
+    "minCardRatio": "0.6",
+    "maxCardRatio": "0.9",
+    "logics": {
+      "frontend": [
+        {
+          "regex": "\\d{8}",
+          "type": "nid",
+          "removeSpace": true,
+          "required": true,
+          "match": 100
+        }
+      ],
+      "backend": []
+    }
+  },
+  {
     "country": "ca",
     "idType": "nid",
     "numberOfSide": 2,
     "idTypeValue": "PR",
+    "minCardRatio": "1.2",
+    "maxCardRatio": "1.8",
     "logics": {
       "frontend": [
         {
@@ -391,6 +423,8 @@
     "idType": "passport",
     "numberOfSide": 1,
     "idTypeValue": "passport",
+    "minCardRatio": "",
+    "maxCardRatio": "",
     "logics": {
       "frontend": [
         {
