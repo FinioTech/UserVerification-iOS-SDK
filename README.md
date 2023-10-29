@@ -6,14 +6,6 @@
  [![License](https://img.shields.io/github/license/FinioTech/UserVerification-iOS-SDK?style=flat&color=green)](https://cocoapods.org/pods/UserVerification)
  
 
-## Features
-
-- 
-- 
-- 
-- 
-- 
-
 ## Requirements
 
 - iOS 12.0+
@@ -23,15 +15,17 @@
 
 ### CocoaPods
 
-[CocoaPods](https://cocoapods.org) is a dependency manager for Cocoa projects. For usage and installation instructions, visit their website. To integrate `UserVerification` into your Xcode project using CocoaPods, specify it in your `Podfile`:
+[CocoaPods](https://cocoapods.org) is a dependency manager for Cocoa projects. For usage and installation instructions, visit their website. 
+To integrate `UserVerification` into your Xcode project using CocoaPods, specify it in your `Podfile`:
 
 ```ruby
 pod 'UserVerification'
 ```
 
+
 ## Usage
 
-#### Initialization
+### Initialization
 
 Import `UserVerification` in your project
 
@@ -39,7 +33,8 @@ Import `UserVerification` in your project
 import UserVerification
 ```
 
-In AppDelegate didFinishLaunchingWithOptions method initialize UserVerification
+In AppDelegate `didFinishLaunchingWithOptions` method initialize `UserVerification`. Provide your `STORE_ID`, `STORE_PASSWORD` 
+& toggle `Sandbox/Production` using a bool.
 
 
 ```swift
@@ -52,15 +47,23 @@ In AppDelegate didFinishLaunchingWithOptions method initialize UserVerification
 ```
 
 
+### Document verification
+
+To verify a Document start camera session in `viewWillAppear` override method. Provide a `UIView` reference as camera preview, 
+pick a `Country` from available options, pick a `DocumentType` from available options, document flip delay time in `Double` 
+and implement `IdVerificationDelegate` delegate to get result. [Stop camera](#stop-camera-session) session before moving
+forward unless memory leak may happen as camera lifecycle didn't finish.
+
 ```swift
     override func viewWillAppear(_ animated: Bool) {
         super.viewWillAppear(animated)
         
-        UserVerification.shared.scanID(preview: self.mView.scannerUIView, countryCode: countryCode, documentType: docType, flipIntervalTime: 3.0, delegate: self)
+        UserVerification.shared.scanID(preview: self.scannerUIView, country: Country, document: DocumentType, flipIntervalTime: Double, delegate: self)
         UserVerification.shared.startSession()
     }
 ```
 
+In `IdVerificationDelegate` document verification result will be found.
 
 ```swift
 extension My_ViewController: IdVerificationDelegate {
@@ -89,15 +92,23 @@ extension My_ViewController: IdVerificationDelegate {
 ```
 
 
+### Face Verification
+
+To continue Face verification start camera session in `viewWillAppear` override method. Provide a `UIView` reference as camera preview, 
+pass `userId` from document verification result and implement `UserVerificationDelegate` delegate to get final result. 
+[Stop camera](#stop-camera-session) session before moving forward unless memory leak may happen as camera lifecycle didn't finish.
+
+
 ```swift
     override func viewWillAppear(_ animated: Bool) {
         super.viewWillAppear(animated)
         
-        UserVerification.shared.verifyUser(preview: self.mView.scannerUIView, userId: scannedUserId, delegate: self)
+        UserVerification.shared.verifyUser(preview: self.scannerUIView, userId: scannedUserId, delegate: self)
         UserVerification.shared.startSession()
     }
 ```
 
+In `UserVerificationDelegate` face verification result will be found.
 
 ```swift
 extension My_ViewController: UserVerificationDelegate{
@@ -122,6 +133,11 @@ extension My_ViewController: UserVerificationDelegate{
     }
 }
 ```
+
+
+### Stop Camera Session
+
+Stop camera session in `viewWillDisappear` override method to safely complete verification process.
 
 
 ```swift
