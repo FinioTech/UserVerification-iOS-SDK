@@ -4,7 +4,10 @@
  [![Version](https://img.shields.io/cocoapods/v/UserVerification?style=flat&color=blue)](https://cocoapods.org/pods/UserVerification) 
  [![Swift Versions](https://img.shields.io/badge/Swift-5.6_5.7_5.8-orange?style=flat&color=orange)](https://cocoapods.org/pods/UserVerification)
  [![License](https://img.shields.io/github/license/FinioTech/UserVerification-iOS-SDK?style=flat&color=green)](https://cocoapods.org/pods/UserVerification)
- 
+
+ ## Features
+ - [Document verification](#document-verification)
+ - [Face verification](#face-verification)
 
 ## Requirements
 
