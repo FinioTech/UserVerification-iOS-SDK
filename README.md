@@ -53,15 +53,15 @@ In AppDelegate `didFinishLaunchingWithOptions` method initialize `UserVerificati
 ### Document verification
 
 To verify a Document start camera session in `viewWillAppear` override method. Provide a `UIView` reference as camera preview, 
-pick a `Country` from available options, pick a `DocumentType` from available options, document flip delay time in `Double` 
-and implement `IdVerificationDelegate` delegate to get result. [Stop camera](#stop-camera-session) session before moving
-forward unless memory leak may happen as camera lifecycle didn't finish.
+pick a `Country` from available options, document flip delay time in `Double` and implement `IdVerificationDelegate` delegate 
+to get result. [Stop camera](#stop-camera-session) session before moving forward unless memory leak may happen as 
+camera lifecycle didn't finish.
 
 ```swift
     override func viewWillAppear(_ animated: Bool) {
         super.viewWillAppear(animated)
         
-        UserVerification.shared.scanID(preview: self.scannerUIView, country: Country, document: DocumentType, flipIntervalTime: Double, delegate: self)
+        UserVerification.shared.scanID(preview: self.scannerUIView, country: Country, flipIntervalTime: Double, delegate: self)
         UserVerification.shared.startSession()
     }
 ```

@@ -345,14 +345,14 @@
   {
     "country": "iq",
     "idType": "oldNid",
-    "numberOfSide": 2 ,
+    "numberOfSide": 2,
     "idTypeValue": "oldNid",
     "minCardRatio": "0.6",
     "maxCardRatio": "0.9",
     "logics": {
       "frontend": [
         {
-          "regex": "\\d{8}",
+          "regex": "^\\d{8}$",
           "type": "nid",
           "removeSpace": true,
           "required": true,

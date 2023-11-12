@@ -70,7 +70,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		dUh9Rm/hYore378AA4pzDQU1XI4=
+		GEDvOr7qOhvokaoxOWbQuWH8Egc=
 		</data>
 		<key>LatinOCRResources.bundle/Info.plist</key>
 		<data>
@@ -134,23 +134,23 @@
 		</data>
 		<key>Modules/UserVerification.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		IUEtpQ7jFnTLugdRNMP+dzotteg=
+		bpc4z5CmuL4HNTRurDAVScIUrQc=
 		</data>
 		<key>Modules/UserVerification.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
-		q0HYYNjRCkyo5bNrG9rsG0WEtUo=
+		mTe6wKr06dJm7Y6/NW55SVsh/8I=
 		</data>
 		<key>Modules/UserVerification.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
-		2+mEEt7IhnRCqViEQX4X5iH3pxA=
+		8SRJ3lmy/2sorbovgP7fUMTgD6w=
 		</data>
 		<key>Modules/UserVerification.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		q0HYYNjRCkyo5bNrG9rsG0WEtUo=
+		mTe6wKr06dJm7Y6/NW55SVsh/8I=
 		</data>
 		<key>Modules/UserVerification.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		rq5blcCMEpvpSQtOTrM6wbXt084=
+		jTeUjTOg1uf5oMaZdfndjIHjLnE=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -158,7 +158,7 @@
 		</data>
 		<key>RegexData.json</key>
 		<data>
-		zOKGhY7J2ulsJdhFSuW3IUXNAII=
+		RbzJmCiYVCL1a+5E5HJc1eVh5MI=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -384,35 +384,35 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Fk/fvtB2TFOWkMIlkLEupktYz2FBvcykWquWTgV45yE=
+			UIifDZVO3afNtknSyXyFkx9JrKWo2s6Nj/vfwNxe1UM=
 			</data>
 		</dict>
 		<key>Modules/UserVerification.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ONmisbSX4BoTgOCtWp+X1HumBjOjmrriXfAkrXv90+Q=
+			mvlzJuOTDJP/HCLAkMBMGKDg2QA5WpzZiiIhbliim5Q=
 			</data>
 		</dict>
 		<key>Modules/UserVerification.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			o5TKxFSEzPCzZl1lJn/fhu2gpXOdkfMCppq3z0RYNqg=
+			VldyVGsnVluR7PS3/lFy8ga5e1gNTQXh7ujwCV0541A=
 			</data>
 		</dict>
 		<key>Modules/UserVerification.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ONmisbSX4BoTgOCtWp+X1HumBjOjmrriXfAkrXv90+Q=
+			mvlzJuOTDJP/HCLAkMBMGKDg2QA5WpzZiiIhbliim5Q=
 			</data>
 		</dict>
 		<key>Modules/UserVerification.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			q1T/WBEYdfPaKb5GM4y8CXwC2MabdwAZxDBpfTOPvwU=
+			8T7oxVWOGqlS6/qMuWAJzA27i/4XpK4LLjnJFvT5O6M=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -426,7 +426,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			oI6TCHNRsuOM8rK+qKU97Ph+nGiYTmOoZKgLtay1wi4=
+			GwMNsMR8xC/Ns4x6A0YGS0YcLqldIeEx83mSXuf6NeE=
 			</data>
 		</dict>
 	</dict>
