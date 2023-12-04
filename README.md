@@ -53,15 +53,16 @@ In AppDelegate `didFinishLaunchingWithOptions` method initialize `UserVerificati
 ### Document verification
 
 To verify a Document start camera session in `viewWillAppear` override method. Provide a `UIView` reference as camera preview, 
-pick a `Country` from available options, document flip delay time in `Double` and implement `IdVerificationDelegate` delegate 
-to get result. [Stop camera](#stop-camera-session) session before moving forward unless memory leak may happen as 
-camera lifecycle didn't finish.
+pick a `Country` from available options, optional `DocumentType` from available options, document flip delay time in `Double` and
+implement `IdVerificationDelegate` delegate to get result.
+
+[Stop camera](#stop-camera-session) session before moving forward unless memory leak may happen as camera lifecycle didn't finish.
 
 ```swift
     override func viewWillAppear(_ animated: Bool) {
         super.viewWillAppear(animated)
         
-        UserVerification.shared.scanID(preview: self.scannerUIView, country: Country, flipIntervalTime: Double, delegate: self)
+        UserVerification.shared.scanID(preview: self.scannerUIView, country: Country, document: DocumentType, flipIntervalTime: Double, delegate: self)
         UserVerification.shared.startSession()
     }
 ```
@@ -98,7 +99,9 @@ extension My_ViewController: IdVerificationDelegate {
 ### Face Verification
 
 To continue Face verification start camera session in `viewWillAppear` override method. Provide a `UIView` reference as camera preview, 
-pass `userId` from document verification result and implement `UserVerificationDelegate` delegate to get final result. 
+pass `userId` from document verification result, optional `FaceDirection` (default LRC) between LRC (Left -> Right -> Center) or 
+CLR (Center -> Left -> Right)  and implement `UserVerificationDelegate` delegate to get final result.
+
 [Stop camera](#stop-camera-session) session before moving forward unless memory leak may happen as camera lifecycle didn't finish.
 
 
@@ -106,7 +109,7 @@ pass `userId` from document verification result and implement `UserVerificationD
     override func viewWillAppear(_ animated: Bool) {
         super.viewWillAppear(animated)
         
-        UserVerification.shared.verifyUser(preview: self.scannerUIView, userId: scannedUserId, delegate: self)
+        UserVerification.shared.verifyUser(preview: self.scannerUIView, userId: scannedUserId, direction: FaceDirection, delegate: self)
         UserVerification.shared.startSession()
     }
 ```
