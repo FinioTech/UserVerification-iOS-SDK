@@ -31,6 +31,12 @@ public protocol IdVerificationDelegate {
   final public let value: Swift.String
   @objc deinit
 }
+@_hasMissingDesignatedInitializers public class FaceDirection {
+  public static let CLR: UserVerification.FaceDirection
+  public static let LRC: UserVerification.FaceDirection
+  final public let value: Swift.String
+  @objc deinit
+}
 public enum Constant {
 }
 @_hasMissingDesignatedInitializers public class FaceAngle {
@@ -60,6 +66,7 @@ public protocol UserVerificationDelegate {
   final public func scanID(preview: UIKit.UIView?, country: UserVerification.Country, flipIntervalTime: Swift.Double = 0.0, delegate: any UserVerification.IdVerificationDelegate)
   final public func scanID(preview: UIKit.UIView?, country: UserVerification.Country, document: UserVerification.DocumentType, flipIntervalTime: Swift.Double = 0.0, delegate: any UserVerification.IdVerificationDelegate)
   final public func verifyUser(preview: UIKit.UIView?, userId: Swift.String?, delegate: any UserVerification.UserVerificationDelegate)
+  final public func verifyUser(preview: UIKit.UIView?, userId: Swift.String?, direction: UserVerification.FaceDirection, delegate: any UserVerification.UserVerificationDelegate)
   final public func startSession()
   final public func stopSession()
   @objc deinit

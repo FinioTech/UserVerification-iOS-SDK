@@ -70,7 +70,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		GEDvOr7qOhvokaoxOWbQuWH8Egc=
+		2iB1WHLEesaM7mD2ncC/6q8Lq3Y=
 		</data>
 		<key>LatinOCRResources.bundle/Info.plist</key>
 		<data>
@@ -134,23 +134,23 @@
 		</data>
 		<key>Modules/UserVerification.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		ZMTFvvgk7RElilJ1yJoeW5MAAZk=
+		Wa6VBxICoeSqmJvNuX2MqDkjm34=
 		</data>
 		<key>Modules/UserVerification.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
-		cR9SwULtDaqOEF0/G9xJB347MqE=
+		eauMkPlkMO08CAvYpdymMmYONtU=
 		</data>
 		<key>Modules/UserVerification.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
-		Gtx3jlqvA5PXTevbfx4F2KW8k8E=
+		w6SKUxzMygXQdGGhZ6Pc1MpwchQ=
 		</data>
 		<key>Modules/UserVerification.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		cR9SwULtDaqOEF0/G9xJB347MqE=
+		eauMkPlkMO08CAvYpdymMmYONtU=
 		</data>
 		<key>Modules/UserVerification.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		U2hRu8FwCgmozKbCv7bdymGxh40=
+		jIR96WsGFnT6DI3YlbHilMxyljo=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -384,35 +384,35 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			b39WR92cQZSCH8zNNb0rQotXTC7lRTUSEMcwDP3NCiw=
+			7MYXojSF80m45Sh9DdXSGJDZW3EMVKrnezEr+zIYLsk=
 			</data>
 		</dict>
 		<key>Modules/UserVerification.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			VKoEaKA6G2PNq3xK2njIViFhOJE67exdQZ4rMQPfhXk=
+			ph6XPbzKhvw0wDNof3vIpj/6sYh+VIQ+8vfTBwi8YQU=
 			</data>
 		</dict>
 		<key>Modules/UserVerification.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			6rdfU6mn3a+EKaoDRWLBpaHjyuQK7+tNTs8RduttMXg=
+			HLg5NjTVIR8BCgV1pKxrrhKT5SS3hbslwpTs0OsmDwU=
 			</data>
 		</dict>
 		<key>Modules/UserVerification.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			VKoEaKA6G2PNq3xK2njIViFhOJE67exdQZ4rMQPfhXk=
+			ph6XPbzKhvw0wDNof3vIpj/6sYh+VIQ+8vfTBwi8YQU=
 			</data>
 		</dict>
 		<key>Modules/UserVerification.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Q2S3ZklZJ8ash2AqhwCcOR7/qzDNrZ6aWXdGtk81Lhg=
+			xfMGzotYo3KnNM6YyTFKn1CSQJgKxFG+6MpABux4aG4=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
