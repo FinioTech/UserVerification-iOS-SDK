@@ -472,6 +472,57 @@
           },
           {
             "kind": "Var",
+            "name": "FaceID",
+            "printedName": "FaceID",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "DocumentType",
+                "printedName": "UserVerification.DocumentType",
+                "usr": "s:16UserVerification12DocumentTypeC"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:16UserVerification12DocumentTypeC6FaceIDACvpZ",
+            "mangledName": "$s16UserVerification12DocumentTypeC6FaceIDACvpZ",
+            "moduleName": "UserVerification",
+            "static": true,
+            "declAttributes": [
+              "HasInitialValue",
+              "Final",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "isLet": true,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "DocumentType",
+                    "printedName": "UserVerification.DocumentType",
+                    "usr": "s:16UserVerification12DocumentTypeC"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:16UserVerification12DocumentTypeC6FaceIDACvgZ",
+                "mangledName": "$s16UserVerification12DocumentTypeC6FaceIDACvgZ",
+                "moduleName": "UserVerification",
+                "static": true,
+                "implicit": true,
+                "declAttributes": [
+                  "Final"
+                ],
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
             "name": "value",
             "printedName": "value",
             "children": [
@@ -2099,7 +2150,7 @@
       "kind": "StringLiteral",
       "offset": 221,
       "length": 7,
-      "value": "\"1.1.1\""
+      "value": "\"1.1.2\""
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification-iOS-Framework\/UserVerification\/constant\/Constants.swift",
@@ -2968,6 +3019,13 @@
       "offset": 452,
       "length": 14,
       "value": "\"residentCard\""
+    },
+    {
+      "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification-iOS-Framework\/UserVerification\/constant\/DocumentType.swift",
+      "kind": "StringLiteral",
+      "offset": 519,
+      "length": 8,
+      "value": "\"faceID\""
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification-iOS-Framework\/UserVerification\/constant\/FaceDirection.swift",

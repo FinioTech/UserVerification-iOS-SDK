@@ -28,6 +28,7 @@ public protocol IdVerificationDelegate {
   public static let Passport: DocumentType
   public static let DrivingLicense: DocumentType
   public static let ResidentCard: DocumentType
+  public static let FaceID: DocumentType
   final public let value: Swift.String
   @objc deinit
 }
