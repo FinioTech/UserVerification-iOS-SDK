@@ -1787,6 +1787,61 @@
           {
             "kind": "Function",
             "name": "scanID",
+            "printedName": "scanID(preview:document:flipIntervalTime:delegate:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "UIKit.UIView?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "UIView",
+                    "printedName": "UIKit.UIView",
+                    "usr": "c:objc(cs)UIView"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "DocumentType",
+                "printedName": "UserVerification.DocumentType",
+                "usr": "s:16UserVerification12DocumentTypeC"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Double",
+                "printedName": "Swift.Double",
+                "hasDefaultArg": true,
+                "usr": "s:Sd"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "IdVerificationDelegate",
+                "printedName": "UserVerification.IdVerificationDelegate",
+                "usr": "s:16UserVerification02IdB8DelegateP"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:16UserVerificationAAC6scanID7preview8document16flipIntervalTime8delegateySo6UIViewCSg_AA12DocumentTypeCSdAA02IdB8Delegate_ptF",
+            "mangledName": "$s16UserVerificationAAC6scanID7preview8document16flipIntervalTime8delegateySo6UIViewCSg_AA12DocumentTypeCSdAA02IdB8Delegate_ptF",
+            "moduleName": "UserVerification",
+            "declAttributes": [
+              "Final",
+              "AccessControl",
+              "RawDocComment"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "scanID",
             "printedName": "scanID(preview:country:document:flipIntervalTime:delegate:)",
             "children": [
               {
@@ -4689,168 +4744,224 @@
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification-iOS-Framework\/UserVerification\/UserVerification.swift",
       "kind": "FloatLiteral",
-      "offset": 3425,
+      "offset": 3355,
       "length": 3,
       "value": "0.0"
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification-iOS-Framework\/UserVerification\/UserVerification.swift",
       "kind": "StringLiteral",
-      "offset": 3528,
+      "offset": 3458,
       "length": 8,
       "value": "\"UVKit:\""
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification-iOS-Framework\/UserVerification\/UserVerification.swift",
       "kind": "StringLiteral",
-      "offset": 3538,
+      "offset": 3468,
       "length": 19,
       "value": "\"Store ID is Empty\""
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification-iOS-Framework\/UserVerification\/UserVerification.swift",
       "kind": "StringLiteral",
-      "offset": 3665,
+      "offset": 3595,
       "length": 8,
       "value": "\"UVKit:\""
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification-iOS-Framework\/UserVerification\/UserVerification.swift",
       "kind": "StringLiteral",
-      "offset": 3675,
+      "offset": 3605,
       "length": 25,
       "value": "\"Store Password is Empty\""
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification-iOS-Framework\/UserVerification\/UserVerification.swift",
       "kind": "StringLiteral",
-      "offset": 3794,
+      "offset": 3724,
       "length": 8,
       "value": "\"UVKit:\""
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification-iOS-Framework\/UserVerification\/UserVerification.swift",
       "kind": "StringLiteral",
-      "offset": 3804,
+      "offset": 3734,
       "length": 21,
       "value": "\"No Preview Attached\""
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification-iOS-Framework\/UserVerification\/UserVerification.swift",
       "kind": "StringLiteral",
-      "offset": 3879,
+      "offset": 3809,
+      "length": 14,
+      "value": "\"EKYCVERSION:\""
+    },
+    {
+      "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification-iOS-Framework\/UserVerification\/UserVerification.swift",
+      "kind": "FloatLiteral",
+      "offset": 4851,
+      "length": 3,
+      "value": "0.0"
+    },
+    {
+      "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification-iOS-Framework\/UserVerification\/UserVerification.swift",
+      "kind": "StringLiteral",
+      "offset": 4954,
+      "length": 8,
+      "value": "\"UVKit:\""
+    },
+    {
+      "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification-iOS-Framework\/UserVerification\/UserVerification.swift",
+      "kind": "StringLiteral",
+      "offset": 4964,
+      "length": 19,
+      "value": "\"Store ID is Empty\""
+    },
+    {
+      "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification-iOS-Framework\/UserVerification\/UserVerification.swift",
+      "kind": "StringLiteral",
+      "offset": 5091,
+      "length": 8,
+      "value": "\"UVKit:\""
+    },
+    {
+      "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification-iOS-Framework\/UserVerification\/UserVerification.swift",
+      "kind": "StringLiteral",
+      "offset": 5101,
+      "length": 25,
+      "value": "\"Store Password is Empty\""
+    },
+    {
+      "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification-iOS-Framework\/UserVerification\/UserVerification.swift",
+      "kind": "StringLiteral",
+      "offset": 5220,
+      "length": 8,
+      "value": "\"UVKit:\""
+    },
+    {
+      "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification-iOS-Framework\/UserVerification\/UserVerification.swift",
+      "kind": "StringLiteral",
+      "offset": 5230,
+      "length": 21,
+      "value": "\"No Preview Attached\""
+    },
+    {
+      "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification-iOS-Framework\/UserVerification\/UserVerification.swift",
+      "kind": "StringLiteral",
+      "offset": 5305,
       "length": 14,
       "value": "\"EKYCVERSION:\""
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification-iOS-Framework\/UserVerification\/UserVerification.swift",
       "kind": "StringLiteral",
-      "offset": 4867,
+      "offset": 6293,
       "length": 8,
       "value": "\"UVKit:\""
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification-iOS-Framework\/UserVerification\/UserVerification.swift",
       "kind": "StringLiteral",
-      "offset": 4877,
+      "offset": 6303,
       "length": 19,
       "value": "\"Store ID is Empty\""
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification-iOS-Framework\/UserVerification\/UserVerification.swift",
       "kind": "StringLiteral",
-      "offset": 5004,
+      "offset": 6430,
       "length": 8,
       "value": "\"UVKit:\""
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification-iOS-Framework\/UserVerification\/UserVerification.swift",
       "kind": "StringLiteral",
-      "offset": 5014,
+      "offset": 6440,
       "length": 25,
       "value": "\"Store Password is Empty\""
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification-iOS-Framework\/UserVerification\/UserVerification.swift",
       "kind": "StringLiteral",
-      "offset": 5133,
+      "offset": 6559,
       "length": 8,
       "value": "\"UVKit:\""
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification-iOS-Framework\/UserVerification\/UserVerification.swift",
       "kind": "StringLiteral",
-      "offset": 5143,
+      "offset": 6569,
       "length": 21,
       "value": "\"No Preview Attached\""
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification-iOS-Framework\/UserVerification\/UserVerification.swift",
       "kind": "StringLiteral",
-      "offset": 5257,
+      "offset": 6683,
       "length": 8,
       "value": "\"UVKit:\""
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification-iOS-Framework\/UserVerification\/UserVerification.swift",
       "kind": "StringLiteral",
-      "offset": 5267,
+      "offset": 6693,
       "length": 17,
       "value": "\"UserId is Empty\""
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification-iOS-Framework\/UserVerification\/UserVerification.swift",
       "kind": "StringLiteral",
-      "offset": 6206,
+      "offset": 7632,
       "length": 8,
       "value": "\"UVKit:\""
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification-iOS-Framework\/UserVerification\/UserVerification.swift",
       "kind": "StringLiteral",
-      "offset": 6216,
+      "offset": 7642,
       "length": 19,
       "value": "\"Store ID is Empty\""
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification-iOS-Framework\/UserVerification\/UserVerification.swift",
       "kind": "StringLiteral",
-      "offset": 6343,
+      "offset": 7769,
       "length": 8,
       "value": "\"UVKit:\""
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification-iOS-Framework\/UserVerification\/UserVerification.swift",
       "kind": "StringLiteral",
-      "offset": 6353,
+      "offset": 7779,
       "length": 25,
       "value": "\"Store Password is Empty\""
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification-iOS-Framework\/UserVerification\/UserVerification.swift",
       "kind": "StringLiteral",
-      "offset": 6472,
+      "offset": 7898,
       "length": 8,
       "value": "\"UVKit:\""
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification-iOS-Framework\/UserVerification\/UserVerification.swift",
       "kind": "StringLiteral",
-      "offset": 6482,
+      "offset": 7908,
       "length": 21,
       "value": "\"No Preview Attached\""
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification-iOS-Framework\/UserVerification\/UserVerification.swift",
       "kind": "StringLiteral",
-      "offset": 6596,
+      "offset": 8022,
       "length": 8,
       "value": "\"UVKit:\""
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification-iOS-Framework\/UserVerification\/UserVerification.swift",
       "kind": "StringLiteral",
-      "offset": 6606,
+      "offset": 8032,
       "length": 17,
       "value": "\"UserId is Empty\""
     },
@@ -5599,539 +5710,560 @@
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification-iOS-Framework\/UserVerification\/core\/VerifyDocument.swift",
       "kind": "FloatLiteral",
-      "offset": 2194,
+      "offset": 2135,
+      "length": 3,
+      "value": "0.0"
+    },
+    {
+      "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification-iOS-Framework\/UserVerification\/core\/VerifyDocument.swift",
+      "kind": "FloatLiteral",
+      "offset": 2561,
       "length": 3,
       "value": "0.0"
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification-iOS-Framework\/UserVerification\/core\/VerifyDocument.swift",
       "kind": "StringLiteral",
-      "offset": 2392,
+      "offset": 2759,
       "length": 48,
       "value": "\"com.pickmyid.UVkit.SessionQueue.VerifyDocument\""
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification-iOS-Framework\/UserVerification\/core\/VerifyDocument.swift",
       "kind": "BooleanLiteral",
-      "offset": 2771,
+      "offset": 3138,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification-iOS-Framework\/UserVerification\/core\/VerifyDocument.swift",
       "kind": "BooleanLiteral",
-      "offset": 2804,
+      "offset": 3171,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification-iOS-Framework\/UserVerification\/core\/VerifyDocument.swift",
       "kind": "StringLiteral",
-      "offset": 4441,
+      "offset": 5101,
       "length": 13,
       "value": "\"object_scan\""
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification-iOS-Framework\/UserVerification\/core\/VerifyDocument.swift",
       "kind": "BooleanLiteral",
-      "offset": 4543,
+      "offset": 5203,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification-iOS-Framework\/UserVerification\/core\/VerifyDocument.swift",
       "kind": "BooleanLiteral",
-      "offset": 4572,
+      "offset": 5232,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification-iOS-Framework\/UserVerification\/core\/VerifyDocument.swift",
       "kind": "BooleanLiteral",
-      "offset": 4616,
+      "offset": 5276,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification-iOS-Framework\/UserVerification\/core\/VerifyDocument.swift",
       "kind": "IntegerLiteral",
-      "offset": 5112,
+      "offset": 5772,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification-iOS-Framework\/UserVerification\/core\/VerifyDocument.swift",
       "kind": "BooleanLiteral",
-      "offset": 5165,
+      "offset": 5825,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification-iOS-Framework\/UserVerification\/core\/VerifyDocument.swift",
       "kind": "BooleanLiteral",
-      "offset": 5870,
+      "offset": 6530,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification-iOS-Framework\/UserVerification\/core\/VerifyDocument.swift",
       "kind": "BooleanLiteral",
-      "offset": 6127,
-      "length": 4,
-      "value": "true"
-    },
-    {
-      "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification-iOS-Framework\/UserVerification\/core\/VerifyDocument.swift",
-      "kind": "IntegerLiteral",
-      "offset": 6361,
-      "length": 1,
-      "value": "0"
-    },
-    {
-      "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification-iOS-Framework\/UserVerification\/core\/VerifyDocument.swift",
-      "kind": "BooleanLiteral",
-      "offset": 6409,
-      "length": 4,
-      "value": "true"
-    },
-    {
-      "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification-iOS-Framework\/UserVerification\/core\/VerifyDocument.swift",
-      "kind": "IntegerLiteral",
-      "offset": 6595,
-      "length": 1,
-      "value": "0"
-    },
-    {
-      "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification-iOS-Framework\/UserVerification\/core\/VerifyDocument.swift",
-      "kind": "BooleanLiteral",
-      "offset": 6643,
+      "offset": 6787,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification-iOS-Framework\/UserVerification\/core\/VerifyDocument.swift",
       "kind": "StringLiteral",
-      "offset": 6932,
+      "offset": 6892,
+      "length": 18,
+      "value": "\"object_detection\""
+    },
+    {
+      "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification-iOS-Framework\/UserVerification\/core\/VerifyDocument.swift",
+      "kind": "IntegerLiteral",
+      "offset": 7107,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification-iOS-Framework\/UserVerification\/core\/VerifyDocument.swift",
+      "kind": "BooleanLiteral",
+      "offset": 7155,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification-iOS-Framework\/UserVerification\/core\/VerifyDocument.swift",
+      "kind": "IntegerLiteral",
+      "offset": 7341,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification-iOS-Framework\/UserVerification\/core\/VerifyDocument.swift",
+      "kind": "BooleanLiteral",
+      "offset": 7389,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification-iOS-Framework\/UserVerification\/core\/VerifyDocument.swift",
+      "kind": "StringLiteral",
+      "offset": 7678,
       "length": 11,
       "value": "\"face_scan\""
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification-iOS-Framework\/UserVerification\/core\/VerifyDocument.swift",
       "kind": "IntegerLiteral",
-      "offset": 7141,
+      "offset": 7887,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification-iOS-Framework\/UserVerification\/core\/VerifyDocument.swift",
       "kind": "StringLiteral",
-      "offset": 7176,
+      "offset": 7922,
       "length": 22,
       "value": "\"face_detection_error\""
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification-iOS-Framework\/UserVerification\/core\/VerifyDocument.swift",
       "kind": "StringLiteral",
-      "offset": 7231,
+      "offset": 7977,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification-iOS-Framework\/UserVerification\/core\/VerifyDocument.swift",
       "kind": "BooleanLiteral",
-      "offset": 7275,
+      "offset": 8021,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification-iOS-Framework\/UserVerification\/core\/VerifyDocument.swift",
       "kind": "BooleanLiteral",
-      "offset": 7445,
+      "offset": 8191,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification-iOS-Framework\/UserVerification\/core\/VerifyDocument.swift",
       "kind": "IntegerLiteral",
-      "offset": 7637,
+      "offset": 8383,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification-iOS-Framework\/UserVerification\/core\/VerifyDocument.swift",
       "kind": "StringLiteral",
-      "offset": 7878,
+      "offset": 8624,
       "length": 16,
       "value": "\"aspect_matched\""
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification-iOS-Framework\/UserVerification\/core\/VerifyDocument.swift",
       "kind": "IntegerLiteral",
-      "offset": 8098,
+      "offset": 8844,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification-iOS-Framework\/UserVerification\/core\/VerifyDocument.swift",
       "kind": "IntegerLiteral",
-      "offset": 8302,
+      "offset": 9048,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification-iOS-Framework\/UserVerification\/core\/VerifyDocument.swift",
       "kind": "IntegerLiteral",
-      "offset": 8587,
+      "offset": 9333,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification-iOS-Framework\/UserVerification\/core\/VerifyDocument.swift",
       "kind": "BooleanLiteral",
-      "offset": 8935,
+      "offset": 9681,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification-iOS-Framework\/UserVerification\/core\/VerifyDocument.swift",
       "kind": "BooleanLiteral",
-      "offset": 9152,
+      "offset": 9898,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification-iOS-Framework\/UserVerification\/core\/VerifyDocument.swift",
       "kind": "StringLiteral",
-      "offset": 9410,
+      "offset": 10156,
       "length": 11,
       "value": "\"text_scan\""
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification-iOS-Framework\/UserVerification\/core\/VerifyDocument.swift",
       "kind": "StringLiteral",
-      "offset": 9643,
+      "offset": 10389,
       "length": 22,
       "value": "\"text_detection_error\""
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification-iOS-Framework\/UserVerification\/core\/VerifyDocument.swift",
       "kind": "StringLiteral",
-      "offset": 9698,
+      "offset": 10444,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification-iOS-Framework\/UserVerification\/core\/VerifyDocument.swift",
       "kind": "BooleanLiteral",
-      "offset": 9742,
+      "offset": 10488,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification-iOS-Framework\/UserVerification\/core\/VerifyDocument.swift",
       "kind": "IntegerLiteral",
-      "offset": 10136,
+      "offset": 10882,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification-iOS-Framework\/UserVerification\/core\/VerifyDocument.swift",
       "kind": "IntegerLiteral",
-      "offset": 10170,
+      "offset": 10916,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification-iOS-Framework\/UserVerification\/core\/VerifyDocument.swift",
       "kind": "IntegerLiteral",
-      "offset": 10278,
+      "offset": 11003,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification-iOS-Framework\/UserVerification\/core\/VerifyDocument.swift",
       "kind": "BooleanLiteral",
-      "offset": 10494,
+      "offset": 11219,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification-iOS-Framework\/UserVerification\/core\/VerifyDocument.swift",
       "kind": "StringLiteral",
-      "offset": 10598,
+      "offset": 11323,
       "length": 22,
       "value": "\"matching_regex_front\""
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification-iOS-Framework\/UserVerification\/core\/VerifyDocument.swift",
       "kind": "BooleanLiteral",
-      "offset": 10729,
+      "offset": 11454,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification-iOS-Framework\/UserVerification\/core\/VerifyDocument.swift",
       "kind": "IntegerLiteral",
-      "offset": 10898,
+      "offset": 11623,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification-iOS-Framework\/UserVerification\/core\/VerifyDocument.swift",
       "kind": "BooleanLiteral",
-      "offset": 11185,
+      "offset": 11910,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification-iOS-Framework\/UserVerification\/core\/VerifyDocument.swift",
       "kind": "BooleanLiteral",
-      "offset": 11281,
+      "offset": 12006,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification-iOS-Framework\/UserVerification\/core\/VerifyDocument.swift",
       "kind": "BooleanLiteral",
-      "offset": 11425,
+      "offset": 12150,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification-iOS-Framework\/UserVerification\/core\/VerifyDocument.swift",
       "kind": "BooleanLiteral",
-      "offset": 11741,
+      "offset": 12466,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification-iOS-Framework\/UserVerification\/core\/VerifyDocument.swift",
       "kind": "BooleanLiteral",
-      "offset": 11926,
+      "offset": 12651,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification-iOS-Framework\/UserVerification\/core\/VerifyDocument.swift",
       "kind": "StringLiteral",
-      "offset": 11983,
+      "offset": 12708,
       "length": 14,
       "value": "\"matched_list\""
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification-iOS-Framework\/UserVerification\/core\/VerifyDocument.swift",
+      "kind": "StringLiteral",
+      "offset": 12724,
+      "length": 11,
+      "value": "\"isFront: \""
+    },
+    {
+      "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification-iOS-Framework\/UserVerification\/core\/VerifyDocument.swift",
       "kind": "BooleanLiteral",
-      "offset": 12174,
+      "offset": 12934,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification-iOS-Framework\/UserVerification\/core\/VerifyDocument.swift",
       "kind": "BooleanLiteral",
-      "offset": 12423,
+      "offset": 13183,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification-iOS-Framework\/UserVerification\/core\/VerifyDocument.swift",
       "kind": "StringLiteral",
-      "offset": 12452,
+      "offset": 13212,
       "length": 14,
       "value": "\"regex_front:\""
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification-iOS-Framework\/UserVerification\/core\/VerifyDocument.swift",
       "kind": "IntegerLiteral",
-      "offset": 12809,
+      "offset": 13569,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification-iOS-Framework\/UserVerification\/core\/VerifyDocument.swift",
       "kind": "IntegerLiteral",
-      "offset": 12942,
+      "offset": 13702,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification-iOS-Framework\/UserVerification\/core\/VerifyDocument.swift",
       "kind": "BooleanLiteral",
-      "offset": 13037,
+      "offset": 13797,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification-iOS-Framework\/UserVerification\/core\/VerifyDocument.swift",
       "kind": "BooleanLiteral",
-      "offset": 13335,
+      "offset": 14095,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification-iOS-Framework\/UserVerification\/core\/VerifyDocument.swift",
       "kind": "BooleanLiteral",
-      "offset": 13384,
+      "offset": 14144,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification-iOS-Framework\/UserVerification\/core\/VerifyDocument.swift",
       "kind": "BooleanLiteral",
-      "offset": 13488,
+      "offset": 14248,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification-iOS-Framework\/UserVerification\/core\/VerifyDocument.swift",
       "kind": "StringLiteral",
-      "offset": 13518,
+      "offset": 14278,
       "length": 13,
       "value": "\"regex_back:\""
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification-iOS-Framework\/UserVerification\/core\/VerifyDocument.swift",
       "kind": "StringLiteral",
-      "offset": 15434,
+      "offset": 16185,
       "length": 12,
       "value": "\"Id Verify:\""
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification-iOS-Framework\/UserVerification\/core\/VerifyDocument.swift",
       "kind": "StringLiteral",
-      "offset": 16064,
+      "offset": 16815,
       "length": 9,
       "value": "\"Upload:\""
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification-iOS-Framework\/UserVerification\/core\/VerifyDocument.swift",
       "kind": "StringLiteral",
-      "offset": 16680,
+      "offset": 17431,
       "length": 24,
       "value": "\"No Internet Connection\""
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification-iOS-Framework\/UserVerification\/core\/VerifyDocument.swift",
       "kind": "Array",
-      "offset": 16928,
+      "offset": 17679,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification-iOS-Framework\/UserVerification\/core\/VerifyDocument.swift",
       "kind": "IntegerLiteral",
-      "offset": 16967,
+      "offset": 17718,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification-iOS-Framework\/UserVerification\/core\/VerifyDocument.swift",
       "kind": "IntegerLiteral",
-      "offset": 17087,
+      "offset": 17838,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification-iOS-Framework\/UserVerification\/core\/VerifyDocument.swift",
       "kind": "StringLiteral",
-      "offset": 17224,
+      "offset": 17975,
       "length": 4,
       "value": "\"«\""
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification-iOS-Framework\/UserVerification\/core\/VerifyDocument.swift",
       "kind": "StringLiteral",
-      "offset": 17236,
+      "offset": 17987,
       "length": 3,
       "value": "\"<\""
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification-iOS-Framework\/UserVerification\/core\/VerifyDocument.swift",
       "kind": "StringLiteral",
-      "offset": 17439,
+      "offset": 18190,
       "length": 13,
       "value": "\"countryCode\""
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification-iOS-Framework\/UserVerification\/core\/VerifyDocument.swift",
       "kind": "StringLiteral",
-      "offset": 17655,
+      "offset": 18406,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification-iOS-Framework\/UserVerification\/core\/VerifyDocument.swift",
       "kind": "StringLiteral",
-      "offset": 17960,
+      "offset": 18711,
       "length": 20,
       "value": "\"Matched Regex Data\""
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification-iOS-Framework\/UserVerification\/core\/VerifyDocument.swift",
       "kind": "StringLiteral",
-      "offset": 18609,
+      "offset": 19360,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification-iOS-Framework\/UserVerification\/core\/VerifyDocument.swift",
       "kind": "StringLiteral",
-      "offset": 18715,
+      "offset": 19466,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification-iOS-Framework\/UserVerification\/core\/VerifyDocument.swift",
       "kind": "BooleanLiteral",
-      "offset": 19241,
+      "offset": 19992,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification-iOS-Framework\/UserVerification\/core\/VerifyDocument.swift",
       "kind": "BooleanLiteral",
-      "offset": 19341,
+      "offset": 20092,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification-iOS-Framework\/UserVerification\/core\/VerifyDocument.swift",
       "kind": "BooleanLiteral",
-      "offset": 19370,
+      "offset": 20121,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification-iOS-Framework\/UserVerification\/core\/VerifyDocument.swift",
       "kind": "IntegerLiteral",
-      "offset": 19550,
+      "offset": 20301,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification-iOS-Framework\/UserVerification\/core\/VerifyDocument.swift",
       "kind": "IntegerLiteral",
-      "offset": 19802,
+      "offset": 20553,
       "length": 3,
       "value": "160"
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification-iOS-Framework\/UserVerification\/core\/VerifyDocument.swift",
       "kind": "IntegerLiteral",
-      "offset": 19851,
+      "offset": 20602,
       "length": 2,
       "value": "80"
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification-iOS-Framework\/UserVerification\/core\/VerifyDocument.swift",
       "kind": "IntegerLiteral",
-      "offset": 19893,
+      "offset": 20644,
       "length": 2,
       "value": "60"
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification-iOS-Framework\/UserVerification\/core\/VerifyDocument.swift",
       "kind": "IntegerLiteral",
-      "offset": 19935,
+      "offset": 20686,
       "length": 2,
       "value": "50"
     },

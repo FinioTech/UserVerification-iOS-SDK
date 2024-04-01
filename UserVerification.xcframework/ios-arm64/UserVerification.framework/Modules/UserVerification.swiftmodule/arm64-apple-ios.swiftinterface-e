@@ -65,6 +65,7 @@ public protocol UserVerificationDelegate {
   public static let shared: UserVerification.UserVerification
   final public func config(storeId: Swift.String?, storePassword: Swift.String?, production: Swift.Bool)
   final public func scanID(preview: UIKit.UIView?, country: UserVerification.Country, flipIntervalTime: Swift.Double = 0.0, delegate: any UserVerification.IdVerificationDelegate)
+  final public func scanID(preview: UIKit.UIView?, document: UserVerification.DocumentType, flipIntervalTime: Swift.Double = 0.0, delegate: any UserVerification.IdVerificationDelegate)
   final public func scanID(preview: UIKit.UIView?, country: UserVerification.Country, document: UserVerification.DocumentType, flipIntervalTime: Swift.Double = 0.0, delegate: any UserVerification.IdVerificationDelegate)
   final public func verifyUser(preview: UIKit.UIView?, userId: Swift.String?, delegate: any UserVerification.UserVerificationDelegate)
   final public func verifyUser(preview: UIKit.UIView?, userId: Swift.String?, direction: UserVerification.FaceDirection, delegate: any UserVerification.UserVerificationDelegate)
