@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
 
     s.name             = "UserVerification"
-    s.version          = "1.1.2"
+    s.version          = "1.2.0"
     s.summary          = "SDK for verify User based on document and biometric proof"
 
     s.description      = <<-DESC
@@ -14,9 +14,9 @@ Pod::Spec.new do |s|
     s.source           =  { :git => "https://github.com/FinioTech/UserVerification-iOS-SDK.git", :tag => s.version.to_s }
 
     s.ios.framework = 'UserVerification'
-    s.platform      = :ios, '12.0'
+    s.platform      = :ios, '13.0'
     s.swift_version = '5.0'
-    s.ios.deployment_target  = '11.0'
+    s.ios.deployment_target  = '13.0'
     s.vendored_frameworks = 'UserVerification.xcframework'
     
     s.frameworks   = "Foundation"
@@ -24,10 +24,7 @@ Pod::Spec.new do |s|
     s.frameworks   = "AVFoundation"
     s.libraries    = "c++", "z"
 
-    s.dependency "GoogleMLKit/ObjectDetection"
-    s.dependency "GoogleMLKit/FaceDetection"
-    s.dependency "GoogleMLKit/TextRecognition"
-    s.dependency "Protobuf"
+    s.dependency 'OpenSSL-Universal', '~> 1.1.2200'
 
     s.xcconfig = {"HEADER_SEARCH_PATHS" => "$(inherited)"}
 
