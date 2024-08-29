@@ -8,10 +8,11 @@
  ## Features
  - [Document verification](#document-verification)
  - [Face verification](#face-verification)
+ - [NFC verification](#nfc-verification)
 
 ## Requirements
 
-- iOS 12.0+
+- iOS 13.0+
 - Xcode 14.3+
 
 ## Setup 
@@ -42,9 +43,9 @@ In AppDelegate `didFinishLaunchingWithOptions` method initialize `UserVerificati
 
 ```swift
     func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?) -> Bool {
-      
+    
         UserVerification.shared.config(storeId: 'STORE_ID', storePassword: 'STORE_PASSWORD', production: true/false)
-
+        
         return true
     }
 ```
@@ -52,16 +53,16 @@ In AppDelegate `didFinishLaunchingWithOptions` method initialize `UserVerificati
 
 ### Document verification
 
-To verify a Document start camera session in `viewWillAppear` override method. Provide a `UIView` reference as camera preview, 
-pick a `Country` from available options, document flip delay time in `Double` and implement `IdVerificationDelegate` delegate 
-to get result. [Stop camera](#stop-camera-session) session before moving forward unless memory leak may happen as 
-camera lifecycle didn't finish.
+To verify a Document start camera session, in `viewWillAppear` override method. Provide a `UIView` reference as camera preview, 
+pick a `Country` from available options, document flip delay time in `Double`, a boolean (true/false) to enable manual process
+and implement `IdVerificationDelegate` delegate to get result. [Stop camera](#stop-camera-session) session before moving forward 
+unless memory leak may happen as camera lifecycle didn't finish.
 
 ```swift
     override func viewWillAppear(_ animated: Bool) {
         super.viewWillAppear(animated)
         
-        UserVerification.shared.scanID(preview: self.scannerUIView, country: Country, flipIntervalTime: Double, delegate: self)
+        UserVerification.shared.scanID(preview: self.preview, country: Country, flipIntervalTime: Double, delegate: self)
         UserVerification.shared.startSession()
     }
 ```
@@ -106,7 +107,7 @@ pass `userId` from document verification result and implement `UserVerificationD
     override func viewWillAppear(_ animated: Bool) {
         super.viewWillAppear(animated)
         
-        UserVerification.shared.verifyUser(preview: self.scannerUIView, userId: scannedUserId, delegate: self)
+        UserVerification.shared.verifyUser(preview: self.preview, userId: self.userId, delegate: self)
         UserVerification.shared.startSession()
     }
 ```
@@ -152,3 +153,55 @@ Stop camera session in `viewWillDisappear` override method to safely complete ve
 ```
 
 
+### NFC Verification
+
+To verify a Document start NFC session, in `viewWillAppear` override method. Provide `userId` from document verification result and implement `NFCDataVerificationDelegate` delegate to get final result. [Stop NFC](#stop-nfc-session) session before moving forward, to safely complete verification process.
+
+
+```swift
+    override func viewWillAppear(_ animated: Bool) {
+        super.viewWillAppear(animated)
+        
+        UserVerification.shared.verifyNFCData(userId: self.userId, delegate: self)
+    }
+```
+
+In `NFCDataVerificationDelegate` NFC verification result will be found.
+
+```swift
+extension My_ViewController: NFCDataVerificationDelegate {
+    
+    func onPrepare() {
+      // Prepareing to scan NFC chip
+    }
+    
+    func onStart() {
+      // NFC scanner prompt will be apeared
+    }
+    
+    func onSuccess() {
+      // NFC verification succeed
+    }
+    
+    func onFailure(code: Int, error: String) {
+      // NFC verification failed with code and an error message
+    }
+    
+    func onValidCapture(data: NFCTagDataModel) {
+      // On successfull scan, NFC response will be returned
+    }
+}
+```
+
+
+### Stop NFC Session
+
+Stop NFC session in `viewWillDisappear` override method to safely complete verification process.
+
+
+```swift
+    override func viewWillDisappear(_ animated: Bool) {
+        super.viewWillDisappear(animated)
+        
+        UserVerification.shared.stopSession()
+    }
