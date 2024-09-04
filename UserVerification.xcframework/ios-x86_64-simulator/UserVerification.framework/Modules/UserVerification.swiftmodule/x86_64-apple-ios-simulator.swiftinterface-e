@@ -21,50 +21,6 @@ import _Concurrency
 import _CoreNFC_UIKit
 import _StringProcessing
 import _SwiftConcurrencyShims
-@_hasMissingDesignatedInitializers public class ChipAuthPublicKeyInfo : UserVerification.SecurityInfo {
-  override public func getObjectIdentifier() -> Swift.String
-  override public func getProtocolOIDString() -> Swift.String
-  public func getKeyId() -> Swift.Int
-  @objc deinit
-}
-public struct DataGroupHash {
-  public var id: Swift.String
-  public var sodHash: Swift.String
-  public var computedHash: Swift.String
-  public var match: Swift.Bool
-}
-public enum DataGroupId : Swift.Int, Swift.CaseIterable {
-  case COM
-  case DG1
-  case DG2
-  case DG3
-  case DG4
-  case DG5
-  case DG6
-  case DG7
-  case DG8
-  case DG9
-  case DG10
-  case DG11
-  case DG12
-  case DG13
-  case DG14
-  case DG15
-  case DG16
-  case SOD
-  case Unknown
-  public func getName() -> Swift.String
-  public static func getIDFromName(name: Swift.String) -> UserVerification.DataGroupId
-  public init?(rawValue: Swift.Int)
-  public typealias AllCases = [UserVerification.DataGroupId]
-  public typealias RawValue = Swift.Int
-  public static var allCases: [UserVerification.DataGroupId] {
-    get
-  }
-  public var rawValue: Swift.Int {
-    get
-  }
-}
 public protocol IdVerificationDelegate {
   func onStart()
   func onCardFlip()
@@ -73,24 +29,10 @@ public protocol IdVerificationDelegate {
   func onReadyToSubmit()
   func onValidCapture(image: UIKit.UIImage, isFront: Swift.Bool)
 }
-@_hasMissingDesignatedInitializers public class DataGroup {
-  public var datagroupType: UserVerification.DataGroupId {
-    get
-  }
-  public var body: [Swift.UInt8] {
-    get
-  }
-  public var data: [Swift.UInt8] {
-    get
-  }
-  public func hash(_ hashAlgorythm: Swift.String) -> [Swift.UInt8]
-  public func verifyTag(_ tag: Swift.Int, equals expectedTag: Swift.Int) throws
-  public func verifyTag(_ tag: Swift.Int, oneOf expectedTags: [Swift.Int]) throws
-  @objc deinit
-}
 public struct NFCTagDataModel {
   public let firstName: Swift.String
   public let lastName: Swift.String
+  public let fullName: Swift.String
   public let gender: Swift.String
   public let dateOfBirth: Swift.String
   public let nationality: Swift.String
@@ -109,36 +51,8 @@ public struct NFCTagDataModel {
 }
 public struct DocumentSecurityModel {
 }
-@_inheritsConvenienceInitializers @_hasMissingDesignatedInitializers public class DataGroup14 : UserVerification.DataGroup {
-  public var securityInfos: [UserVerification.SecurityInfo] {
-    get
-  }
-  override public var datagroupType: UserVerification.DataGroupId {
-    get
-  }
-  @objc deinit
-}
 public class NFCTagReader {
   public init(tag: any CoreNFC.NFCISO7816Tag)
-  @objc deinit
-}
-public enum DocTypeEnum : Swift.String {
-  case TD1
-  case TD2
-  case OTHER
-  public init?(rawValue: Swift.String)
-  public typealias RawValue = Swift.String
-  public var rawValue: Swift.String {
-    get
-  }
-}
-@_inheritsConvenienceInitializers @_hasMissingDesignatedInitializers public class DataGroup1 : UserVerification.DataGroup {
-  public var elements: [Swift.String : Swift.String] {
-    get
-  }
-  override public var datagroupType: UserVerification.DataGroupId {
-    get
-  }
   @objc deinit
 }
 public protocol NFCDataVerificationDelegate {
@@ -150,12 +64,6 @@ public protocol NFCDataVerificationDelegate {
 }
 extension UserVerification.NFCDataVerificationDelegate {
   public func onValidCapture(data: UserVerification.NFCTagDataModel)
-}
-@_hasMissingDesignatedInitializers public class ActiveAuthInfo : UserVerification.SecurityInfo {
-  override public func getObjectIdentifier() -> Swift.String
-  override public func getProtocolOIDString() -> Swift.String
-  public func getSignatureAlgorithmOIDString() -> Swift.String?
-  @objc deinit
 }
 public class SelfieCameraOptions {
   final public let enableBackCamera: Swift.Bool
@@ -170,111 +78,6 @@ public class FaceFrame {
   final public let circleRadius: CoreFoundation.CGFloat
   final public let circleColor: UIKit.UIColor
   public init(enableCircle: Swift.Bool, circleRadius: CoreFoundation.CGFloat, circleColor: UIKit.UIColor)
-  @objc deinit
-}
-@_inheritsConvenienceInitializers @_hasMissingDesignatedInitializers public class DataGroup12 : UserVerification.DataGroup {
-  public var issuingAuthority: Swift.String? {
-    get
-  }
-  public var dateOfIssue: Swift.String? {
-    get
-  }
-  public var otherPersonsDetails: Swift.String? {
-    get
-  }
-  public var endorsementsOrObservations: Swift.String? {
-    get
-  }
-  public var taxOrExitRequirements: Swift.String? {
-    get
-  }
-  public var frontImage: [Swift.UInt8]? {
-    get
-  }
-  public var rearImage: [Swift.UInt8]? {
-    get
-  }
-  public var personalizationTime: Swift.String? {
-    get
-  }
-  public var personalizationDeviceSerialNr: Swift.String? {
-    get
-  }
-  override public var datagroupType: UserVerification.DataGroupId {
-    get
-  }
-  @objc deinit
-}
-@_inheritsConvenienceInitializers @_hasMissingDesignatedInitializers public class DataGroup2 : UserVerification.DataGroup {
-  public var nrImages: Swift.Int {
-    get
-  }
-  public var versionNumber: Swift.Int {
-    get
-  }
-  public var lengthOfRecord: Swift.Int {
-    get
-  }
-  public var numberOfFacialImages: Swift.Int {
-    get
-  }
-  public var facialRecordDataLength: Swift.Int {
-    get
-  }
-  public var nrFeaturePoints: Swift.Int {
-    get
-  }
-  public var gender: Swift.Int {
-    get
-  }
-  public var eyeColor: Swift.Int {
-    get
-  }
-  public var hairColor: Swift.Int {
-    get
-  }
-  public var featureMask: Swift.Int {
-    get
-  }
-  public var expression: Swift.Int {
-    get
-  }
-  public var poseAngle: Swift.Int {
-    get
-  }
-  public var poseAngleUncertainty: Swift.Int {
-    get
-  }
-  public var faceImageType: Swift.Int {
-    get
-  }
-  public var imageDataType: Swift.Int {
-    get
-  }
-  public var imageWidth: Swift.Int {
-    get
-  }
-  public var imageHeight: Swift.Int {
-    get
-  }
-  public var imageColorSpace: Swift.Int {
-    get
-  }
-  public var sourceType: Swift.Int {
-    get
-  }
-  public var deviceType: Swift.Int {
-    get
-  }
-  public var quality: Swift.Int {
-    get
-  }
-  public var imageData: [Swift.UInt8] {
-    get
-  }
-  override public var datagroupType: UserVerification.DataGroupId {
-    get
-  }
   @objc deinit
 }
 @_hasMissingDesignatedInitializers public class DocumentType {
@@ -314,63 +117,8 @@ public enum Constant {
   public static let Bangladesh: UserVerification.Country
   public static let Iraq: UserVerification.Country
   public static let Canada: UserVerification.Country
+  public static let USA: UserVerification.Country
   final public let value: Swift.String
-  @objc deinit
-}
-@_hasMissingDesignatedInitializers public class SecurityInfo {
-  public func getObjectIdentifier() -> Swift.String
-  public func getProtocolOIDString() -> Swift.String
-  @objc deinit
-}
-@_hasMissingDesignatedInitializers public class ChipAuthInfo : UserVerification.SecurityInfo {
-  override public func getObjectIdentifier() -> Swift.String
-  override public func getProtocolOIDString() -> Swift.String
-  public func getKeyId() -> Swift.Int
-  public static func toKeyAgreementAlgorithm(oid: Swift.String) throws -> Swift.String
-  public static func toCipherAlgorithm(oid: Swift.String) throws -> Swift.String
-  public static func toKeyLength(oid: Swift.String) throws -> Swift.Int
-  @objc deinit
-}
-@_inheritsConvenienceInitializers @_hasMissingDesignatedInitializers public class DataGroup11 : UserVerification.DataGroup {
-  public var fullName: Swift.String? {
-    get
-  }
-  public var personalNumber: Swift.String? {
-    get
-  }
-  public var dateOfBirth: Swift.String? {
-    get
-  }
-  public var placeOfBirth: Swift.String? {
-    get
-  }
-  public var address: Swift.String? {
-    get
-  }
-  public var telephone: Swift.String? {
-    get
-  }
-  public var profession: Swift.String? {
-    get
-  }
-  public var title: Swift.String? {
-    get
-  }
-  public var personalSummary: Swift.String? {
-    get
-  }
-  public var proofOfCitizenship: Swift.String? {
-    get
-  }
-  public var tdNumbers: Swift.String? {
-    get
-  }
-  public var custodyInfo: Swift.String? {
-    get
-  }
-  override public var datagroupType: UserVerification.DataGroupId {
-    get
-  }
   @objc deinit
 }
 public protocol UserVerificationDelegate {
@@ -379,21 +127,6 @@ public protocol UserVerificationDelegate {
   func onSuccess()
   func onFailure(code: Swift.Int, error: Swift.String)
   func onValidCapture(image: UIKit.UIImage, faceAngle: UserVerification.FaceAngle)
-}
-@_inheritsConvenienceInitializers @_hasMissingDesignatedInitializers public class COM : UserVerification.DataGroup {
-  public var version: Swift.String {
-    get
-  }
-  public var unicodeVersion: Swift.String {
-    get
-  }
-  public var dataGroupsPresent: [Swift.String] {
-    get
-  }
-  override public var datagroupType: UserVerification.DataGroupId {
-    get
-  }
-  @objc deinit
 }
 @_hasMissingDesignatedInitializers final public class UserVerification {
   public static let shared: UserVerification.UserVerification
@@ -408,21 +141,6 @@ public protocol UserVerificationDelegate {
   final public func stopSession()
   final public func submitSession()
   final public func verifyNFCData(userId: Swift.String?, delegate: any UserVerification.NFCDataVerificationDelegate)
-  @objc deinit
-}
-@_hasMissingDesignatedInitializers public class CardAccess {
-  public var securityInfos: [UserVerification.SecurityInfo] {
-    get
-  }
-  @objc deinit
-}
-@_inheritsConvenienceInitializers @_hasMissingDesignatedInitializers public class DataGroup7 : UserVerification.DataGroup {
-  public var imageData: [Swift.UInt8] {
-    get
-  }
-  override public var datagroupType: UserVerification.DataGroupId {
-    get
-  }
   @objc deinit
 }
 public func binToHexRep(_ val: [Swift.UInt8], asArray: Swift.Bool = false) -> Swift.String
@@ -468,27 +186,9 @@ public func calcSHA256Hash(_ data: [Swift.UInt8]) -> [Swift.UInt8]
 public func calcSHA512Hash(_ data: [Swift.UInt8]) -> [Swift.UInt8]
 @available(iOS 13, macOS 10.15, *)
 public func calcSHA384Hash(_ data: [Swift.UInt8]) -> [Swift.UInt8]
-@_inheritsConvenienceInitializers @_hasMissingDesignatedInitializers public class DataGroup15 : UserVerification.DataGroup {
-  public var rsaPublicKey: Swift.OpaquePointer? {
-    get
-  }
-  public var ecdsaPublicKey: Swift.OpaquePointer? {
-    get
-  }
-  override public var datagroupType: UserVerification.DataGroupId {
-    get
-  }
-  @objc deinit
-}
 @_hasMissingDesignatedInitializers public class FaceDirection {
   public static let CLR: UserVerification.FaceDirection
   public static let LRC: UserVerification.FaceDirection
   final public let value: Swift.String
   @objc deinit
 }
-extension UserVerification.DataGroupId : Swift.Equatable {}
-extension UserVerification.DataGroupId : Swift.Hashable {}
-extension UserVerification.DataGroupId : Swift.RawRepresentable {}
-extension UserVerification.DocTypeEnum : Swift.Equatable {}
-extension UserVerification.DocTypeEnum : Swift.Hashable {}
-extension UserVerification.DocTypeEnum : Swift.RawRepresentable {}
