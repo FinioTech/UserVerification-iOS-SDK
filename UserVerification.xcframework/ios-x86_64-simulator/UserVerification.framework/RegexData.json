@@ -228,7 +228,7 @@
           "match": 100
         },
         {
-          "regex": "^\\d{4}[A-Z,0-9, :]{14,18}$",
+          "regex": "^\\d{4}[A-Z,0-9, :]{14,18}",
           "type": "familyId",
           "removeSpace": false,
           "required": true,
@@ -249,7 +249,7 @@
           "match": 100
         },
         {
-          "regex": "^[A-Z,<,«, ]{26,34}$",
+          "regex": "^[A-Z,0-9,<,«, ]{26,34}$",
           "type": "mrz3",
           "removeSpace": true,
           "required": true,

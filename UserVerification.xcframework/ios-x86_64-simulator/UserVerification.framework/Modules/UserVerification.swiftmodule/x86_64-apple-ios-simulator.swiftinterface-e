@@ -8,6 +8,8 @@ import CryptoKit
 import CryptoTokenKit
 import DeveloperToolsSupport
 import Foundation
+import MLKitTextRecognition
+import MLKitVision
 import OSLog
 import OpenSSL
 import Swift
