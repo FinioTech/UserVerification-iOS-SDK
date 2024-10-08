@@ -1,6 +1,6 @@
 // swift-interface-format-version: 1.0
 // swift-compiler-version: Apple Swift version 5.10 (swiftlang-5.10.0.13 clang-1500.3.9.4)
-// swift-module-flags: -target x86_64-apple-ios13.0-simulator -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -enable-bare-slash-regex -module-name UserVerification
+// swift-module-flags: -target arm64-apple-ios13.0 -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -enable-bare-slash-regex -module-name UserVerification
 import AVFoundation
 import CommonCrypto
 import CoreNFC
@@ -62,20 +62,20 @@ public protocol NFCDataVerificationDelegate {
   func onStart()
   func onSuccess()
   func onFailure(code: Swift.Int, error: Swift.String)
-  func onValidCapture(data: NFCTagDataModel)
+  func onValidCapture(data: UserVerification.NFCTagDataModel)
 }
-extension NFCDataVerificationDelegate {
-  public func onValidCapture(data: NFCTagDataModel)
+extension UserVerification.NFCDataVerificationDelegate {
+  public func onValidCapture(data: UserVerification.NFCTagDataModel)
 }
 public class SelfieCameraOptions {
   final public let enableBackCamera: Swift.Bool
-  final public let faceFrame: FaceFrame
-  public init(enableBackCamera: Swift.Bool = false, faceFrame: FaceFrame = FaceFrame.disabled)
+  final public let faceFrame: UserVerification.FaceFrame
+  public init(enableBackCamera: Swift.Bool = false, faceFrame: UserVerification.FaceFrame = FaceFrame.disabled)
   @objc deinit
 }
 public class FaceFrame {
-  public static let `default`: FaceFrame
-  public static let disabled: FaceFrame
+  public static let `default`: UserVerification.FaceFrame
+  public static let disabled: UserVerification.FaceFrame
   final public let enableCircle: Swift.Bool
   final public let circleRadius: CoreFoundation.CGFloat
   final public let circleColor: UIKit.UIColor
@@ -83,12 +83,12 @@ public class FaceFrame {
   @objc deinit
 }
 @_hasMissingDesignatedInitializers public class DocumentType {
-  public static let NationalId: DocumentType
-  public static let OldNationalId: DocumentType
-  public static let Passport: DocumentType
-  public static let DrivingLicense: DocumentType
-  public static let ResidentCard: DocumentType
-  public static let FaceID: DocumentType
+  public static let NationalId: UserVerification.DocumentType
+  public static let OldNationalId: UserVerification.DocumentType
+  public static let Passport: UserVerification.DocumentType
+  public static let DrivingLicense: UserVerification.DocumentType
+  public static let ResidentCard: UserVerification.DocumentType
+  public static let FaceID: UserVerification.DocumentType
   final public let value: Swift.String
   @objc deinit
 }
@@ -109,40 +109,40 @@ public func DESDecrypt(key: [Swift.UInt8], message: [Swift.UInt8], iv: [Swift.UI
 public enum Constant {
 }
 @_hasMissingDesignatedInitializers public class FaceAngle {
-  public static let LEFT: FaceAngle
-  public static let RIGHT: FaceAngle
-  public static let CENTER: FaceAngle
+  public static let LEFT: UserVerification.FaceAngle
+  public static let RIGHT: UserVerification.FaceAngle
+  public static let CENTER: UserVerification.FaceAngle
   final public let value: Swift.String
   @objc deinit
 }
 @_hasMissingDesignatedInitializers public class Country {
-  public static let Bangladesh: Country
-  public static let Iraq: Country
-  public static let Canada: Country
-  public static let USA: Country
+  public static let Bangladesh: UserVerification.Country
+  public static let Iraq: UserVerification.Country
+  public static let Canada: UserVerification.Country
+  public static let USA: UserVerification.Country
   final public let value: Swift.String
   @objc deinit
 }
 public protocol UserVerificationDelegate {
   func onStart()
-  func onInstruction(faceAngle: FaceAngle)
+  func onInstruction(faceAngle: UserVerification.FaceAngle)
   func onSuccess()
   func onFailure(code: Swift.Int, error: Swift.String)
-  func onValidCapture(image: UIKit.UIImage, faceAngle: FaceAngle)
+  func onValidCapture(image: UIKit.UIImage, faceAngle: UserVerification.FaceAngle)
 }
 @_hasMissingDesignatedInitializers final public class UserVerification {
-  public static let shared: UserVerification
+  public static let shared: UserVerification.UserVerification
   final public func config(storeId: Swift.String?, storePassword: Swift.String?, production: Swift.Bool)
-  final public func scanID(preview: UIKit.UIView?, country: Country, flipIntervalTime: Swift.Double = 0.0, manualSubmit: Swift.Bool, delegate: any IdVerificationDelegate)
-  final public func scanID(preview: UIKit.UIView?, document: DocumentType, flipIntervalTime: Swift.Double = 0.0, manualSubmit: Swift.Bool, delegate: any IdVerificationDelegate)
-  final public func scanID(preview: UIKit.UIView?, country: Country, document: DocumentType, flipIntervalTime: Swift.Double = 0.0, manualSubmit: Swift.Bool, delegate: any IdVerificationDelegate)
-  final public func verifyUser(preview: UIKit.UIView?, userId: Swift.String?, delegate: any UserVerificationDelegate)
-  final public func verifyUser(preview: UIKit.UIView?, userId: Swift.String?, direction: FaceDirection, delegate: any UserVerificationDelegate)
-  final public func verifyUser(preview: UIKit.UIView?, userId: Swift.String?, direction: FaceDirection, options: SelfieCameraOptions, delegate: any UserVerificationDelegate)
+  final public func scanID(preview: UIKit.UIView?, country: UserVerification.Country, flipIntervalTime: Swift.Double = 0.0, manualSubmit: Swift.Bool, delegate: any UserVerification.IdVerificationDelegate)
+  final public func scanID(preview: UIKit.UIView?, document: UserVerification.DocumentType, flipIntervalTime: Swift.Double = 0.0, manualSubmit: Swift.Bool, delegate: any UserVerification.IdVerificationDelegate)
+  final public func scanID(preview: UIKit.UIView?, country: UserVerification.Country, document: UserVerification.DocumentType, flipIntervalTime: Swift.Double = 0.0, manualSubmit: Swift.Bool, delegate: any UserVerification.IdVerificationDelegate)
+  final public func verifyUser(preview: UIKit.UIView?, userId: Swift.String?, delegate: any UserVerification.UserVerificationDelegate)
+  final public func verifyUser(preview: UIKit.UIView?, userId: Swift.String?, direction: UserVerification.FaceDirection, delegate: any UserVerification.UserVerificationDelegate)
+  final public func verifyUser(preview: UIKit.UIView?, userId: Swift.String?, direction: UserVerification.FaceDirection, options: UserVerification.SelfieCameraOptions, delegate: any UserVerification.UserVerificationDelegate)
   final public func startSession()
   final public func stopSession()
   final public func submitSession()
-  final public func verifyNFCData(userId: Swift.String?, delegate: any NFCDataVerificationDelegate)
+  final public func verifyNFCData(userId: Swift.String?, delegate: any UserVerification.NFCDataVerificationDelegate)
   @objc deinit
 }
 public func binToHexRep(_ val: [Swift.UInt8], asArray: Swift.Bool = false) -> Swift.String
@@ -189,8 +189,8 @@ public func calcSHA512Hash(_ data: [Swift.UInt8]) -> [Swift.UInt8]
 @available(iOS 13, macOS 10.15, *)
 public func calcSHA384Hash(_ data: [Swift.UInt8]) -> [Swift.UInt8]
 @_hasMissingDesignatedInitializers public class FaceDirection {
-  public static let CLR: FaceDirection
-  public static let LRC: FaceDirection
+  public static let CLR: UserVerification.FaceDirection
+  public static let LRC: UserVerification.FaceDirection
   final public let value: Swift.String
   @objc deinit
 }
