@@ -11,13 +11,13 @@ let package = Package(
             targets: ["UserVerification"]),
     ],
     dependencies: [
-        .package(url: "https://github.com/krzyzanowskim/OpenSSL.git", .upToNextMajor(from: "1.1.2200"))
+        .package(url: "https://github.com/krzyzanowskim/OpenSSL.git", .upToNextMajor(from: "1.1.2300"))
     ],
     targets: [
         .binaryTarget(
            name: "UserVerification",
            url: "https://github.com/FinioTech/UserVerification-iOS-SDK/releases/download/1.2.1/UserVerification.xcframework.zip",
-           checksum: "c2d0a898c7fb8695d3d5d700ec92f0f46ba56265e64315eb0da3b2b9aeca6ec4"
+           checksum: "d5768f2b92ce17371ba65d305e236ef833061f916a9725374ef3ba4658dda32b"
         )
     ],
     swiftLanguageVersions: [.v5]
