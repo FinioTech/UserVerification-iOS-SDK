@@ -7658,7 +7658,7 @@
       "kind": "StringLiteral",
       "offset": 221,
       "length": 7,
-      "value": "\"1.2.1\""
+      "value": "\"1.2.2\""
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification-iOS-Framework\/UserVerification\/constant\/Constants.swift",
@@ -8265,7 +8265,7 @@
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification-iOS-Framework\/UserVerification\/nfc\/NFCTagReader.swift",
       "kind": "IntegerLiteral",
-      "offset": 5139,
+      "offset": 5204,
       "length": 3,
       "value": "256"
     },
@@ -8279,51 +8279,30 @@
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification-iOS-Framework\/UserVerification\/repository\/model\/request\/DeviceInfoModel.swift",
       "kind": "StringLiteral",
-      "offset": 224,
-      "length": 5,
-      "value": "\"iOS\""
-    },
-    {
-      "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification-iOS-Framework\/UserVerification\/repository\/model\/request\/DeviceInfoModel.swift",
-      "kind": "StringLiteral",
-      "offset": 300,
+      "offset": 267,
       "length": 11,
       "value": "\"osVersion\""
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification-iOS-Framework\/UserVerification\/repository\/model\/request\/DeviceInfoModel.swift",
       "kind": "StringLiteral",
-      "offset": 337,
+      "offset": 304,
       "length": 11,
       "value": "\"modelName\""
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification-iOS-Framework\/UserVerification\/repository\/model\/request\/DeviceInfoModel.swift",
       "kind": "StringLiteral",
-      "offset": 373,
-      "length": 10,
-      "value": "\"platform\""
-    },
-    {
-      "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification-iOS-Framework\/UserVerification\/repository\/model\/request\/DeviceInfoModel.swift",
-      "kind": "StringLiteral",
-      "offset": 300,
+      "offset": 267,
       "length": 11,
       "value": "\"osVersion\""
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification-iOS-Framework\/UserVerification\/repository\/model\/request\/DeviceInfoModel.swift",
       "kind": "StringLiteral",
-      "offset": 337,
+      "offset": 304,
       "length": 11,
       "value": "\"modelName\""
-    },
-    {
-      "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification-iOS-Framework\/UserVerification\/repository\/model\/request\/DeviceInfoModel.swift",
-      "kind": "StringLiteral",
-      "offset": 373,
-      "length": 10,
-      "value": "\"platform\""
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification-iOS-Framework\/UserVerification\/nfc\/datagroups\/ActiveAuthInfo.swift",
@@ -8335,140 +8314,161 @@
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification-iOS-Framework\/UserVerification\/repository\/model\/request\/UploadIdDataModel.swift",
       "kind": "StringLiteral",
-      "offset": 503,
+      "offset": 368,
+      "length": 5,
+      "value": "\"iOS\""
+    },
+    {
+      "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification-iOS-Framework\/UserVerification\/repository\/model\/request\/UploadIdDataModel.swift",
+      "kind": "StringLiteral",
+      "offset": 536,
       "length": 9,
       "value": "\"country\""
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification-iOS-Framework\/UserVerification\/repository\/model\/request\/UploadIdDataModel.swift",
       "kind": "StringLiteral",
-      "offset": 535,
+      "offset": 568,
       "length": 8,
       "value": "\"idType\""
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification-iOS-Framework\/UserVerification\/repository\/model\/request\/UploadIdDataModel.swift",
       "kind": "StringLiteral",
-      "offset": 567,
+      "offset": 600,
       "length": 9,
       "value": "\"storeId\""
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification-iOS-Framework\/UserVerification\/repository\/model\/request\/UploadIdDataModel.swift",
       "kind": "StringLiteral",
-      "offset": 606,
+      "offset": 639,
       "length": 15,
       "value": "\"storePassword\""
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification-iOS-Framework\/UserVerification\/repository\/model\/request\/UploadIdDataModel.swift",
       "kind": "StringLiteral",
-      "offset": 644,
+      "offset": 677,
       "length": 8,
       "value": "\"userId\""
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification-iOS-Framework\/UserVerification\/repository\/model\/request\/UploadIdDataModel.swift",
       "kind": "StringLiteral",
-      "offset": 679,
+      "offset": 712,
       "length": 12,
       "value": "\"deviceInfo\""
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification-iOS-Framework\/UserVerification\/repository\/model\/request\/UploadIdDataModel.swift",
       "kind": "StringLiteral",
-      "offset": 718,
+      "offset": 751,
       "length": 12,
       "value": "\"sdkVersion\""
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification-iOS-Framework\/UserVerification\/repository\/model\/request\/UploadIdDataModel.swift",
       "kind": "StringLiteral",
-      "offset": 761,
+      "offset": 788,
+      "length": 10,
+      "value": "\"platform\""
+    },
+    {
+      "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification-iOS-Framework\/UserVerification\/repository\/model\/request\/UploadIdDataModel.swift",
+      "kind": "StringLiteral",
+      "offset": 829,
       "length": 11,
       "value": "\"frontSide\""
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification-iOS-Framework\/UserVerification\/repository\/model\/request\/UploadIdDataModel.swift",
       "kind": "StringLiteral",
-      "offset": 802,
+      "offset": 870,
       "length": 10,
       "value": "\"backSide\""
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification-iOS-Framework\/UserVerification\/repository\/model\/request\/UploadIdDataModel.swift",
       "kind": "StringLiteral",
-      "offset": 842,
+      "offset": 910,
       "length": 11,
       "value": "\"userImage\""
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification-iOS-Framework\/UserVerification\/repository\/model\/request\/UploadIdDataModel.swift",
       "kind": "StringLiteral",
-      "offset": 503,
+      "offset": 536,
       "length": 9,
       "value": "\"country\""
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification-iOS-Framework\/UserVerification\/repository\/model\/request\/UploadIdDataModel.swift",
       "kind": "StringLiteral",
-      "offset": 535,
+      "offset": 568,
       "length": 8,
       "value": "\"idType\""
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification-iOS-Framework\/UserVerification\/repository\/model\/request\/UploadIdDataModel.swift",
       "kind": "StringLiteral",
-      "offset": 567,
+      "offset": 600,
       "length": 9,
       "value": "\"storeId\""
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification-iOS-Framework\/UserVerification\/repository\/model\/request\/UploadIdDataModel.swift",
       "kind": "StringLiteral",
-      "offset": 606,
+      "offset": 639,
       "length": 15,
       "value": "\"storePassword\""
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification-iOS-Framework\/UserVerification\/repository\/model\/request\/UploadIdDataModel.swift",
       "kind": "StringLiteral",
-      "offset": 644,
+      "offset": 677,
       "length": 8,
       "value": "\"userId\""
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification-iOS-Framework\/UserVerification\/repository\/model\/request\/UploadIdDataModel.swift",
       "kind": "StringLiteral",
-      "offset": 679,
+      "offset": 712,
       "length": 12,
       "value": "\"deviceInfo\""
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification-iOS-Framework\/UserVerification\/repository\/model\/request\/UploadIdDataModel.swift",
       "kind": "StringLiteral",
-      "offset": 718,
+      "offset": 751,
       "length": 12,
       "value": "\"sdkVersion\""
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification-iOS-Framework\/UserVerification\/repository\/model\/request\/UploadIdDataModel.swift",
       "kind": "StringLiteral",
-      "offset": 761,
+      "offset": 788,
+      "length": 10,
+      "value": "\"platform\""
+    },
+    {
+      "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification-iOS-Framework\/UserVerification\/repository\/model\/request\/UploadIdDataModel.swift",
+      "kind": "StringLiteral",
+      "offset": 829,
       "length": 11,
       "value": "\"frontSide\""
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification-iOS-Framework\/UserVerification\/repository\/model\/request\/UploadIdDataModel.swift",
       "kind": "StringLiteral",
-      "offset": 802,
+      "offset": 870,
       "length": 10,
       "value": "\"backSide\""
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification-iOS-Framework\/UserVerification\/repository\/model\/request\/UploadIdDataModel.swift",
       "kind": "StringLiteral",
-      "offset": 842,
+      "offset": 910,
       "length": 11,
       "value": "\"userImage\""
     },
@@ -8944,308 +8944,329 @@
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification-iOS-Framework\/UserVerification\/repository\/model\/request\/UVDataModel.swift",
       "kind": "StringLiteral",
-      "offset": 544,
+      "offset": 357,
+      "length": 5,
+      "value": "\"iOS\""
+    },
+    {
+      "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification-iOS-Framework\/UserVerification\/repository\/model\/request\/UVDataModel.swift",
+      "kind": "StringLiteral",
+      "offset": 577,
       "length": 9,
       "value": "\"country\""
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification-iOS-Framework\/UserVerification\/repository\/model\/request\/UVDataModel.swift",
       "kind": "StringLiteral",
-      "offset": 576,
+      "offset": 609,
       "length": 8,
       "value": "\"idType\""
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification-iOS-Framework\/UserVerification\/repository\/model\/request\/UVDataModel.swift",
       "kind": "StringLiteral",
-      "offset": 608,
+      "offset": 641,
       "length": 9,
       "value": "\"idValue\""
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification-iOS-Framework\/UserVerification\/repository\/model\/request\/UVDataModel.swift",
       "kind": "StringLiteral",
-      "offset": 641,
+      "offset": 674,
       "length": 9,
       "value": "\"storeId\""
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification-iOS-Framework\/UserVerification\/repository\/model\/request\/UVDataModel.swift",
       "kind": "StringLiteral",
-      "offset": 680,
+      "offset": 713,
       "length": 15,
       "value": "\"storePassword\""
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification-iOS-Framework\/UserVerification\/repository\/model\/request\/UVDataModel.swift",
       "kind": "StringLiteral",
-      "offset": 722,
+      "offset": 755,
       "length": 12,
       "value": "\"deviceInfo\""
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification-iOS-Framework\/UserVerification\/repository\/model\/request\/UVDataModel.swift",
       "kind": "StringLiteral",
-      "offset": 761,
+      "offset": 794,
       "length": 12,
       "value": "\"sdkVersion\""
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification-iOS-Framework\/UserVerification\/repository\/model\/request\/UVDataModel.swift",
       "kind": "StringLiteral",
-      "offset": 801,
+      "offset": 831,
+      "length": 10,
+      "value": "\"platform\""
+    },
+    {
+      "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification-iOS-Framework\/UserVerification\/repository\/model\/request\/UVDataModel.swift",
+      "kind": "StringLiteral",
+      "offset": 869,
       "length": 17,
       "value": "\"frontIdDataInfo\""
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification-iOS-Framework\/UserVerification\/repository\/model\/request\/UVDataModel.swift",
       "kind": "StringLiteral",
-      "offset": 851,
+      "offset": 919,
       "length": 13,
       "value": "\"frontIdInfo\""
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification-iOS-Framework\/UserVerification\/repository\/model\/request\/UVDataModel.swift",
       "kind": "StringLiteral",
-      "offset": 891,
+      "offset": 959,
       "length": 16,
       "value": "\"backIdDataInfo\""
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification-iOS-Framework\/UserVerification\/repository\/model\/request\/UVDataModel.swift",
       "kind": "StringLiteral",
-      "offset": 939,
+      "offset": 1007,
       "length": 12,
       "value": "\"backIdInfo\""
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification-iOS-Framework\/UserVerification\/repository\/model\/request\/UVDataModel.swift",
       "kind": "StringLiteral",
-      "offset": 544,
+      "offset": 577,
       "length": 9,
       "value": "\"country\""
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification-iOS-Framework\/UserVerification\/repository\/model\/request\/UVDataModel.swift",
       "kind": "StringLiteral",
-      "offset": 576,
+      "offset": 609,
       "length": 8,
       "value": "\"idType\""
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification-iOS-Framework\/UserVerification\/repository\/model\/request\/UVDataModel.swift",
       "kind": "StringLiteral",
-      "offset": 608,
+      "offset": 641,
       "length": 9,
       "value": "\"idValue\""
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification-iOS-Framework\/UserVerification\/repository\/model\/request\/UVDataModel.swift",
       "kind": "StringLiteral",
-      "offset": 641,
+      "offset": 674,
       "length": 9,
       "value": "\"storeId\""
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification-iOS-Framework\/UserVerification\/repository\/model\/request\/UVDataModel.swift",
       "kind": "StringLiteral",
-      "offset": 680,
+      "offset": 713,
       "length": 15,
       "value": "\"storePassword\""
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification-iOS-Framework\/UserVerification\/repository\/model\/request\/UVDataModel.swift",
       "kind": "StringLiteral",
-      "offset": 722,
+      "offset": 755,
       "length": 12,
       "value": "\"deviceInfo\""
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification-iOS-Framework\/UserVerification\/repository\/model\/request\/UVDataModel.swift",
       "kind": "StringLiteral",
-      "offset": 761,
+      "offset": 794,
       "length": 12,
       "value": "\"sdkVersion\""
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification-iOS-Framework\/UserVerification\/repository\/model\/request\/UVDataModel.swift",
       "kind": "StringLiteral",
-      "offset": 801,
+      "offset": 831,
+      "length": 10,
+      "value": "\"platform\""
+    },
+    {
+      "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification-iOS-Framework\/UserVerification\/repository\/model\/request\/UVDataModel.swift",
+      "kind": "StringLiteral",
+      "offset": 869,
       "length": 17,
       "value": "\"frontIdDataInfo\""
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification-iOS-Framework\/UserVerification\/repository\/model\/request\/UVDataModel.swift",
       "kind": "StringLiteral",
-      "offset": 851,
+      "offset": 919,
       "length": 13,
       "value": "\"frontIdInfo\""
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification-iOS-Framework\/UserVerification\/repository\/model\/request\/UVDataModel.swift",
       "kind": "StringLiteral",
-      "offset": 891,
+      "offset": 959,
       "length": 16,
       "value": "\"backIdDataInfo\""
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification-iOS-Framework\/UserVerification\/repository\/model\/request\/UVDataModel.swift",
       "kind": "StringLiteral",
-      "offset": 939,
+      "offset": 1007,
       "length": 12,
       "value": "\"backIdInfo\""
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification-iOS-Framework\/UserVerification\/repository\/model\/request\/UVDataModel.swift",
       "kind": "StringLiteral",
-      "offset": 1157,
+      "offset": 1225,
       "length": 13,
       "value": "\"imageHeight\""
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification-iOS-Framework\/UserVerification\/repository\/model\/request\/UVDataModel.swift",
       "kind": "StringLiteral",
-      "offset": 1197,
+      "offset": 1265,
       "length": 12,
       "value": "\"imageWidth\""
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification-iOS-Framework\/UserVerification\/repository\/model\/request\/UVDataModel.swift",
       "kind": "StringLiteral",
-      "offset": 1239,
+      "offset": 1307,
       "length": 15,
       "value": "\"textDataModel\""
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification-iOS-Framework\/UserVerification\/repository\/model\/request\/UVDataModel.swift",
       "kind": "StringLiteral",
-      "offset": 1157,
+      "offset": 1225,
       "length": 13,
       "value": "\"imageHeight\""
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification-iOS-Framework\/UserVerification\/repository\/model\/request\/UVDataModel.swift",
       "kind": "StringLiteral",
-      "offset": 1197,
+      "offset": 1265,
       "length": 12,
       "value": "\"imageWidth\""
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification-iOS-Framework\/UserVerification\/repository\/model\/request\/UVDataModel.swift",
       "kind": "StringLiteral",
-      "offset": 1239,
+      "offset": 1307,
       "length": 15,
       "value": "\"textDataModel\""
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification-iOS-Framework\/UserVerification\/repository\/model\/request\/UVDataModel.swift",
       "kind": "StringLiteral",
-      "offset": 1448,
+      "offset": 1516,
       "length": 5,
       "value": "\"key\""
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification-iOS-Framework\/UserVerification\/repository\/model\/request\/UVDataModel.swift",
       "kind": "StringLiteral",
-      "offset": 1478,
+      "offset": 1546,
       "length": 10,
       "value": "\"language\""
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification-iOS-Framework\/UserVerification\/repository\/model\/request\/UVDataModel.swift",
       "kind": "StringLiteral",
-      "offset": 1509,
+      "offset": 1577,
       "length": 6,
       "value": "\"rect\""
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification-iOS-Framework\/UserVerification\/repository\/model\/request\/UVDataModel.swift",
       "kind": "StringLiteral",
-      "offset": 1536,
+      "offset": 1604,
       "length": 6,
       "value": "\"text\""
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification-iOS-Framework\/UserVerification\/repository\/model\/request\/UVDataModel.swift",
       "kind": "StringLiteral",
-      "offset": 1448,
+      "offset": 1516,
       "length": 5,
       "value": "\"key\""
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification-iOS-Framework\/UserVerification\/repository\/model\/request\/UVDataModel.swift",
       "kind": "StringLiteral",
-      "offset": 1478,
+      "offset": 1546,
       "length": 10,
       "value": "\"language\""
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification-iOS-Framework\/UserVerification\/repository\/model\/request\/UVDataModel.swift",
       "kind": "StringLiteral",
-      "offset": 1509,
+      "offset": 1577,
       "length": 6,
       "value": "\"rect\""
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification-iOS-Framework\/UserVerification\/repository\/model\/request\/UVDataModel.swift",
       "kind": "StringLiteral",
-      "offset": 1536,
+      "offset": 1604,
       "length": 6,
       "value": "\"text\""
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification-iOS-Framework\/UserVerification\/repository\/model\/request\/UVDataModel.swift",
       "kind": "StringLiteral",
-      "offset": 1716,
+      "offset": 1784,
       "length": 5,
       "value": "\"top\""
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification-iOS-Framework\/UserVerification\/repository\/model\/request\/UVDataModel.swift",
       "kind": "StringLiteral",
-      "offset": 1744,
+      "offset": 1812,
       "length": 8,
       "value": "\"bottom\""
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification-iOS-Framework\/UserVerification\/repository\/model\/request\/UVDataModel.swift",
       "kind": "StringLiteral",
-      "offset": 1773,
+      "offset": 1841,
       "length": 6,
       "value": "\"left\""
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification-iOS-Framework\/UserVerification\/repository\/model\/request\/UVDataModel.swift",
       "kind": "StringLiteral",
-      "offset": 1801,
+      "offset": 1869,
       "length": 7,
       "value": "\"right\""
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification-iOS-Framework\/UserVerification\/repository\/model\/request\/UVDataModel.swift",
       "kind": "StringLiteral",
-      "offset": 1716,
+      "offset": 1784,
       "length": 5,
       "value": "\"top\""
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification-iOS-Framework\/UserVerification\/repository\/model\/request\/UVDataModel.swift",
       "kind": "StringLiteral",
-      "offset": 1744,
+      "offset": 1812,
       "length": 8,
       "value": "\"bottom\""
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification-iOS-Framework\/UserVerification\/repository\/model\/request\/UVDataModel.swift",
       "kind": "StringLiteral",
-      "offset": 1773,
+      "offset": 1841,
       "length": 6,
       "value": "\"left\""
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification-iOS-Framework\/UserVerification\/repository\/model\/request\/UVDataModel.swift",
       "kind": "StringLiteral",
-      "offset": 1801,
+      "offset": 1869,
       "length": 7,
       "value": "\"right\""
     },
@@ -9504,14 +9525,14 @@
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification-iOS-Framework\/UserVerification\/nfc\/model\/NFCResponseModel.swift",
       "kind": "Dictionary",
-      "offset": 7009,
+      "offset": 7210,
       "length": 3,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification-iOS-Framework\/UserVerification\/nfc\/model\/NFCResponseModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 8136,
+      "offset": 8337,
       "length": 5,
       "value": "false"
     },
@@ -10274,126 +10295,147 @@
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification-iOS-Framework\/UserVerification\/repository\/model\/request\/UploadSelfieDataModel.swift",
       "kind": "StringLiteral",
-      "offset": 491,
+      "offset": 327,
+      "length": 5,
+      "value": "\"iOS\""
+    },
+    {
+      "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification-iOS-Framework\/UserVerification\/repository\/model\/request\/UploadSelfieDataModel.swift",
+      "kind": "StringLiteral",
+      "offset": 524,
       "length": 9,
       "value": "\"storeId\""
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification-iOS-Framework\/UserVerification\/repository\/model\/request\/UploadSelfieDataModel.swift",
       "kind": "StringLiteral",
-      "offset": 530,
+      "offset": 563,
       "length": 15,
       "value": "\"storePassword\""
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification-iOS-Framework\/UserVerification\/repository\/model\/request\/UploadSelfieDataModel.swift",
       "kind": "StringLiteral",
-      "offset": 568,
+      "offset": 601,
       "length": 8,
       "value": "\"userId\""
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification-iOS-Framework\/UserVerification\/repository\/model\/request\/UploadSelfieDataModel.swift",
       "kind": "StringLiteral",
-      "offset": 603,
+      "offset": 636,
       "length": 12,
       "value": "\"deviceInfo\""
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification-iOS-Framework\/UserVerification\/repository\/model\/request\/UploadSelfieDataModel.swift",
       "kind": "StringLiteral",
-      "offset": 642,
+      "offset": 675,
       "length": 12,
       "value": "\"sdkVersion\""
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification-iOS-Framework\/UserVerification\/repository\/model\/request\/UploadSelfieDataModel.swift",
       "kind": "StringLiteral",
-      "offset": 683,
+      "offset": 712,
+      "length": 10,
+      "value": "\"platform\""
+    },
+    {
+      "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification-iOS-Framework\/UserVerification\/repository\/model\/request\/UploadSelfieDataModel.swift",
+      "kind": "StringLiteral",
+      "offset": 751,
       "length": 14,
       "value": "\"isBackCamera\""
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification-iOS-Framework\/UserVerification\/repository\/model\/request\/UploadSelfieDataModel.swift",
       "kind": "StringLiteral",
-      "offset": 725,
+      "offset": 793,
       "length": 13,
       "value": "\"selfieImage\""
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification-iOS-Framework\/UserVerification\/repository\/model\/request\/UploadSelfieDataModel.swift",
       "kind": "StringLiteral",
-      "offset": 770,
+      "offset": 838,
       "length": 22,
       "value": "\"optionalSelfieImage1\""
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification-iOS-Framework\/UserVerification\/repository\/model\/request\/UploadSelfieDataModel.swift",
       "kind": "StringLiteral",
-      "offset": 824,
+      "offset": 892,
       "length": 22,
       "value": "\"optionalSelfieImage2\""
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification-iOS-Framework\/UserVerification\/repository\/model\/request\/UploadSelfieDataModel.swift",
       "kind": "StringLiteral",
-      "offset": 491,
+      "offset": 524,
       "length": 9,
       "value": "\"storeId\""
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification-iOS-Framework\/UserVerification\/repository\/model\/request\/UploadSelfieDataModel.swift",
       "kind": "StringLiteral",
-      "offset": 530,
+      "offset": 563,
       "length": 15,
       "value": "\"storePassword\""
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification-iOS-Framework\/UserVerification\/repository\/model\/request\/UploadSelfieDataModel.swift",
       "kind": "StringLiteral",
-      "offset": 568,
+      "offset": 601,
       "length": 8,
       "value": "\"userId\""
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification-iOS-Framework\/UserVerification\/repository\/model\/request\/UploadSelfieDataModel.swift",
       "kind": "StringLiteral",
-      "offset": 603,
+      "offset": 636,
       "length": 12,
       "value": "\"deviceInfo\""
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification-iOS-Framework\/UserVerification\/repository\/model\/request\/UploadSelfieDataModel.swift",
       "kind": "StringLiteral",
-      "offset": 642,
+      "offset": 675,
       "length": 12,
       "value": "\"sdkVersion\""
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification-iOS-Framework\/UserVerification\/repository\/model\/request\/UploadSelfieDataModel.swift",
       "kind": "StringLiteral",
-      "offset": 683,
+      "offset": 712,
+      "length": 10,
+      "value": "\"platform\""
+    },
+    {
+      "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification-iOS-Framework\/UserVerification\/repository\/model\/request\/UploadSelfieDataModel.swift",
+      "kind": "StringLiteral",
+      "offset": 751,
       "length": 14,
       "value": "\"isBackCamera\""
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification-iOS-Framework\/UserVerification\/repository\/model\/request\/UploadSelfieDataModel.swift",
       "kind": "StringLiteral",
-      "offset": 725,
+      "offset": 793,
       "length": 13,
       "value": "\"selfieImage\""
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification-iOS-Framework\/UserVerification\/repository\/model\/request\/UploadSelfieDataModel.swift",
       "kind": "StringLiteral",
-      "offset": 770,
+      "offset": 838,
       "length": 22,
       "value": "\"optionalSelfieImage1\""
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification-iOS-Framework\/UserVerification\/repository\/model\/request\/UploadSelfieDataModel.swift",
       "kind": "StringLiteral",
-      "offset": 824,
+      "offset": 892,
       "length": 22,
       "value": "\"optionalSelfieImage2\""
     },
@@ -10568,126 +10610,161 @@
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification-iOS-Framework\/UserVerification\/repository\/model\/request\/UploadNFCDataModel.swift",
       "kind": "StringLiteral",
-      "offset": 490,
+      "offset": 321,
+      "length": 5,
+      "value": "\"iOS\""
+    },
+    {
+      "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification-iOS-Framework\/UserVerification\/repository\/model\/request\/UploadNFCDataModel.swift",
+      "kind": "StringLiteral",
+      "offset": 549,
       "length": 9,
       "value": "\"storeId\""
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification-iOS-Framework\/UserVerification\/repository\/model\/request\/UploadNFCDataModel.swift",
       "kind": "StringLiteral",
-      "offset": 529,
+      "offset": 588,
       "length": 15,
       "value": "\"storePassword\""
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification-iOS-Framework\/UserVerification\/repository\/model\/request\/UploadNFCDataModel.swift",
       "kind": "StringLiteral",
-      "offset": 567,
+      "offset": 626,
       "length": 8,
       "value": "\"userId\""
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification-iOS-Framework\/UserVerification\/repository\/model\/request\/UploadNFCDataModel.swift",
       "kind": "StringLiteral",
-      "offset": 602,
+      "offset": 661,
       "length": 12,
       "value": "\"deviceInfo\""
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification-iOS-Framework\/UserVerification\/repository\/model\/request\/UploadNFCDataModel.swift",
       "kind": "StringLiteral",
-      "offset": 641,
+      "offset": 700,
       "length": 12,
       "value": "\"sdkVersion\""
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification-iOS-Framework\/UserVerification\/repository\/model\/request\/UploadNFCDataModel.swift",
       "kind": "StringLiteral",
-      "offset": 676,
+      "offset": 737,
+      "length": 10,
+      "value": "\"platform\""
+    },
+    {
+      "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification-iOS-Framework\/UserVerification\/repository\/model\/request\/UploadNFCDataModel.swift",
+      "kind": "StringLiteral",
+      "offset": 770,
       "length": 12,
       "value": "\"nfcMRZData\""
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification-iOS-Framework\/UserVerification\/repository\/model\/request\/UploadNFCDataModel.swift",
       "kind": "StringLiteral",
-      "offset": 720,
+      "offset": 814,
       "length": 17,
       "value": "\"nfcProfileImage\""
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification-iOS-Framework\/UserVerification\/repository\/model\/request\/UploadNFCDataModel.swift",
       "kind": "StringLiteral",
-      "offset": 771,
+      "offset": 865,
       "length": 19,
       "value": "\"nfcSignatureImage\""
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification-iOS-Framework\/UserVerification\/repository\/model\/request\/UploadNFCDataModel.swift",
       "kind": "StringLiteral",
-      "offset": 819,
+      "offset": 909,
+      "length": 10,
+      "value": "\"dg11Data\""
+    },
+    {
+      "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification-iOS-Framework\/UserVerification\/repository\/model\/request\/UploadNFCDataModel.swift",
+      "kind": "StringLiteral",
+      "offset": 948,
       "length": 14,
       "value": "\"nfcDataModel\""
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification-iOS-Framework\/UserVerification\/repository\/model\/request\/UploadNFCDataModel.swift",
       "kind": "StringLiteral",
-      "offset": 490,
+      "offset": 549,
       "length": 9,
       "value": "\"storeId\""
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification-iOS-Framework\/UserVerification\/repository\/model\/request\/UploadNFCDataModel.swift",
       "kind": "StringLiteral",
-      "offset": 529,
+      "offset": 588,
       "length": 15,
       "value": "\"storePassword\""
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification-iOS-Framework\/UserVerification\/repository\/model\/request\/UploadNFCDataModel.swift",
       "kind": "StringLiteral",
-      "offset": 567,
+      "offset": 626,
       "length": 8,
       "value": "\"userId\""
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification-iOS-Framework\/UserVerification\/repository\/model\/request\/UploadNFCDataModel.swift",
       "kind": "StringLiteral",
-      "offset": 602,
+      "offset": 661,
       "length": 12,
       "value": "\"deviceInfo\""
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification-iOS-Framework\/UserVerification\/repository\/model\/request\/UploadNFCDataModel.swift",
       "kind": "StringLiteral",
-      "offset": 641,
+      "offset": 700,
       "length": 12,
       "value": "\"sdkVersion\""
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification-iOS-Framework\/UserVerification\/repository\/model\/request\/UploadNFCDataModel.swift",
       "kind": "StringLiteral",
-      "offset": 676,
+      "offset": 737,
+      "length": 10,
+      "value": "\"platform\""
+    },
+    {
+      "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification-iOS-Framework\/UserVerification\/repository\/model\/request\/UploadNFCDataModel.swift",
+      "kind": "StringLiteral",
+      "offset": 770,
       "length": 12,
       "value": "\"nfcMRZData\""
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification-iOS-Framework\/UserVerification\/repository\/model\/request\/UploadNFCDataModel.swift",
       "kind": "StringLiteral",
-      "offset": 720,
+      "offset": 814,
       "length": 17,
       "value": "\"nfcProfileImage\""
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification-iOS-Framework\/UserVerification\/repository\/model\/request\/UploadNFCDataModel.swift",
       "kind": "StringLiteral",
-      "offset": 771,
+      "offset": 865,
       "length": 19,
       "value": "\"nfcSignatureImage\""
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification-iOS-Framework\/UserVerification\/repository\/model\/request\/UploadNFCDataModel.swift",
       "kind": "StringLiteral",
-      "offset": 819,
+      "offset": 909,
+      "length": 10,
+      "value": "\"dg11Data\""
+    },
+    {
+      "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification-iOS-Framework\/UserVerification\/repository\/model\/request\/UploadNFCDataModel.swift",
+      "kind": "StringLiteral",
+      "offset": 948,
       "length": 14,
       "value": "\"nfcDataModel\""
     },

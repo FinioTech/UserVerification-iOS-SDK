@@ -4,7 +4,7 @@ import PackageDescription
 
 let package = Package(
     name: "UserVerification",
-    platforms: [.iOS(.v12)],
+    platforms: [.iOS(.v13)],
     products: [
         .library(
             name: "UserVerification",
@@ -16,8 +16,8 @@ let package = Package(
     targets: [
         .binaryTarget(
            name: "UserVerification",
-           url: "https://github.com/FinioTech/UserVerification-iOS-SDK/releases/download/1.2.1/UserVerification.xcframework.zip",
-           checksum: "d5768f2b92ce17371ba65d305e236ef833061f916a9725374ef3ba4658dda32b"
+           url: "https://github.com/FinioTech/UserVerification-iOS-SDK/releases/download/1.2.2/UserVerification.xcframework.zip",
+           checksum: "7bf61d7d406fcd9abfb19a18dedb01f95c7a19b17ced5ba2684294b9acacf806"
         )
     ],
     swiftLanguageVersions: [.v5]
