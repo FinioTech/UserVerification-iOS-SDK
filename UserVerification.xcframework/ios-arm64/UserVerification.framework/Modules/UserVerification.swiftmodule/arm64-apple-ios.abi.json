@@ -7658,7 +7658,7 @@
       "kind": "StringLiteral",
       "offset": 221,
       "length": 7,
-      "value": "\"1.2.2\""
+      "value": "\"1.2.3\""
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification-iOS-Framework\/UserVerification\/constant\/Constants.swift",
@@ -9525,14 +9525,14 @@
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification-iOS-Framework\/UserVerification\/nfc\/model\/NFCResponseModel.swift",
       "kind": "Dictionary",
-      "offset": 7210,
+      "offset": 7383,
       "length": 3,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification-iOS-Framework\/UserVerification\/nfc\/model\/NFCResponseModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 8337,
+      "offset": 8510,
       "length": 5,
       "value": "false"
     },
@@ -10617,154 +10617,168 @@
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification-iOS-Framework\/UserVerification\/repository\/model\/request\/UploadNFCDataModel.swift",
       "kind": "StringLiteral",
-      "offset": 549,
+      "offset": 575,
       "length": 9,
       "value": "\"storeId\""
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification-iOS-Framework\/UserVerification\/repository\/model\/request\/UploadNFCDataModel.swift",
       "kind": "StringLiteral",
-      "offset": 588,
+      "offset": 614,
       "length": 15,
       "value": "\"storePassword\""
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification-iOS-Framework\/UserVerification\/repository\/model\/request\/UploadNFCDataModel.swift",
       "kind": "StringLiteral",
-      "offset": 626,
+      "offset": 652,
       "length": 8,
       "value": "\"userId\""
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification-iOS-Framework\/UserVerification\/repository\/model\/request\/UploadNFCDataModel.swift",
       "kind": "StringLiteral",
-      "offset": 661,
+      "offset": 687,
       "length": 12,
       "value": "\"deviceInfo\""
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification-iOS-Framework\/UserVerification\/repository\/model\/request\/UploadNFCDataModel.swift",
       "kind": "StringLiteral",
-      "offset": 700,
+      "offset": 726,
       "length": 12,
       "value": "\"sdkVersion\""
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification-iOS-Framework\/UserVerification\/repository\/model\/request\/UploadNFCDataModel.swift",
       "kind": "StringLiteral",
-      "offset": 737,
+      "offset": 763,
       "length": 10,
       "value": "\"platform\""
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification-iOS-Framework\/UserVerification\/repository\/model\/request\/UploadNFCDataModel.swift",
       "kind": "StringLiteral",
-      "offset": 770,
+      "offset": 796,
       "length": 12,
       "value": "\"nfcMRZData\""
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification-iOS-Framework\/UserVerification\/repository\/model\/request\/UploadNFCDataModel.swift",
       "kind": "StringLiteral",
-      "offset": 814,
+      "offset": 840,
       "length": 17,
       "value": "\"nfcProfileImage\""
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification-iOS-Framework\/UserVerification\/repository\/model\/request\/UploadNFCDataModel.swift",
       "kind": "StringLiteral",
-      "offset": 865,
+      "offset": 891,
       "length": 19,
       "value": "\"nfcSignatureImage\""
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification-iOS-Framework\/UserVerification\/repository\/model\/request\/UploadNFCDataModel.swift",
       "kind": "StringLiteral",
-      "offset": 909,
+      "offset": 935,
+      "length": 10,
+      "value": "\"commData\""
+    },
+    {
+      "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification-iOS-Framework\/UserVerification\/repository\/model\/request\/UploadNFCDataModel.swift",
+      "kind": "StringLiteral",
+      "offset": 970,
       "length": 10,
       "value": "\"dg11Data\""
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification-iOS-Framework\/UserVerification\/repository\/model\/request\/UploadNFCDataModel.swift",
       "kind": "StringLiteral",
-      "offset": 948,
+      "offset": 1009,
       "length": 14,
       "value": "\"nfcDataModel\""
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification-iOS-Framework\/UserVerification\/repository\/model\/request\/UploadNFCDataModel.swift",
       "kind": "StringLiteral",
-      "offset": 549,
+      "offset": 575,
       "length": 9,
       "value": "\"storeId\""
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification-iOS-Framework\/UserVerification\/repository\/model\/request\/UploadNFCDataModel.swift",
       "kind": "StringLiteral",
-      "offset": 588,
+      "offset": 614,
       "length": 15,
       "value": "\"storePassword\""
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification-iOS-Framework\/UserVerification\/repository\/model\/request\/UploadNFCDataModel.swift",
       "kind": "StringLiteral",
-      "offset": 626,
+      "offset": 652,
       "length": 8,
       "value": "\"userId\""
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification-iOS-Framework\/UserVerification\/repository\/model\/request\/UploadNFCDataModel.swift",
       "kind": "StringLiteral",
-      "offset": 661,
+      "offset": 687,
       "length": 12,
       "value": "\"deviceInfo\""
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification-iOS-Framework\/UserVerification\/repository\/model\/request\/UploadNFCDataModel.swift",
       "kind": "StringLiteral",
-      "offset": 700,
+      "offset": 726,
       "length": 12,
       "value": "\"sdkVersion\""
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification-iOS-Framework\/UserVerification\/repository\/model\/request\/UploadNFCDataModel.swift",
       "kind": "StringLiteral",
-      "offset": 737,
+      "offset": 763,
       "length": 10,
       "value": "\"platform\""
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification-iOS-Framework\/UserVerification\/repository\/model\/request\/UploadNFCDataModel.swift",
       "kind": "StringLiteral",
-      "offset": 770,
+      "offset": 796,
       "length": 12,
       "value": "\"nfcMRZData\""
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification-iOS-Framework\/UserVerification\/repository\/model\/request\/UploadNFCDataModel.swift",
       "kind": "StringLiteral",
-      "offset": 814,
+      "offset": 840,
       "length": 17,
       "value": "\"nfcProfileImage\""
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification-iOS-Framework\/UserVerification\/repository\/model\/request\/UploadNFCDataModel.swift",
       "kind": "StringLiteral",
-      "offset": 865,
+      "offset": 891,
       "length": 19,
       "value": "\"nfcSignatureImage\""
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification-iOS-Framework\/UserVerification\/repository\/model\/request\/UploadNFCDataModel.swift",
       "kind": "StringLiteral",
-      "offset": 909,
+      "offset": 935,
+      "length": 10,
+      "value": "\"commData\""
+    },
+    {
+      "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification-iOS-Framework\/UserVerification\/repository\/model\/request\/UploadNFCDataModel.swift",
+      "kind": "StringLiteral",
+      "offset": 970,
       "length": 10,
       "value": "\"dg11Data\""
     },
     {
       "filePath": "\/Users\/sahidul\/Documents\/Newroz\/ios\/UserVerification-iOS-Framework\/UserVerification\/repository\/model\/request\/UploadNFCDataModel.swift",
       "kind": "StringLiteral",
-      "offset": 948,
+      "offset": 1009,
       "length": 14,
       "value": "\"nfcDataModel\""
     },
