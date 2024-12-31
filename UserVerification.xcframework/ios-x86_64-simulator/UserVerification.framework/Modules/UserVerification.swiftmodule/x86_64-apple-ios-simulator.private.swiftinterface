@@ -50,8 +50,20 @@ public struct NFCTagDataModel {
   public let faceImage: UIKit.UIImage?
   public let signatureImage: UIKit.UIImage?
   public let issuerCountry: Swift.String?
+  public let dgFound: [Swift.String]?
+  public let docSecurity: DocumentSecurityModel?
 }
 public struct DocumentSecurityModel {
+  public let ldsVersion: Swift.String?
+  public let ldsHashAlgorithm: Swift.String?
+  public let signatureAlgorithm: Swift.String?
+  public let activeAuthSupported: Swift.Bool?
+  public let issuerOrgUnit: Swift.String?
+  public let issuerOrganization: Swift.String?
+  public let issuerCountry: Swift.String?
+  public let issuerCertAuthority: Swift.String?
+  public let validFromDate: Swift.String?
+  public let validUntilDate: Swift.String?
 }
 public class NFCTagReader {
   public init(tag: any CoreNFC.NFCISO7816Tag)
