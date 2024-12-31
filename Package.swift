@@ -16,8 +16,8 @@ let package = Package(
     targets: [
         .binaryTarget(
            name: "UserVerification",
-           url: "https://github.com/FinioTech/UserVerification-iOS-SDK/releases/download/1.2.3/UserVerification.xcframework.zip",
-           checksum: "230d31e3367167473d388328bc8a3d5ba653e37b956657c36c91b4c3a7805a57"
+           url: "https://github.com/FinioTech/UserVerification-iOS-SDK/releases/download/1.2.1.1/UserVerification.xcframework.zip",
+           checksum: "4d695c0192ad50c60f549fef4de47fdf8629aae7b71c668ed66121e5ce6496c0"
         )
     ],
     swiftLanguageVersions: [.v5]
